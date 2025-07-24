@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.indic_env/
+
+# VSCode and editor folders
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Test coverage / profiling
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Windows files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# macOS files
+*.DS_Store
+
+# Log files
+*.log
+
+# PDF output and intermediate images
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tiff
+
+# Data & outputs
+output.txt
+*.out
+*.dat
+
+# Poppler binaries (if included)
+poppler-*/
+
+# Model checkpoints and large data
+*.pt
+*.pth
+/model
+/checkpoints
+final_bin/
+vocab/
+
+# Installer files
+*.exe
+*.msi
+
+# Pip files
+pip-log.txt
+
+# Local configuration
+*.env
+.env.*
+
+# Ignore custom user data
+Pdf/
