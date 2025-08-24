@@ -1,0 +1,36 @@
+
+--- Page 1 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 2 ---
+Of course, here is the OCR, correction, and translation of the provided document.
+
+### Corrected Kannada
+
+ಅನುಬಂಧ
+
+---
+
+### English Translation
+
+Annexure
+
+**Accepted Quantity and Rates of Maize offered in the RfP during Kharif 2025**
+(Quantity in quintals, Rate in Rs. per quintal)
+
+| Sl. No. | Supplier Name | Variety/ Hybrid | Kharif 2025 Truthfully Labelled |
+| :--- | :--- | :--- | :--- |
+| | | | **Accepted Quantity** | **Accepted Rate** |
+| 1 | Arunodaya Seeds Pvt Ltd | JP-2007 | 500 | 27600 |
+| 2 | Kaveri Seed Company Ltd | KMH-8322 | 2500 | 33078 |
+| 3 | Agro Distributors | 3033 (747) | 2000 | 28000 |
+| 4 | Kaveri Seed Company Ltd | KMH 25K55 | 3000 | 36408 |
+| 5 | Star Agrotech Pvt ltd | Kuber 722 | 1200 | 25300 |
+| 6 | Priya Agencies | NK-6540 | 2100 | 32480 |
+| 7 | Ganga Kaveri Seeds Pvt Ltd | GK-3059 | 5000 | 37400 |
+| 8 | Varada Agencies | MRM-4064 | 1500 | 31300 |
+| 9 | Siri seeds India Pvt Ltd | Siri-4429(Siri 4527) | 1000 | 24500 |
+| 10 | Mahati Seed Science Pvt Ltd | Royal Gold (S-4717) | 1500 | 31350 |
+
+(Signature)
+Director of Agriculture

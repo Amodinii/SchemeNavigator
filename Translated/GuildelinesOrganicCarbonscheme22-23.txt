@@ -1,0 +1,150 @@
+
+--- Page 1 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 2 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 3 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 4 ---
+Here is the OCR, correction, and translation of the provided Kannada document.
+
+### **Corrected Kannada Text**
+
+2022-23ನೇ ಸಾಲಿನ ಈ ಕೆಳಕಂಡ ಘಟಕಗಳನ್ನು ಅನುಷ್ಠಾನಿಸುವುದು.
+
+ಅ) ಸಾವಯವ ಇಂಗಾಲ ಹೆಚ್ಚಿಸುವ ಪ್ರೋತ್ಸಾಹಧನ:
+ಸಾವಯವ ಇಂಗಾಲ ಹೆಚ್ಚಿಸುವ ನಿಖರ ತಾಂತ್ರಿಕತೆಯನ್ನು ರೈತರು ಬಳಸುವ ನಿಟ್ಟಿನಲ್ಲಿ ರೈತನಿಗೆ ವಾರ್ಷಿಕವಾಗಿ ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ ರೂ.2500/- ಗಳನ್ನು (ಶೇ.100) ಮೀರದಂತೆ ಒದಗಿಸಿ, ಹೆಚ್ಚುವರಿ ಸಾವಯವ ಇಂಗಾಲ ಉತ್ಪಾದಿಸಿ ಉಳಿಸುವುದರಿಂದ ಬರುವ ಆದಾಯದ ಬಗ್ಗೆ ರೈತರಿಗೆ ಅರಿವು ಮೂಡಿಸಲು, ಪ್ರೋತ್ಸಾಹಧನವನ್ನು ಕೃಷಿ ಇಲಾಖೆ ವತಿಯಿಂದ ರೈತರ ಖಾತೆಗಳಿಗೆ ನೇರವಾಗಿ ವರ್ಗಾಯಿಸಲಾಗುವುದು. ನಿರ್ಧಿಷ್ಟಪಡಿಸಿದ ಸಹಾಯಧನವನ್ನು ಮೀರಿ ತಗಲುವ ವೆಚ್ಚವನ್ನು ಫಲಾನುಭವಿ ರೈತರೇ ಭರಿಸುವುದು. ಪ್ರತಿ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಒಂದು ತಾಲೂಕು ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡು ಆ ತಾಲೂಕಿನ ಎಲ್ಲಾ ರೈತರಿಗೆ ಪ್ರೋತ್ಸಾಹಧನವನ್ನು ವಿತರಿಸಲಾಗುವುದು. ಪ್ರತಿ ವಿಭಾಗದ ಕೇಂದ್ರಗಳಲ್ಲಿನ ಉತ್ಕೃಷ್ಟತೆಯ ಕೇಂದ್ರಗಳಲ್ಲಿ ಹೆಚ್ಚುವರಿ ಸಾವಯವ ಇಂಗಾಲ ಹೆಚ್ಚಿಸುವ ಬಗ್ಗೆ ಪ್ರಾತ್ಯಕ್ಷತೆಗಳನ್ನು ಏರ್ಪಡಿಸಿ ಪ್ರೋತ್ಸಾಹಧನವನ್ನು ಜಾರಿಗೊಳಿಸಲಾಗುವುದು.
+
+ಒಂದೇ ರೈತರಿಗೆ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಪ್ರಾತ್ಯಕ್ಷಿಕೆಗಳನ್ನು ನೀಡಬಹುದಾಗಿದೆ. ಪ್ರಾದೇಶಿಕ ಕೃಷಿ ವಲಯದ ಮೂಲಕ ಹಾಗೂ ಪ್ರಾದೇಶಿಕ ಕೃಷಿ ಸಂಶೋಧನಾ ಕೇಂದ್ರದಿಂದ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಸಾವಯವ ಇಂಗಾಲ ಕುರಿತು ಪ್ರಾತ್ಯಕ್ಷಿಕೆಗಳನ್ನು ಏರ್ಪಡಿಸಿ, ಮೇಲ್ವಿಚಾರಣೆ ನಡೆಸಲಾಗುವುದು. ಸದರಿ ಪ್ರೋತ್ಸಾಹಧನವನ್ನು ಪಡೆಯುವ ರೈತರು ಕಡ್ಡಾಯವಾಗಿ ಸಹಾಯಧನ ಪಡೆದ ಹಾಗೂ ರೈತರಿಗೆ ವಿತರಿಸಿದ ಪರಿಕರಗಳ ವಿವರವನ್ನು ಒದಗಿಸಬೇಕು. ವಿವರವನ್ನು ನಮೂನೆ-2 ರಂತೆ ಸಲ್ಲಿಸುವುದು.
+
+ಈ ಕಾರ್ಯಕ್ರಮಕ್ಕಾಗಿ ಉ.ಲೆ.ಶಿ:ಸಹಾಯಧನ(106)ರಲ್ಲಿ 2021-22 ನೇ ಸಾಲಿಗೆ 0.775 ಲಕ್ಷ ರೂ.ಗಳ ಅನುದಾನವನ್ನು ಒದಗಿಸಲು ಸೂಚಿಸಿದೆ. ಜಿಲ್ಲಾವಾರು ಭೌತಿಕ-ಆರ್ಥಿಕ ಗುರಿಗಳನ್ನು ಅನುಬಂಧದಲ್ಲಿ ನೀಡಲಾಗಿದೆ.
+
+ಆ) ಕಿಸಾನ್ ಗೋಷ್ಠಿ ಮತ್ತು ಪ್ರದರ್ಶನ:
+ಕಿಸಾನ್ ಗೋಷ್ಠಿಗಳು ಕೃಷಿ ವಲಯದಲ್ಲಿ ಸ್ಥಳೀಯವಾಗಿ ರೈತ ಬಾಂಧವರಿಗೆ ಸಂವಾದ ಹಾಗೂ ಮಾಹಿತಿ ವಿನಿಮಯಕ್ಕೆ ವೇದಿಕೆ ಒದಗಿಸುವುದಲ್ಲದೆ, ನವೀನ ತಂತ್ರಜ್ಞಾನಗಳು, ಉತ್ತಮ ಕೃಷಿ ಪದ್ಧತಿಗಳನ್ನು ಪ್ರದರ್ಶಿಸಲು ಹಾಗೂ ಅಳವಡಿಸಿಕೊಳ್ಳಲು ಪ್ರೇರೇಪಿಸುತ್ತದೆ.
+
+New Scheme Guidelines/-
+
+---
+
+### **English Translation**
+
+To implement the following components for the year 2022-23.
+
+a) Incentive for Increasing Organic Carbon:
+To encourage farmers to use precise technology for increasing organic carbon, an incentive not exceeding Rs. 2,500/- per hectare (100%) will be provided annually. To create awareness among farmers about the income generated from producing and saving additional organic carbon, the incentive will be directly transferred to the farmers' accounts by the Agriculture Department. The beneficiary farmers themselves shall bear any costs exceeding the specified subsidy. In each district, one taluk will be selected, and the incentive will be distributed to all farmers of that taluk. The incentive will be implemented by organizing demonstrations on increasing surplus organic carbon at the Centers of Excellence in each divisional center.
+
+A single farmer can be given more than one demonstration. Demonstrations regarding organic carbon will be organized and supervised in the districts through the Regional Agricultural Zone and the Regional Agricultural Research Center. Farmers receiving this incentive must compulsorily provide details of the subsidy received and the materials/tools distributed to them. The details should be submitted as per Form-2.
+
+For this program, under the Sub-Head of Account: Subsidy (106), instructions have been given to provide a grant of Rs. 0.775 lakhs for the year 2021-22. The district-wise physical and financial targets are provided in the annexure.
+
+b) Kisan Goshti and Exhibition:
+Kisan Goshtis (Farmer Meetings) not only provide a platform for interaction and information exchange for fellow local farmers in the agricultural sector, but also inspire them to showcase and adopt new technologies and best agricultural practices.
+
+New Scheme Guidelines/-
+
+--- Page 5 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 6 ---
+Here is the OCR extraction, correction, and English translation of the provided Kannada government document.
+
+### **1. Corrected Kannada Text (OCR and Correction)**
+
+ಅನುಬಂಧ-1
+
+2022-23 ನೇ ಸಾಲಿನ ಜಿಲ್ಲಾವಾರು ಹಾಗೂ ಯೋಜನಾವಾರು ಭೌತಿಕ ಮತ್ತು ಆರ್ಥಿಕ ಗುರಿ:
+
+**ಲೆಕ್ಕಶೀರ್ಷಿಕೆ:** 2401-00-103-0-15(ಪ್ಲಾನ್)
+
+| | | | **ತಾಲ್ಲೂಕು: ಸವಣೂರ ಘಟ್ಟ-106** | **ಉ.ಲೆ.ಶೀ: ಸ.ಚಾ. ಉಪ ಯೋಜನೆ (422)** | **ಉ.ಲೆ.ಶೀ: ಗಿರಿಜನ ಉಪಯೋಜನೆ (423)** | **ಒಟ್ಟು** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **ಕ್ರ.ಸಂ** | **ವಿವರ** | **Rate/Subsidy per unit( Rs.in Lakhs)** | **ಭೌತಿಕ ಗುರಿ (ಸಂ.ಗಳಲ್ಲಿ)** | **ಆರ್ಥಿಕ ಗುರಿ (ರೂ. ಲಕ್ಷಗಳಲ್ಲಿ)** | **ಭೌತಿಕ ಗುರಿ (ಸಂ.ಗಳಲ್ಲಿ)** | **ಆರ್ಥಿಕ ಗುರಿ (ರೂ. ಲಕ್ಷಗಳಲ್ಲಿ)** | **ಭೌತಿಕ ಗುರಿ (ಸಂ.ಗಳಲ್ಲಿ)** | **ಆರ್ಥಿಕ ಗುರಿ (ರೂ. ಲಕ್ಷಗಳಲ್ಲಿ)** | **ಭೌತಿಕ ಗುರಿ (ಸಂ.ಗಳಲ್ಲಿ)** | **ಆರ್ಥಿಕ ಗುರಿ (ರೂ. ಲಕ್ಷಗಳಲ್ಲಿ)** |
+| | | | 0.025 | 0.030 | | | | | | 0.300 |
+| **1** | ಬೆಂಗಾಳತೊಗರಿ | 1 | 0.025 | 411 | 12.33 | 97 | 2.91 | 39 | 1.16 | 548 | 16.42 |
+| **2** | ಬೆಂಗಾಳತೊಗರಿ(ಗ್ರಾ) | 1 | 0.025 | 40 | 1.19 | 9 | 0.27 | 4 | 0.11 | 53 | 1.60 |
+| **3** | ಬೆಂಗಾಳತೊಗರಿ (ತ) | 1 | 0.025 | 12 | 0.37 | 3 | 0.08 | 1 | 0.03 | 17 | 0.51 |
+| **4** | ಚಿಕ್ಕಗಾತ್ರ | 1 | 0.025 | 651 | 19.52 | 142 | 4.25 | 62 | 1.85 | 855 | 25.65 |
+| **5** | ಬಳ್ಳಾರಿ | 1 | 0.025 | 375 | 11.25 | 85 | 2.54 | 32 | 0.95 | 492 | 14.77 |
+| **6** | ವಿಜಯಪುರ | 1 | 0.025 | 317 | 9.50 | 77 | 2.32 | 40 | 1.19 | 435 | 13.04 |
+| **7** | ಬೀದರ್ | 1 | 0.025 | 377 | 11.30 | 100 | 3.01 | 40 | 1.20 | 518 | 15.54 |
+| **8** | ವಿಜಯನಗರ | 1 | 0.025 | 505 | 15.15 | 132 | 3.95 | 45 | 1.34 | 682 | 20.47 |
+| **9** | ಚಾಮರಾಜನಗರ | 1 | 0.025 | 185 | 5.56 | 42 | 1.26 | 17 | 0.50 | 245 | 7.34 |
+| **10** | ಚಿಕ್ಕಬಳ್ಳಾಪುರ | 1 | 0.025 | 84 | 2.53 | 19 | 0.57 | 8 | 0.23 | 112 | 3.35 |
+| **11** | ಚಿಕ್ಕಮಗಳೂರು | 1 | 0.025 | 315 | 9.46 | 71 | 2.14 | 29 | 0.86 | 416 | 12.48 |
+| **12** | ಚಿತ್ರದುರ್ಗ | 1 | 0.025 | 226 | 6.77 | 51 | 1.53 | 20 | 0.61 | 298 | 8.94 |
+| **13** | ದಾವಣಗೆರೆ | 1 | 0.025 | 371 | 11.12 | 89 | 2.68 | 32 | 0.95 | 493 | 14.77 |
+| **14** | ಧಾರವಾಡ | 1 | 0.025 | 300 | 8.99 | 68 | 2.04 | 27 | 0.81 | 396 | 11.87 |
+| **15** | ಗದಗ | 1 | 0.025 | 212 | 6.37 | 48 | 1.44 | 19 | 0.58 | 280 | 8.41 |
+| **16** | ಕಲಬುರಗಿ | 1 | 0.025 | 259 | 7.78 | 59 | 1.76 | 23 | 0.70 | 343 | 10.27 |
+| **17** | ಹಾಸನ | 1 | 0.025 | 544 | 16.32 | 53 | 1.58 | 21 | 0.63 | 619 | 18.55 |
+| **18** | ಹಾವೇರಿ | 1 | 0.025 | 219 | 6.57 | 50 | 1.49 | 20 | 0.59 | 289 | 8.67 |
+| **19** | ಕೋಲಾರ | 1 | 0.025 | 35 | 1.05 | 8 | 0.24 | 3 | 0.10 | 47 | 1.41 |
+| **20** | ಕೊಪ್ಪಳ | 1 | 0.025 | 37 | 1.11 | 8 | 0.25 | 3 | 0.10 | 50 | 1.49 |
+| **21** | ಮಂಡ್ಯ | 1 | 0.025 | 307 | 9.20 | 75 | 2.26 | 30 | 0.90 | 413 | 12.39 |
+| **22** | ಮಂಡ್ಯ | 1 | 0.025 | 179 | 5.36 | 40 | 1.21 | 16 | 0.48 | 236 | 7.09 |
+| **23** | ಮೈಸೂರು | 1 | 0.025 | 349 | 10.48 | 79 | 2.37 | 32 | 0.95 | 461 | 13.83 |
+| **24** | ಉತ್ತರ ಕನ್ನಡ | 1 | 0.025 | 64 | 1.92 | 15 | 0.44 | 6 | 0.17 | 85 | 2.56 |
+| **25** | ರಾಯಚೂರು | 1 | 0.025 | 272 | 8.15 | 74 | 2.22 | 30 | 0.89 | 376 | 11.28 |
+| **26** | ರಾಮನಗರ | 1 | 0.025 | 71 | 2.12 | 16 | 0.48 | 6 | 0.19 | 94 | 2.82 |
+| **27** | ಶಿವಮೊಗ್ಗ | 1 | 0.025 | 270 | 8.09 | 64 | 1.92 | 26 | 0.77 | 360 | 10.80 |
+| **28** | ತುಮಕೂರು | 1 | 0.025 | 57 | 1.72 | 13 | 0.39 | 5 | 0.16 | 76 | 2.29 |
+| **29** | ತುಮಕೂರು | 1 | 0.025 | 283 | 8.50 | 69 | 2.06 | 27 | 0.82 | 380 | 11.41 |
+| **30** | ಉಡುಪಿ | 1 | 0.025 | 47 | 1.40 | 11 | 0.32 | 4 | 0.13 | 62 | 1.87 |
+| **31** | ಯಾದಗಿರಿ | 1 | 0.025 | 202 | 6.05 | 49 | 1.48 | 20 | 0.59 | 272 | 8.15 |
+| | **ರಾಜ್ಯದ ಒಟ್ಟು ಮೊತ್ತ** | **31** | **0.775** | **7574** | **227.220** | **1715** | **51.450** | **685** | **20.550** | **10005** | **300.000** |
+
+---
+
+### **2. English Translation**
+
+**Annexure-1**
+
+District-wise and Scheme-wise Physical and Financial Targets for the year 2022-23:
+
+**Head of Account:** 2401-00-103-0-15 (Plan)
+
+| | | | **Taluk: Savanur Ghat-106** | **Sub-Head of Account: SC Sub Plan (422)** | **Sub-Head of Account: Tribal Sub Plan (423)** | **Total** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Sl. No.** | **Particulars** | **Rate/Subsidy per unit (Rs. in Lakhs)** | **Physical Target (in Nos.)** | **Financial Target (Rs. in Lakhs)** | **Physical Target (in Nos.)** | **Financial Target (Rs. in Lakhs)** | **Physical Target (in Nos.)** | **Financial Target (Rs. in Lakhs)** | **Physical Target (in Nos.)** | **Financial Target (Rs. in Lakhs)** |
+| | | | 0.025 | 0.030 | | | | | | 0.300 |
+| **1** | Bengal Gram | 1 | 0.025 | 411 | 12.33 | 97 | 2.91 | 39 | 1.16 | 548 | 16.42 |
+| **2** | Bengal Gram (Gr) | 1 | 0.025 | 40 | 1.19 | 9 | 0.27 | 4 | 0.11 | 53 | 1.60 |
+| **3** | Bengal Gram (T) | 1 | 0.025 | 12 | 0.37 | 3 | 0.08 | 1 | 0.03 | 17 | 0.51 |
+| **4** | Small Size | 1 | 0.025 | 651 | 19.52 | 142 | 4.25 | 62 | 1.85 | 855 | 25.65 |
+| **5** | Ballari | 1 | 0.025 | 375 | 11.25 | 85 | 2.54 | 32 | 0.95 | 492 | 14.77 |
+| **6** | Vijayapura | 1 | 0.025 | 317 | 9.50 | 77 | 2.32 | 40 | 1.19 | 435 | 13.04 |
+| **7** | Bidar | 1 | 0.025 | 377 | 11.30 | 100 | 3.01 | 40 | 1.20 | 518 | 15.54 |
+| **8** | Vijayanagara | 1 | 0.025 | 505 | 15.15 | 132 | 3.95 | 45 | 1.34 | 682 | 20.47 |
+| **9** | Chamarajanagar | 1 | 0.025 | 185 | 5.56 | 42 | 1.26 | 17 | 0.50 | 245 | 7.34 |
+| **10** | Chikkaballapur | 1 | 0.025 | 84 | 2.53 | 19 | 0.57 | 8 | 0.23 | 112 | 3.35 |
+| **11** | Chikkamagaluru | 1 | 0.025 | 315 | 9.46 | 71 | 2.14 | 29 | 0.86 | 416 | 12.48 |
+| **12** | Chitradurga | 1 | 0.025 | 226 | 6.77 | 51 | 1.53 | 20 | 0.61 | 298 | 8.94 |
+| **13** | Davanagere | 1 | 0.025 | 371 | 11.12 | 89 | 2.68 | 32 | 0.95 | 493 | 14.77 |
+| **14** | Dharwad | 1 | 0.025 | 300 | 8.99 | 68 | 2.04 | 27 | 0.81 | 396 | 11.87 |
+| **15** | Gadag | 1 | 0.025 | 212 | 6.37 | 48 | 1.44 | 19 | 0.58 | 280 | 8.41 |
+| **16** | Kalaburagi | 1 | 0.025 | 259 | 7.78 | 59 | 1.76 | 23 | 0.70 | 343 | 10.27 |
+| **17** | Hassan | 1 | 0.025 | 544 | 16.32 | 53 | 1.58 | 21 | 0.63 | 619 | 18.55 |
+| **18** | Haveri | 1 | 0.025 | 219 | 6.57 | 50 | 1.49 | 20 | 0.59 | 289 | 8.67 |
+| **19** | Kolar | 1 | 0.025 | 35 | 1.05 | 8 | 0.24 | 3 | 0.10 | 47 | 1.41 |
+| **20** | Koppal | 1 | 0.025 | 37 | 1.11 | 8 | 0.25 | 3 | 0.10 | 50 | 1.49 |
+| **21** | Mandya | 1 | 0.025 | 307 | 9.20 | 75 | 2.26 | 30 | 0.90 | 413 | 12.39 |
+| **22** | Mandya | 1 | 0.025 | 179 | 5.36 | 40 | 1.21 | 16 | 0.48 | 236 | 7.09 |
+| **23** | Mysuru | 1 | 0.025 | 349 | 10.48 | 79 | 2.37 | 32 | 0.95 | 461 | 13.83 |
+| **24** | Uttara Kannada | 1 | 0.025 | 64 | 1.92 | 15 | 0.44 | 6 | 0.17 | 85 | 2.56 |
+| **25** | Raichur | 1 | 0.025 | 272 | 8.15 | 74 | 2.22 | 30 | 0.89 | 376 | 11.28 |
+| **26** | Ramanagara | 1 | 0.025 | 71 | 2.12 | 16 | 0.48 | 6 | 0.19 | 94 | 2.82 |
+| **27** | Shivamogga | 1 | 0.025 | 270 | 8.09 | 64 | 1.92 | 26 | 0.77 | 360 | 10.80 |
+| **28** | Tumakuru | 1 | 0.025 | 57 | 1.72 | 13 | 0.39 | 5 | 0.16 | 76 | 2.29 |
+| **29** | Tumakuru | 1 | 0.025 | 283 | 8.50 | 69 | 2.06 | 27 | 0.82 | 380 | 11.41 |
+| **30** | Udupi | 1 | 0.025 | 47 | 1.40 | 11 | 0.32 | 4 | 0.13 | 62 | 1.87 |
+| **31** | Yadgir | 1 | 0.025 | 202 | 6.05 | 49 | 1.48 | 20 | 0.59 | 272 | 8.15 |
+| | **State's Grand Total** | **31** | **0.775** | **7574** | **227.220** | **1715** | **51.450** | **685** | **20.550** | **10005** | **300.000** |
+
+--- Page 7 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 8 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]

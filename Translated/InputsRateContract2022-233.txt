@@ -1,0 +1,93 @@
+
+--- Page 1 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 2 ---
+Of course, here is the OCR extraction, correction, and English translation of the provided Kannada document page.
+
+### **Corrected Kannada Text (OCR)**
+
+*   ಸದರಿ ಬೆಳೆಸಾಲವನ್ನು ಪಡೆಯುವ ಫಲಾನುಭವಿಗಳನ್ನು FRUITS and KKisan software application ನಲ್ಲಿ ಕಡ್ಡಾಯವಾಗಿ ನೋಂದಾಯಿಸಬೇಕು, ಸದರಿ ಬೆಳೆಸಾಲಗಳ ಜಿಲ್ಲೆಗಳಿಗೆ ವಿತರಿಸುವ ಮಾಹಿತಿಯನ್ನು Kkisan-MIS ಪೋರ್ಟಲ್ ನಲ್ಲಿ ತಪ್ಪದೇ ನಮೂದಿಸುವುದು.
+*   ಬೆಳೆಸಾಲಗಳ ಸರಬರಾಜಿನಲ್ಲಿ ಕನಿಷ್ಠ ಮೂರು ವರ್ಷಗಳ ಅನುಭವದ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಲಗತ್ತಿಸುವುದು.
+*   ಇಲಾಖೆಯಲ್ಲಿ ಸರಬರಾಜು ಮಾಡುವ ಬೆಳೆಸಾಲಗಳನ್ನು ರಾಜ್ಯದಲ್ಲಿಯೇ ತಾವೇ ಸ್ವಂತ ತಯಾರಿಕಾ ಘಟಕವನ್ನು ಹೊಂದಿರಬೇಕು ಹಾಗೂ ತಯಾರಿಕಾ ಘಟಕ ಹೊಂದಿರುವ ಬಗ್ಗೆ ದಾಖಲಾತಿಗಳನ್ನು ಸಲ್ಲಿಸುವುದು.
+*   ಬೆಳೆಸಾಲಗಳನ್ನು ಪಡೆದ ನಂತರ ರೈತರು ನೀಡಿರುವ ಮಾಹಿತಿಯನ್ನು ಆಧರಿಸಿ, ತಾಲ್ಲೂಕು ಸಹಾಯಕ ಕೃಷಿ ನಿರ್ದೇಶಕರಿಂದ ದೃಢೀಕರಿಸಿ ಸಲ್ಲಿಸಿದ ಫಲಾನುಭವಿಗಳ ಪಟ್ಟಿಯನ್ನು ತಾಲ್ಲೂಕುವಾರು ಅನುಬಂಧ-4 ರಲ್ಲಿ ವರದಿ ಮಾಡುವುದು.
+*   ಪೂರೈಕೆದಾರರು ಎಲ್ಲಾ ಜಿಲ್ಲೆಗಳಿಗೆ ಏಕರೂಪ ದರದಲ್ಲಿ ಬೆಳೆಸಾಲಗಳನ್ನು ಸರಬರಾಜು ಮಾಡಲು ಒಪ್ಪಿರಬೇಕು.
+*   ಪ್ರಸ್ತುತ ನಿಗಧಿಪಡಿಸಿದ ಮೇಲ್ಕಂಡ ಬೆಳೆಸಾಲಗಳ ದರಗಳು ದಿನಾಂಕ: 31.03.2023 ರವರೆಗೆ ಚಾಲ್ತಿಯಲ್ಲಿರುತ್ತವೆ.
+
+---
+**2022-23 ನೇ ಸಾಲಿನ ಬೆಳೆಸಾಲಕ್ಕೆ ಸರಬರಾಜು ಮಾಡಿದ ಸಾರೀಕರಣ ನಿಗದಿತ ದರಗಳ ಪಟ್ಟಿ**
+---
+
+| ಕ್ರ. ಸಂ | ಬೆಳೆಸಾಲಗಳ ಹೆಸರು | ಉಪಪರಿಕರಗಳ ದರ (ರೂ.ಗಳಲ್ಲಿ) | ಪ್ರತಿ ಪ್ಯಾಕ್‌ಗೆ ಶೇ.50ರ ರಿಯಾಯಿತಿ ದರ | ಪ್ರತಿ ಪ್ಯಾಕ್‌ಗೆ ಶೇ.75ರ ರಿಯಾಯಿತಿ ದರ |
+| :--- | :--- | :--- | :--- | :--- |
+| | | ನಿಗದಿತ ಮಾರಾಟ ದರ (ಪ್ರತಿ ಕಿ.ಗ್ರಾಂ/ಲೀ.ಗೆ) | ಪ್ರತಿ ಪ್ಯಾಕ್ ಗಾತ್ರ | ಒಟ್ಟು ದರ (ಪ್ರತಿ ಪ್ಯಾಕ್ ಗಾತ್ರಕ್ಕೆ) | ಸಹಕಾರಿ ಸಾಲ | ಇತರೆ ಖಾಸಗಿ | ಸಹಕಾರಿ ಸಾಲ | ಇತರೆ ಖಾಸಗಿ |
+| 1 | ಜಿಂಕ್ & ಬೋರಾನ್ ಮಿಶ್ರಣ (ಕ್ರಾಂತಿಕಿಟ್) (L1) | ರೂ.26.25/ಕಿ.ಗ್ರಾಂ | 1 ಕಿ.ಗ್ರಾಂ | 26.25 | 13.125 | 13.125 | 19.6875 | 6.5625 |
+| 2 | ವಾಟರ್ ಸೊಲ್ಯೂಬಲ್ ಮಿಶ್ರಣ (ಕ್ರಾಂತಿಕಿಟ್) (L1) | ರೂ.38.00/ಕಿ.ಗ್ರಾಂ | 500 ಗ್ರಾಂ. ಪ್ಯಾಕೆಟ್ | 19.00 | 9.50 | 9.50 | 14.25 | 4.75 |
+| **ಅ** | **ಸಾಮಾನ್ಯ ಸೂಕ್ಷ್ಮ ಪೋಷಕಾಂಶಗಳ ಮಿಶ್ರಣಕ್ಕೆ** |
+| 1 | ಬೇವಿನೆಣ್ಣೆ ಮಿಶ್ರಣ (L1) | ರೂ.6,100/ಕಿ.ಗ್ರಾಂ | 50 ಮಿ.ಲೀ. ಪ್ಯಾಕೆಟ್ | 305.00 | 152.50 | 152.50 | 228.75 | 76.25 |
+
+---
+`E:\Tender 2022-23\Rate contract 2022-23.docx`
+`Page 2`
+---
+<br>
+
+### **English Translation**
+
+*   Beneficiaries receiving the said crop loan inputs must be compulsorily registered in the FRUITS and KKisan software application. The information regarding the distribution of these crop loan inputs to the districts must be unfailingly entered in the Kkisan-MIS portal.
+*   A certificate of at least three years of experience in the supply of crop loan inputs must be attached.
+*   The supplier must have their own manufacturing unit within the state for the crop loan inputs supplied to the department, and documents proving ownership of the manufacturing unit must be submitted.
+*   After the farmers receive the crop loan inputs, a list of beneficiaries, based on the information provided by them and authenticated by the Taluk Assistant Director of Agriculture, must be reported taluk-wise in Annexure-4.
+*   The supplier must agree to supply the crop loan inputs at a uniform rate to all districts.
+*   The rates fixed for the aforementioned crop loan inputs will be valid until 31.03.2023.
+
+---
+**List of Fixed Rates for Micronutrients Supplied for Crop Loans for the Year 2022-23**
+---
+| Sl. No. | Name of Crop Loan Inputs | Rate of Implements (in Rs.) | 50% Concession Rate per Pack | 75% Concession Rate per Pack |
+| :--- | :--- | :--- | :--- | :--- |
+| | | **Fixed Sale Price (per Kg/Litre)** | **Per Pack Size** | **Total Rate (per pack size)** | **Co-operative Loan** | **Other Private** | **Co-operative Loan** | **Other Private** |
+| 1 | Zinc & Boron Mixture (Krantikit) (L1) | Rs. 26.25/Kg | 1 Kg | 26.25 | 13.125 | 13.125 | 19.6875 | 6.5625 |
+| 2 | Water Soluble Mixture (Krantikit) (L1) | Rs. 38.00/Kg | 500 gm Packet | 19.00 | 9.50 | 9.50 | 14.25 | 4.75 |
+| **a** | **For General Micronutrient Mixture** |
+| 1 | Neem Oil Mixture (L1) | Rs. 6,100/Kg* | 50 ml Packet | 305.00 | 152.50 | 152.50 | 228.75 | 76.25 |
+
+---
+`E:\Tender 2022-23\Rate contract 2022-23.docx`
+`Page 2`
+---
+
+*\*Translator's Note: The original document specifies the unit as Kg (kilogram) for Neem Oil, which is a liquid. It is likely a typo and should be Litre.*
+
+--- Page 3 ---
+[Error: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting]
+
+--- Page 4 ---
+[Error: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting]
+
+--- Page 5 ---
+Of course. Here is the OCR extraction, correction, and English translation of the provided Kannada document page.
+
+### Corrected Kannada Text
+
+| ಕ್ರ. ಸಂ. | ನೊಂದಾಯಿಸಲು ಮಾಡಲು ಅರ್ಜಿ ಸಲ್ಲಿಸಿದ ಸಂಸ್ಥೆಯ ಹೆಸರು | ನೊಂದಾಯಿಸಲು ಸಂಸ್ಥೆಯ ವಿಳಾಸ | ಸಂಪರ್ಕಿಸಬೇಕಾದವರ ಹೆಸರು ಮತ್ತು ದೂರವಾಣಿ ಸಂಖ್ಯೆ |
+| :--- | :--- | :--- | :--- |
+| 2 | Bharath Bio-Fertilizers, Bagalkot | #132/1A/1, Mudhol, Bagalkot-587313 | 9980978080<br>9164290000<br>sg.ningaraj@gmail.com<br>Ningaraju S Gosar |
+| 3 | Daiwik Enviro Engineering Solution, Mysore | MCC ZWM Copost Plant, Sewage Farm, Gundurao Nagara, Mysore-570025 | 7676788889<br>daivik.ees@gmail.com<br>Prabhavathi GK |
+| 4 | Ganesh Agrotech, Bangalore | #410, 12 main Road, RMV Extension, Bangalore | 9449813669<br>ganeshaagrotech@gmail.com<br>Kumar Vinod P Nadagouda |
+| 5 | H K Global Enterprises, Bangalore | H K Global Enterprises, #450, Ist Main Road, Sowmya Kali Temple, Andrahalli, Bangalore-560058 | 9945312666<br>vishalvruddhi@gmail.com<br>Prakash H K |
+| 6 | Karnataka Biofertilizers, Vijaypur | Ankalivar Layout, Sindagi Road, Vijaypur | 08352-259698<br>9611997368<br>kbforgbio7368@gmail.com<br>Ravi D Kulkarni |
+| 7 | Sunshine International Agritech, Ballari | Ward No 06, Near Sangam Circle, City Press Compound, Ballari-583101 | 8489943511<br>sunshineagritech@gmail.com<br>S P T Stallin |
+
+***
+
+### English Translation
+
+| Sl. No. | Name of the institution that has applied for registration | Address of the institution for registration | Name and telephone number of the person to be contacted |
+| :--- | :--- | :--- | :--- |
+| 2 | Bharath Bio-Fertilizers, Bagalkot | #132/1A/1, Mudhol, Bagalkot-587313 | 9980978080<br>9164290000<br>sg.ningaraj@gmail.com<br>Ningaraju S Gosar |
+| 3 | Daiwik Enviro Engineering Solution, Mysore | MCC ZWM Copost Plant, Sewage Farm, Gundurao Nagara, Mysore-570025 | 7676788889<br>daivik.ees@gmail.com<br>Prabhavathi GK |
+| 4 | Ganesh Agrotech, Bangalore | #410, 12 main Road, RMV Extension, Bangalore | 9449813669<br>ganeshaagrotech@gmail.com<br>Kumar Vinod P Nadagouda |
+| 5 | H K Global Enterprises, Bangalore | H K Global Enterprises, #450, 1st Main Road, Sowmya Kali Temple, Andrahalli, Bangalore-560058 | 9945312666<br>vishalvruddhi@gmail.com<br>Prakash H K |
+| 6 | Karnataka Biofertilizers, Vijaypur | Ankalivar Layout, Sindagi Road, Vijaypur | 08352-259698<br>9611997368<br>kbforgbio7368@gmail.com<br>Ravi D Kulkarni |
+| 7 | Sunshine International Agritech, Ballari | Ward No 06, Near Sangam Circle, City Press Compound, Ballari-583101 | 8489943511<br>sunshineagritech@gmail.com<br>S P T Stallin |

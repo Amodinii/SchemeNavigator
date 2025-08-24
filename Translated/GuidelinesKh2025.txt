@@ -1,0 +1,478 @@
+
+--- Page 1 ---
+Of course. Here is the corrected Kannada text from the image, followed by its English translation.
+
+### **Corrected Kannada Text**
+
+ಕರ್ನಾಟಕ ಸರ್ಕಾರ
+(ಕೃಷಿ ಇಲಾಖೆ)
+
+2025-26ನೇ ಸಾಲಿನಲ್ಲಿ
+ರಾಯಚೂರು ಜಿಲ್ಲೆಯಲ್ಲಿ ಬಿತ್ತನೆ ಬೀಜ ವಿತರಣಾ
+ಕಾರ್ಯಕ್ರಮದ ಮಾರ್ಗಸೂಚಿ
+ಅಂಕಿಗಳು
+
+[ಲಾಂಛನ]
+ಕರ್ನಾಟಕ ರಾಜ್ಯ
+KSDA
+ಕೃಷಿ ಇಲಾಖೆ
+
+ಕರ್ನಾಟಕ ರಾಜ್ಯ ಕೃಷಿ ಇಲಾಖೆ
+ಶೇಷಾದ್ರಿ ರಸ್ತೆ, ಬೆಂಗಳೂರು
+
+---
+
+### **English Translation**
+
+Government of Karnataka
+(Department of Agriculture)
+
+For the Year 2025-26
+Guidelines and Data for the Sowing Seed Distribution Program
+in Raichur District
+
+[Logo]
+Karnataka State
+KSDA
+Department of Agriculture
+
+Karnataka State Department of Agriculture
+Seshadri Road, Bengaluru
+
+--- Page 2 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 3 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 4 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 5 ---
+Excellent. This is a page from a Kannada government circular detailing procedures for seed distribution. As an OCR and translation expert, I will provide the corrected text and a fluent English translation.
+
+### Corrected Kannada Text
+
+**ಬಯಾಮೆಟ್ರಿಕ್ ವರದಿ**
+
+16. ಪ್ರತಿ ಪಟ್ಟಿಯಲ್ಲಿ ನಿಗಧಿತ ಸಂಖ್ಯೆಯಲ್ಲಿರುವಂತೆ ಪಡಿತರ ಚೀಟಿಗಳನ್ನು ಗುರುತಿಸುವುದು. ಡಿ.ಸಿ.ಬಿ. ಖಾತೆಗಳಿಂದ ಬಯಾಮೆಟ್ರಿಕ್ ವರದಿಯನ್ನು ತೆಗೆಸಿಕೊಂಡು ಕ್ರಮ ಜರುಗಿಸುವುದು.
+
+**ಬೀಜ ವಿತರಣಾ ಮಾರಾಟ ಕೇಂದ್ರಗಳು:-**
+
+17. ಬಯಾಮೆಟ್ರಿಕ್ ಅಳವಡಿಕೆ, ಬೀಜ ವಿತರಣೆಯಲ್ಲಿನ ಪಾರದರ್ಶಕತೆ ತರುವ ಉದ್ದೇಶದಿಂದ ಬೀಜ ವಿತರಣೆಯನ್ನು ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರ / ಹೆಚ್ಚುವರಿ ಕೃಷಿ ನಿರ್ದೇಶಕರ ಕಛೇರಿ, ಬೀಜ ಮಾರಾಟ ಕೇಂದ್ರಗಳ ಮೂಲಕವೇ ವಿತರಿಸುವುದು.
+
+18. ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಗಳು/ಇತರೆ ಮಾರಾಟ ಕೇಂದ್ರಗಳಲ್ಲಿ ಬೀಜ ವಿತರಣೆ ಕೈಗೊಂಡಾಗ ಈ ಕೆಳಕಂಡ ಕ್ರಮಗಳನ್ನು ಅನುಸರಿಸುವುದು:
+    a. ಸ್ಥಳೀಯವಾಗಿ ಹೆಸರುವಾಸಿಯಾದ ಬೀಜ ವಿತರಣಾ ಏಜೆನ್ಸಿಗಳಿಗೆ ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಕ್ಕೆ ಸರಬರಾಜು ಮಾಡಲು ಆದ್ಯತೆ ನೀಡುವುದು.
+    b. ಬೀಜ ಸರಬರಾಜುದಾರರಿಂದ ಬೀಜ ಖರೀದಿ ಮಾಡುವ ಮುನ್ನ, ಸ್ಥಳೀಯವಾಗಿ ಹೆಸರುವಾಸಿಯಾದ brand ಕಂಪೆನಿಗಳ ಬೀಜ ವಿತರಣೆಗೆ ಆದ್ಯತೆ ನೀಡುವುದು.
+    c. ಗುರುತಿಸಿದ ಮಾರಾಟ ಕೇಂದ್ರಗಳಲ್ಲಿ (ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಗಳಲ್ಲಿ ಬೀಜ ವಿತರಣೆಯನ್ನು ವಿತರಿಸಲು ಅನುಮತಿ ನೀಡುವುದು). ಏಜೆನ್ಸಿಗಳನ್ನು ಪಡೆದು ವಿತರಿಸಲು ಸರ್ಕಾರಿ ಸ್ವಾಮ್ಯದ ಸಂಸ್ಥೆಗಳಿಗೆ ಸಹಾ ಅನುಮತಿಸುವುದು.
+
+19. ಸರ್ಕಾರಿ ಸ್ವಾಮ್ಯದ ಸಂಸ್ಥೆಗಳಲ್ಲಿ ಬೀಜ ವಿತರಣೆಯ ಬಗ್ಗೆ. ಎಲ್ಲಾ ಸರ್ಕಾರಿ ಸ್ವಾಮ್ಯದ ಸಂಸ್ಥೆಗಳು ಒಂದೇ ವಿಧದ ಏಕರೂಪ ದರವನ್ನು ಪಾಲಿಸಲು ಸೂಚಿಸುವುದು.
+    a. ಇಲಾಖೆಯಿಂದ ಅನುಮೋದನೆ ಪಡೆದ ಏಜೆನ್ಸಿಗಳ ಮೂಲಕ ಇಲಾಖೆಯು ನಿಗದಿಪಡಿಸಿದ ದರದಲ್ಲಿಯೇ ವಿತರಿಸುವುದು.
+    b. ಹೆಚ್ಚುವರಿ ಮಾರಾಟ ಕೇಂದ್ರಗಳಲ್ಲದೆ, ಬೇರೆ ಯಾವುದೇ ಅಧಿಕಾರಿಗಳ ಉಪಸ್ಥಿತಿಯಲ್ಲಿ ಬೀಜಗಳನ್ನು ವಿತರಿಸಲಾಗದು. ಒಂದು ವೇಳೆ ವಿತರಿಸಿದ್ದಲ್ಲಿ, ಸಂಬಂಧಪಟ್ಟ ಅಧಿಕಾರಿಗಳ ಮೇಲೆ ಶಿಸ್ತು ಕ್ರಮ ಜರುಗಿಸಲಾಗುವುದು.
+
+20. ಬಯೋಮೆಟ್ರಿಕ್ ಅಳವಡಿಕೆಯಡಿ ಹೊಸದಾಗಿ ಪರವಾನಗಿ ಪಡೆಯಲು ಇಚ್ಚಿಸುವ ಬೀಜ ಮಾರಾಟಗಾರರಿಂದ ರೂ.500-00ಗಳಂತೆ ಠೇವಣಿ ಕಟ್ಟಿಸಿಕೊಂಡು ಒಬ್ಬ ತಾಂತ್ರಿಕ ಅಧಿಕಾರಿಯ ವರದಿಯನ್ನು ಪಡೆದು ಪರವಾನಗಿ ನೀಡುವುದು. ಹಾಗೂ ಪರವಾನಗಿ ನವೀಕರಣಕ್ಕೆ ರೂ.100-00ಗಳನ್ನು ನಿಗದಿಪಡಿಸುವುದು. ಜಿಲ್ಲಾ ಜಂಟಿ ಕೃಷಿ ನಿರ್ದೇಶಕರು ಹೊಸದಾಗಿ ಪರವಾನಗಿ ನೀಡಲು ಹಾಗೂ ನವೀಕರಣ ಮಾಡಲು ಅಧಿಕಾರ ಹೊಂದಿರುತ್ತಾರೆ.
+
+21. ಬೀಜ ವಿತರಣಾ ಮಾರಾಟ ಕೇಂದ್ರಗಳಲ್ಲಿನ ನಗದು ವಹಿವಾಟು ಕುರಿತು ದಾಖಲೆಗಳ ನಿರ್ವಹಣೆಗಾಗಿ ನಗದು ರಶೀದಿ ಪುಸ್ತಕ (Cash Bill Book) ಕಡ್ಡಾಯವಾಗಿ ಇರಿಸತಕ್ಕದ್ದು. ಬೀಜ ವಿತರಣಾ ಸಮಯದಲ್ಲಿ ಪಾರದರ್ಶಕತೆಗಾಗಿ, ಖಾಸಗಿ ಬೀಜ ಮಾರಾಟಗಾರರ ಮತ್ತು ರೈತರ, ಬಯೋಮೆಟ್ರಿಕ್ ಸಹಿತವಾಗಿ ವಿತರಿಸುವುದು.
+
+---
+
+### English Translation
+
+**Biometric Report**
+
+16. Identify the ration cards as per the specified number in each list. Take action by obtaining the biometric report from the D.C.B. accounts.
+
+**Seed Distribution and Sales Centers:-**
+
+17. With the objective of implementing biometrics and bringing transparency to seed distribution, the distribution of seeds shall be done exclusively through Raitha Samparka Kendras (Farmer Contact Centers) / Offices of the Additional Director of Agriculture, and seed sales centers.
+
+18. When undertaking seed distribution at Raitha Samparka Kendras / other sales centers, the following procedures must be followed:
+    a. Priority should be given to locally reputed seed distribution agencies for supplying to the Raitha Samparka Kendra.
+    b. Before purchasing seeds from suppliers, priority should be given to the distribution of seeds from locally reputed brand companies.
+    c. Permission shall be granted for seed distribution in identified sales centers (including permission to distribute seeds at Raitha Samparka Kendras). Government-owned organizations shall also be permitted to undertake distribution by appointing agencies.
+
+19. Regarding seed distribution by government-owned organizations. All government-owned organizations shall be instructed to follow a single, uniform rate.
+    a. Distribution must be done through agencies approved by the department and only at the rates fixed by the department.
+    b. Seeds must not be distributed in the presence of any officers other than those at the additional sales centers. In the event of such a distribution, disciplinary action will be taken against the responsible officers.
+
+20. For seed sellers wishing to obtain a new license under the biometric system, a license shall be issued after collecting a deposit of Rs. 500-00 and obtaining a report from a technical officer. Further, a fee of Rs. 100-00 shall be fixed for license renewal. The District Joint Director of Agriculture will have the authority to issue new licenses and to renew them.
+
+21. For the management of records concerning cash transactions at seed distribution and sales centers, a Cash Bill Book must be mandatorily maintained. For transparency during distribution, the transaction between private seed sellers and farmers must be conducted with biometric authentication.
+
+--- Page 6 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 7 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 8 ---
+Here is the OCR, correction, and translation of the provided document.
+
+### Corrected Kannada Text
+
+e) ಈ ಯೋಜನೆಯಡಿ ವಿತರಿಸುವ ಬಿತ್ತನೆ ಬೀಜದ ಮಾರಾಟವನ್ನು ಸರಿಯಾಗಿ ನಿರ್ವಹಿಸದಿರುವುದು. ಬೀಜ ಅಧಿಸೂಚನೆ/ಬೀಜ ನಿಯಂತ್ರಣ ಆದೇಶವನ್ನು ಪಾಲಿಸದೇ ಇರುವುದು, ಖರೀದಿ ಪ್ರಕ್ರಿಯೆ ಪೂರ್ಣಗೊಳ್ಳದೇ ಇರುವುದು. ಇಂತಹ ಸಂದರ್ಭದಲ್ಲಿ, ಬೀಜ ಪಡೆಯದೇ ಇರುವ ಸಂಸ್ಥೆಗಳಿಗೆ ಸಂಬಂಧಪಡಿಸದೇ ಆ ಸಂಸ್ಥೆಗಳ ವತಿಯಿಂದ ಖಾಸಗಿ ಬೀಜಗಳನ್ನು ಮಾರಾಟ ಮಾಡಿದ್ದಲ್ಲಿ, ಸದರಿ ದಾಖಲಾತಿಗಳ ಸಹಿತ ಮಾಹಿತಿ ನೀಡುವುದು. ಈ ಸಂದರ್ಭದಲ್ಲಿ, ಸಂಸ್ಥೆಗಳು ನಡೆಸಿಕೊಟ್ಟಿರುವ ಟೆಂಡರ್ ಅನ್ವಯ ಸಂಸ್ಥೆಗಳು ಬೀಜ ಮಾರಾಟವನ್ನು ನಿಗದಿಪಡಿಸಿ, ಕಾನೂನು ರೀತಿಯ ಕ್ರಮ ಕೈಗೊಳ್ಳುವುದು. ಈ ಬಗ್ಗೆ ಜಂಟಿ ನಿರ್ದೇಶಕರು, ಬೀಜೋತ್ಪಾದನಾ ವಿಭಾಗ, ಬೆಂಗಳೂರು ರವರು ತನಿಖೆ ನಡೆಸುವುದು. ಬೀಜಗಳು ಕಳಪೆಯಾಗಿರುವುದಾಗಿ ದೂರು ಬಂದಲ್ಲಿ, ಅಂತಹ ಬೀಜಗಳ ವಿತರಣೆಯನ್ನು ಕೂಡಲೇ ನಿಲ್ಲಿಸಿ, ಕಾನೂನು ರೀತಿಯ ಕ್ರಮ ಜರುಗಿಸುವುದು.
+
+f) ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಗಳಲ್ಲಿ ದಾಸ್ತಾನುಗೊಂಡಿರುವ ಬಿತ್ತನೆ ಬೀಜಗಳನ್ನು ಹಂಗಾಮು ಮುಗಿದ ನಂತರ, ಪೂರ್ಣ ದಾಸ್ತಾನು, ಲೇಬಲ್, ಗುರುತಿಸುವ ಚೀಟಿ ಸಮೇತವಾಗಿ, ಬಾಕಿ ಉಳಿದುಕೊಂಡಂತಹ ಬಿತ್ತನೆ ಬೀಜಗಳನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳುವುದು.
+
+g) ಯಾವುದೇ ಕಾರಣಕ್ಕೂ ಅವಧಿ ಮೀರಿದ ಬಿತ್ತನೆ ಬೀಜಗಳನ್ನು ವಿತರಣೆಗೆ ಒದಗಿಸದಂತೆ ನೋಡಿಕೊಳ್ಳುವುದು ಅತಿ ಮುಖ್ಯವಾಗಿರುತ್ತದೆ.
+
+h) ಬಿತ್ತನೆ ಬೀಜದ ಸರಬರಾಜನ್ನು ಕನ್ಸೈನ್ಮೆಂಟ್ (consignment) ಆಧಾರದ ಮೇಲೆ ನೀಡುವುದು. ಬಿತ್ತನೆ ಬೀಜ ಮಾರಾಟವಾಗದೇ ಉಳಿದಿರುವ ದಾಸ್ತಾನಿಗೆ ಒಂದು ಅಂದಾಜು, ಟೆಂಡರ್ ದಾಖಲೆಯನ್ನು ಸಂಸ್ಥೆಗಳು ತಂದಲ್ಲಿ ಪರಿಗಣಿಸುವುದಕ್ಕೆ ಅವಕಾಶವಿರುತ್ತದೆ.
+
+i) ಬೀಜ ಸರಬರಾಜು ಸಂಸ್ಥೆಗಳು ಜಂಟಿ ಕೃಷಿ ನಿರ್ದೇಶಕರು ನೀಡಿರುವ ಬೀಜ ತಳಿ ವರದಿಗಳನ್ನು, ಬೀಜ ಸರಬರಾಜು ಮಾಡಿದ ದಿನಾಂಕದಿಂದ 24 ಗಂಟೆಗಳೊಳಗಾಗಿ ಸ್ವೀಕರಿಸಿ, ವರದಿಗಳಿಗೆ ಪ್ರತಿಕ್ರಿಯೆ ನೀಡುವುದು. ಬೀಜ ಸರಬರಾಜು ಮಾಡಿರುವ ಸಂಸ್ಥೆಗಳು ಬೀಜ ಸರಬರಾಜು ಮಾಡುವ ಸಮಯದಲ್ಲಿ, ಸಂಬಂಧಪಟ್ಟ ದಾಖಲೆಗಳಾದ ಬೀಜದ ಮೂಲ, ಹಂಚಿಕೆ ಪತ್ರ, ಮಾರಾಟವಾದ ಬೀಜದ ದಾಸ್ತಾನು, ಮಾರಾಟವಾದ ಪ್ರಮಾಣ, ಲಾಟ್ ಸಂಖ್ಯೆ, ಇತ್ಯಾದಿಗಳನ್ನು ಕಡ್ಡಾಯವಾಗಿ Seed MIS ನಲ್ಲಿ ಅಳವಡಿಸುವುದು.
+
+j) ವಿತರಿಸಲಾಗುವ ಬಿತ್ತನೆ ಬೀಜದ ಶಿಫಾರಸ್ಸಿನನ್ವಯ, ಮಾರಾಟ ಮಾಡುವ ಮುನ್ನ ಕಡ್ಡಾಯವಾಗಿ ಬೀಜದ ಮಾದರಿಯನ್ನು ತೆಗೆದಿಟ್ಟುಕೊಂಡು ಬೀಜ ಪರೀಕ್ಷಾ ಪ್ರಯೋಗಾಲಯದಿಂದ ಗುಣಮಟ್ಟದ ವರದಿ ಪಡೆದಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳುವುದು.
+
+k) ಯಾವುದೇ ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರ, ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಗಳಲ್ಲಿ / ಗುರುತಿಸಿದ ಮಾರಾಟ ಮಳಿಗೆಗಳಲ್ಲಿ, ಅವಧಿ ಮೀರಿದ/ನಿಷೇಧಿಸಿದ/ಕಳಪೆ ಗುಣಮಟ್ಟದ ಬೀಜದ ದಾಸ್ತಾನನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳುವುದು.
+
+l) ಬೀಜ ವಿತರಣೆಯ ಅಂತಿಮ ದಿನಾಂಕವನ್ನು ನಮೂನೆ-1 ರಲ್ಲಿ ಮತ್ತು ಬೀಜ ಸರಬರಾಜು ಸಂಸ್ಥೆಗಳಿಂದ ವಶಪಡಿಸಿಕೊಂಡ ಬೀಜದ ವಿವರವನ್ನು ನಮೂನೆ-2 ರಲ್ಲಿ ಜಂಟಿ ಕೃಷಿ ನಿರ್ದೇಶಕರು ಮತ್ತು ಸಂಬಂಧಪಟ್ಟ ಸಂಸ್ಥೆಯ ವತಿಯಿಂದ ಜಂಟಿ ಮಹಜರ್ ಮಾಡಿ ಕೇಂದ್ರ ಕಛೇರಿಗೆ ಸಲ್ಲಿಸುವುದು.
+
+m) ಜಿಲ್ಲೆಗಳ ಜಂಟಿ ಕೃಷಿ ನಿರ್ದೇಶಕರುಗಳು, ಉಪ ಕೃಷಿ ನಿರ್ದೇಶಕರು(ಜಿ.ಪಂ) ಮತ್ತು ತಾಲ್ಲೂಕು ಸಹಾಯಕ ಕೃಷಿ ನಿರ್ದೇಶಕರುಗಳು ಯೋಜನೆಯ ಕಾರ್ಯಾನುಷ್ಠಾನಕ್ಕೆ ಬಿತ್ತನೆ ಬೀಜದ ವಿತರಣೆ ಕಾರ್ಯಕ್ರಮವನ್ನು ರೂಪಿಸುವುದು ಮತ್ತು ಯಾವುದೇ ರೀತಿಯ ದೂರುಗಳಿಗೆ ಆಸ್ಪದ ನೀಡದಂತೆ ಯಶಸ್ವಿಯಾಗಿ ಕಾರ್ಯಕ್ರಮವನ್ನು ನಿರ್ವಹಿಸುವುದು. ಈ ಬಗ್ಗೆ ಸಂಪೂರ್ಣ ಅಧಿಕಾರ ಮತ್ತು ಜವಾಬ್ದಾರಿಯು ಇವರಿಗಿರುತ್ತದೆ.
+
+n) ಜಿಲ್ಲೆಗಳ ಜಂಟಿ ಕೃಷಿ ನಿರ್ದೇಶಕರುಗಳು, ಉಪ ಕೃಷಿ ನಿರ್ದೇಶಕರು(ಜಿ.ಪಂ) ಮತ್ತು ತಾಲ್ಲೂಕು ಸಹಾಯಕ ಕೃಷಿ ನಿರ್ದೇಶಕರುಗಳು ಬೀಜ ವಿತರಣೆಗೆ ಸಂಬಂಧಿಸಿದ ಮಾರಾಟ ಕೇಂದ್ರಗಳನ್ನು (ಪ್ರಾಥಮಿಕ ಕೃಷಿ...
+
+---
+
+### English Translation
+
+e) Failure to properly manage the sale of sowing seeds to be distributed under this scheme. Non-compliance with the Seed Notification/Seed Control Order, and non-completion of the procurement process. In such instances, if private seeds are sold by organizations not authorized to receive seeds under this scheme, this information, along with the relevant documents, must be submitted. In this context, the organizations' seed sales shall be regulated as per the tender they have conducted, and legal action shall be initiated. The Joint Director, Seed Production Division, Bengaluru, shall conduct an investigation into this matter. If a complaint is received regarding poor quality seeds, the distribution of such seeds must be stopped immediately, and legal action must be taken.
+
+f) After the season is over, the remaining stock of sowing seeds stored in Raitha Samparka Kendras (Farmer Contact Centers) shall be seized, along with the complete inventory records, labels, and identification tags.
+
+g) It is of utmost importance to ensure that under no circumstances are expired sowing seeds provided for distribution.
+
+h) The supply of sowing seeds shall be made on a consignment basis. For the unsold stock of sowing seeds, if the organizations submit an estimate and tender documents, it may be considered.
+
+i) Seed supplying agencies must receive the seed variety reports issued by the Joint Director of Agriculture within 24 hours from the date of seed supply and respond to the reports. During the seed supply, the supplying agencies must mandatorily enter the relevant documents such as seed source, allocation letter, stock of sold seeds, quantity sold, lot number, etc., into the Seed MIS.
+
+j) As per the recommendation for the sowing seeds being distributed, it must be ensured that a seed sample has been mandatorily collected before the sale, and a quality report has been obtained from the seed testing laboratory.
+
+k) The stock of expired/banned/poor quality seeds at any Raitha Samparka Kendra (Farmer Contact Center) or identified sales outlets shall be seized.
+
+l) A joint spot inspection report (Mahazar) shall be prepared by the Joint Director of Agriculture and the concerned agency, and submitted to the Head Office, detailing the final date of seed distribution in Form-1 and the details of seeds seized from the seed supplying agencies in Form-2.
+
+m) The Joint Directors of Agriculture of the districts, the Deputy Director of Agriculture (Z.P.), and the Taluk Assistant Directors of Agriculture shall formulate the sowing seed distribution program for the implementation of the scheme and shall successfully manage the program, ensuring no room for any complaints. The complete authority and responsibility in this regard shall lie with them.
+
+n) The Joint Directors of Agriculture of the districts, the Deputy Director of Agriculture (Z.P.), and the Taluk Assistant Directors of Agriculture... the sales centers related to seed distribution (Primary Agricultural...
+
+--- Page 9 ---
+Here is the OCR extraction, correction, and English translation of the provided Kannada document.
+
+### **Corrected Kannada Text**
+
+ಸರ್ಕಾರದ ವತಿಯಿಂದ ಸಂಸ್ಥೆಗಳಿಗೂ/ಸಂಸ್ಥೆಯಿಂದ ಗುರುತಿಸಿದವರಿಗೆ ಸದರಿ ಮಾಂಸದ ಕಂಟ್ರಾಕ್ಟನ್ನು ಹಾಗೂ ಅಂತಹ ಕಂಟ್ರಾಕ್ಟಿನಲ್ಲಿ ತಂದಿರುವ ಮಾಂಸವನ್ನು ದಾಖಲೆಗಳ ಒಂದು ಸಮೂಹದೊಂದಿಗೆ ವಿತರಣೆ ಮಾಡುವುದನ್ನು ನಿಷೇಧಿಸಲ್ಪಟ್ಟಿರುತ್ತದೆ.
+
+**30. ರಶೀದಿಗೆ ನೀಡಬೇಕಾದ ಸಲಹೆಗಳು:**
+a) ಬೇಡಿಕೆ ಪತ್ರದ ಜೊತೆಯಲ್ಲಿ ಲಭ್ಯವಾಗದಿದ್ದಲ್ಲಿ, ಕಾರ್ಖಾನೆಯ ಚಿಕ್ಕ/ತಿಳಿಗುಲಾಬಿ ಬಣ್ಣದ ಚೀಟಿಗಳನ್ನು ಉಪಯೋಗಿಸಬಹುದಾಗಿದೆ.
+b) ಸಂಬಂಧಪಟ್ಟ ಚೀಟಿಗೆ ತಕ್ಕ ಶುಲ್ಕ ಪಾವತಿಸಿ, ಅಂತಹ ಚೀಟಿಗಳನ್ನು ಕಛೇರಿಯಲ್ಲಿ ಪ್ರತ್ಯೇಕವಾಗಿ ಇರಿಸಿಕೊಳ್ಳತಕ್ಕದ್ದು.
+c) ಪ್ರತಿ ಚೀಟಿಗೆ ಪ್ರತ್ಯೇಕವಾದ ರಸೀದಿಯನ್ನು ನೀಡಿರುವುದರಿಂದ ಚೀಟಿಗಾಗಿ ಪಡೆದ ಮೊತ್ತವನ್ನು ತಿಂಗಳ ಬೇಡಿಕೆ ಪತ್ರದ ಜೊತೆ ಹೊಂದಾಣಿಕೆ ಮಾಡಿಕೊಳ್ಳತಕ್ಕದ್ದಲ್ಲ.
+d) ರಶೀದಿ ತಯಾರಿಕೆಯಲ್ಲಿ ಚಿಕ್ಕ/ತಿಳಿಗುಲಾಬಿ ಬಣ್ಣದಂತಹ ಎಲ್ಲಾ ಸಹಾಯ ಸಾಮಗ್ರಿಗಳನ್ನು ತಾವೇ ತಂದುಕೊಳ್ಳುವುದು ಸೂಕ್ತವಾಗಿರುತ್ತದೆ.
+e) ರಶೀದಿ ಹೊಂದಿರುವ ಚೀಟಿಗಳನ್ನು ಸಂಬಂಧಿಸಿದ ಒಂದು ವಾರ ಇಲ್ಲವೆ ಮಾಸಿಕ/ತ್ರೈಮಾಸಿಕ/ಅರ್ಧವಾರ್ಷಿಕ ವರದಿಯನ್ನು ತಪ್ಪದೆ ನೀಡತಕ್ಕದ್ದು.
+
+**31. ಚೀಟಿ ನೀಡುವ ಸಂಬಂಧವಾಗಿ ಸಲಹೆಗಳು:**
+a) ಆಯಾ ಜಿಲ್ಲೆಯ ಅಂಕಿ ಅಂಶಗಳ ನಿರ್ದೇಶಕರು, ಸಂಸ್ಥೆಗಳು, ಚಿಕ್ಕ ಚೀಟಿಗಳನ್ನು consignment ಆಧಾರದ ಮೇಲೆ ಕಂಟ್ರಾಕ್ಟರಿಗೆ ಸಂಬಂಧಪಟ್ಟ ಚಿಕ್ಕ ಚೀಟಿಗಳನ್ನು ಸಂಬಂಧಪಟ್ಟ ಕಛೇರಿಯ ಮುಖಾಂತರವೇ ನೀಡತಕ್ಕದ್ದು.
+b) ಚೀಟಿ ನೀಡುವ ಸಮಯದಲ್ಲಿ ಸಂಸ್ಥೆಗಳು ಚೀಟಿಯಲ್ಲಿನ ಮೊದಲನೆ ಪ್ರತಿಯನ್ನು, ಕಾರ್ಬನ್ ಪ್ರತಿಯನ್ನು ಹಾಗೂ ಎರಡನೆ ಪ್ರತಿಯನ್ನು ಒಂದೇ ಬಾರಿಗೆ ಅಚ್ಚು ಮಾಡಿ, ಕಾರ್ಬನ್ ಪ್ರತಿಯನ್ನು ಮುಂದಿನ ದಾಖಲೆಗಾಗಿ ತಮ್ಮಲ್ಲಿಯೇ ಇಟ್ಟುಕೊಳ್ಳತಕ್ಕದ್ದು.
+c) ಕಾರ್ಖಾನೆಯ ಮಾಂಸದ ಚೀಟಿ ನೀಡಿದ ಬಳಿಕ (packet) ಮೇಲೆ ನಮೂದಾಗಿರುವಂತೆ ಗುರುತಿಸಿದವರಿಗೆ ನೀಡಿರುವ ಬಗ್ಗೆ ಸಂ:/ಆ.ನಿ./ಚಿ.ಕ./2014-15 ದಿನಾಂಕ 09.04.2015ರಲ್ಲಿ ಸೂಚಿಸಿಯಾಗಿದ್ದು, ರಶೀದಿ ನೀಡುವ ಒಮ್ಮೆ ತಮ್ಮ ಸಂಸ್ಥೆಯಲ್ಲಿ ಲಭ್ಯವಿರುವ ಎಲ್ಲ ಚೀಟಿಗಳನ್ನು ಬಳಸಿ, "ದಿನಾಂಕದ ವರದಿಯಲ್ಲಿ ಮಾರಾಟವಾಗದೆ ಉಳಿದ ಮಾಂಸ" ಎಂಬ ಪಟ್ಟಿಯನ್ನು ತಯಾರಿಸಿ ಈ ಕಛೇರಿಗೆ ಸಲ್ಲಿಸತಕ್ಕದ್ದು.
+
+---
+
+### **English Translation**
+
+On behalf of the government, the distribution of the said meat contract to/from institutions to identified persons, as well as the distribution of meat brought under such contract with a set of documents, is prohibited.
+
+**30. Instructions for Issuing Receipts:**
+a) In case demand letters are not available, small/light pink colored slips from the factory can be used.
+b) After paying the appropriate fee for the concerned slip, such slips must be kept separately in the office.
+c) Since a separate receipt is issued for each slip, the amount received for the slip should not be adjusted with the monthly demand letter.
+d) It is advisable to bring all supporting materials, such as small/light pink colored items, for the preparation of receipts yourself.
+e) A weekly or monthly/quarterly/half-yearly report related to the slips for which receipts are held must be submitted without fail.
+
+**31. Instructions Regarding Issuing Slips:**
+a) The Directors of Statistics of the respective districts and the institutions shall issue the small slips on a consignment basis; the relevant small slips shall be given to the contractor only through the concerned office.
+b) At the time of issuing a slip, institutions must print the first copy, the carbon copy, and the second copy all at once, and retain the carbon copy for future records.
+c) As instructed in No: A.Ni./Chi.Ka./2014-15 dated 09.04.2015 regarding the issuance to identified persons as mentioned on the packet after the factory's meat slip is issued; upon issuing the receipt, all available slips in your institution must be used, and a list titled "Meat remaining unsold in the day's report" must be prepared and submitted to this office.
+
+--- Page 10 ---
+[Error: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting]
+
+--- Page 11 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 12 ---
+Here is the OCR, correction, and translation of the provided Kannada document page.
+
+### **Corrected Kannada Text**
+
+c. ಈ ಯೋಜನೆಗಳ ವೆಚ್ಚ ಮಂಜೂರಾತಿ/ ತಾಂತ್ರಿಕ ಮಂಜೂರಾತಿ ಮತ್ತು ಹಾಗೂ ಇತರೆ ಅನುಮೋದನೆಗಳನ್ನು ಪಡೆಯುವುದು.
+d. ಜಿಲ್ಲಾಪಂಚಾಯಿತಿ ಮತ್ತು ತಾಲ್ಲೂಕು ಪಂಚಾಯಿತಿಗಳಿಂದ ಅನುಮೋದನೆ ಪಡೆದು ಕಾಮಗಾರಿಗಳನ್ನು ಪ್ರಾರಂಭಿಸುವುದು.
+e. ಖಾಸಗಿ ಸ್ಥಳದಲ್ಲಿ ಕೈಗೊಳ್ಳುವ ಕಾಮಗಾರಿಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ, ಮಾಲೀಕರಿಂದ ನಿಗದಿತ ನಮೂನೆಯಲ್ಲಿ ಮುಚ್ಚಳಿಕೆ ಪತ್ರ (ನೋಟರೈಸ್) ಪಡೆದು, ಕಾಮಗಾರಿಯನ್ನು ಕೈಗೊಳ್ಳತಕ್ಕದ್ದು.
+
+**38. ಬಿಡ್ಡುದಾರರು ಸಲ್ಲಿಸಬೇಕಾದ ಅರ್ಹತಾ ಮಾನದಂಡಗಳು :-**
+
+i) ಬಿಡ್ಡುದಾರರು ಈ ಕೆಳಕಂಡ ದಾಖಲೆಗಳನ್ನು ಸಲ್ಲಿಸತಕ್ಕದ್ದು :
+
+a) ಸಂಪೂರ್ಣವಾಗಿ ತುಂಬಿದ ಬಿಡ್ಡು ದಾಖಲೆಯ ಪ್ರತಿಯೊಂದು ಪುಟಕ್ಕೂ ಸಹಿ/ಕಂಪೆನಿ ಮುದ್ರೆಯನ್ನು ಹಾಕಿ ಸಲ್ಲಿಸತಕ್ಕದ್ದು.
+
+b) ಸಾಮಾನ್ಯ ದಸ್ತಾವೇಜುಗಳು / ಬಿಡ್ಡು ದರಪಟ್ಟಿ, ಕ್ರಮಬದ್ಧವಾಗಿ ಭರ್ತಿ ಮಾಡಿದ ಹಾಗೂ ಅಧಿಕಾರಯುತವಾಗಿ ಸಹಿ ಮಾಡಿದಂತಹ (ಪೂರ್ಣ ವಿವರಗಳನ್ನೊಳಗೊಂಡ) ದಾಖಲೆಗಳನ್ನು ಸಲ್ಲಿಸುವುದು.
+
+c) ಈ ಬಗ್ಗೆ, ಮತ್ತು ಸ್ಪಷ್ಟವಾಗಿ ನಮೂದಿಸದ ತೆರಿಗೆಯು ಆ ದರದಲ್ಲಿಯೇ ಅಡಕವಾಗಿದೆ ಎಂದು ಭಾವಿಸಿ, ಆದಾಯ ತೆರಿಗೆ, ಮಾರಾಟ ತೆರಿಗೆ ಮತ್ತು ಇತರೆ ತೆರಿಗೆಗಳನ್ನು ಗುತ್ತಿಗೆದಾರರೇ ಭರಿಸತಕ್ಕದ್ದು.
+
+d) RFP ದಾಖಲೆಯಲ್ಲಿ ತಿಳಿಸಿರುವಂತೆ, ಬಿಡ್ಡುದಾರರು ದರಗಳನ್ನು ನಮೂದಿಸಬೇಕು, ಹಾಗೂ ಪ್ರತಿಯೊಂದು ಪುಟಕ್ಕೂ ಸಹಿ ಮಾಡಿರಬೇಕು. ಸದರಿ ದರಗಳು ಪ್ರಸ್ತುತ ವರ್ಷದ ದರಪಟ್ಟಿಯನ್ನು ಆಧರಿಸಿರಬೇಕು. ಹಾಗೂ ಈ ದರಗಳು ಬಿಡ್ಡು ತೆರೆಯುವ ದಿನಾಂಕದಿಂದಲೇ ಜಾರಿಯಲ್ಲಿರಬೇಕು. ಹಾಗೂ ಇದು ಯಾವ ಕಾರಣಕ್ಕೂ ಪರಿಷ್ಕರಣೆಗೆ ಒಳಪಡುವುದಿಲ್ಲ. ಹಾಗೂ ಯಶಸ್ವಿಯಾಗದ ಬಿಡ್ಡುದಾರರಿಗೆ EMDಯನ್ನು ಮರುಪಾವತಿಸಲಾಗುವುದು.
+
+ii) ಬಿಡ್ಡುದಾರರು ಬಿಡ್ಡುಗಳನ್ನು ಸಲ್ಲಿಸುವಾಗ, ಏಕರೂಪವಾಗಿ, ಸ್ಪಷ್ಟವಾಗಿ, ದರಗಳನ್ನು ನಮೂದಿಸಿರಬೇಕು. ಮತ್ತು ರದ್ದುಪಡಿಸಲು, ತಿದ್ದುಪಡಿಗಳನ್ನು, ಅಳಿಸಿರುವುದನ್ನು ಪರಿಗಣಿಸಲಾಗುವುದಿಲ್ಲ. ರದ್ದುಪಡಿಸಿದ/ತಿದ್ದಿದ ದರಗಳನ್ನು ತಿರಸ್ಕರಿಸಲಾಗುವುದು.
+
+**39.** ವಿಫಲರಾದ ಬಿಡ್ಡುದಾರರ ಭದ್ರತಾ ಠೇವಣಿಯನ್ನು, ಬಿಡ್ಡು ಅಂಗೀಕಾರವಾದ ನಂತರ, ಸಕ್ಷಮ ಪ್ರಾಧಿಕಾರದಿಂದ ಆದೇಶವಾದ ನಂತರ ಹಿಂದಿರುಗಿಸಲಾಗುವುದು. (RFP ದಾಖಲೆಯಲ್ಲಿನ ನಿಬಂಧನೆಗಳಂತೆ).
+
+**40.** ವಿಫಲರಾದ ಬಿಡ್ಡುದಾರರ ಬಿಡ್ಡು ಭದ್ರತಾ ಹಣ, ಅಂದರೆ, ಟೆಂಡರ್ ಹಣದ ಮಾರ್ಗಸೂಚಿಗಳನ್ವಯ ಹಿಂದಿರುಗಿಸಲಾಗುವುದು.
+
+**41.** **ಬಿಡ್ಡುಗಳ ಪರಿಶೀಲನೆ ಹಾಗೂ ಮೌಲ್ಯಮಾಪನ ಮಾಡಲು ಅನುಸರಿಸಬೇಕಾದ ಕ್ರಮಗಳು:**
+
+a) ಬಿಡ್ಡು ಪರಿಶೀಲನಾ ಸಮಿತಿಯು, ಬಿಡ್ಡುಗಳನ್ನು ತೆರೆದಾಗ ಈ ಕೆಳಕಂಡ ದಾಖಲೆಗಳನ್ನು/ಅಂಶಗಳನ್ನು ಪರಿಶೀಲಿಸತಕ್ಕದ್ದು:
+
+---
+
+### **English Translation**
+
+c. To obtain cost sanction/technical sanction and other approvals for these projects.
+d. To start the works after obtaining approval from the Zilla Panchayat and Taluk Panchayats.
+e. Regarding works undertaken on private property, the work shall be undertaken after obtaining an undertaking letter (notarized) from the owner in the prescribed format.
+
+**38. Eligibility Criteria to be Submitted by the Bidders:-**
+
+i) Bidders shall submit the following documents:
+
+a) The completely filled bid document must be submitted with a signature/company seal on each and every page.
+
+b) General documents / Bid rate schedule, which are duly filled and authentically signed (containing full details), must be submitted.
+
+c) In this regard, it shall be assumed that taxes not explicitly mentioned are included in the quoted rate, and the contractor shall bear the income tax, sales tax, and other taxes.
+
+d) As mentioned in the RFP document, bidders must quote the rates and must sign every page. The said rates must be based on the current year's schedule of rates. These rates shall be in effect from the date of bid opening. Also, this will not be subject to revision for any reason. Further, the EMD (Earnest Money Deposit) will be refunded to the unsuccessful bidders.
+
+ii) When submitting bids, the bidders must quote the rates uniformly and clearly. Cancellations, corrections, and erasures will not be considered. Rates that are cancelled/corrected will be rejected.
+
+**39.** The security deposit of the unsuccessful bidders will be returned after the bid is accepted and upon orders from the competent authority. (As per the terms in the RFP document).
+
+**40.** The bid security amount, i.e., the earnest money, of the unsuccessful bidders will be returned as per the guidelines.
+
+**41. Procedure to be followed for Bid Scrutiny and Evaluation:**
+
+a) The Bid Scrutiny Committee, upon opening the bids, shall verify the following documents/aspects:
+
+--- Page 13 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 14 ---
+Of course. As an OCR and translation expert, I have processed the provided Kannada government document.
+
+Here is the extracted and corrected Kannada text, followed by its fluent English translation.
+
+### Corrected Kannada Text
+
+ನಮೂನೆ – 1
+
+ಜಂಟಿ ಕೃಷಿ ನಿರ್ದೇಶಕರು
+
+---
+
+### English Translation
+
+**Form – 1**
+
+Progress of seed distribution under Seeds Supply and Other investments Scheme during 2025-26
+
+District: ....................
+
+**(Table)**
+*(The table structure and its headers are already in English. It is a form to track the distribution of seeds under various government schemes, categorized by Head of Account, crop type, and beneficiary type.)*
+
+**NOTE:** * Information on Farm Women beneficiaries and Minority should be furnished compulsorily.
+
+FW: Farm Woman, SF: Small Farmer, MF: Marginal Farmer, BF: Big Farmer, Min: Minority
+
+**Joint Director of Agriculture**
+
+--- Page 15 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 16 ---
+[Error: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting]
+
+--- Page 17 ---
+Of course. Here is the OCR extraction, correction, and translation of the provided document page.
+
+### Corrected Kannada & English Text (OCR)
+
+**ಅನುಬಂಧ-1**
+**List of MOU Companies**
+
+| Sl. No. | Supplier Name | Crops | Variety/ Hybrid | MOU Agencies |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Agarwal Agro Agencies | Soyabean | JS 335 | Param Agro Seeds, Assure Agro Genetics |
+| 2 | Agarwal Agro Agencies | Soyabean | KDS-726 | Param Agro Seeds, |
+| 3 | Agarwal Agro Agencies | Soyabean | KDS-753 | Param Agro Seeds, |
+| 4 | Agro Distributors | Maize | 3591 | Rasi Seeds Pvt Ltd |
+| 5 | Agro Distributors | Maize | 3033 (747) | Rasi Seeds Pvt Ltd |
+| 6 | Atlas Seeds & Biotech | Soyabean | JS 335 | Sri Vinayaka Seeds |
+| 7 | Basaganni Seeds Farm | Maize | HTMH-5404 | Hytech Seeds India Pvt Ltd |
+| 8 | Basaganni Seeds Farm | Maize | HTMH-5402 | Hytech Seeds India Pvt Ltd |
+| 9 | Basaganni Seeds Farm | Maize | HTMH-5203 | Hytech Seeds India Pvt Ltd |
+| 10 | Basaganni Seeds Farm | Maize | HTMH-5108 | Hytech Seeds India Pvt Ltd |
+| 11 | Basaganni Seeds Farm | Maize | HTMH-5109 | Hytech Seeds India Pvt Ltd |
+| 12 | HIL India LTd | Groundnut | TMV-2 (TL) pod | Indiago Seeds Pvt Ltd |
+| 13 | Karnataka Hitech Agro Enterprises. | Soyabean | JS 335 | Annapoorna Seeds, Vimal Industries |
+| 14 | Karnataka Hitech Agro Enterprises. | Soyabean | JS-9305 | Annapoorna Seeds, |
+| 15 | Karnataka State Seeds corporation | Groundnut | TMV-2 (TL) pod | Sri Madiwaleshwara Seeds |
+| 16 | Parshv Genetics India | Soyabean | JS 335 | Parshv Genetics India LLP |
+| 17 | Sai Krishi Kendra | Soyabean | JS-335 | Sri siddhivinayak Agro Seeds |
+| 18 | Siddarth Seeds Company | Soyabean | JS-335 | Pranam Seeds & Agritech |
+| 19 | Siddarth Seeds Company | Soyabean | JS-9305 | Pranam Seeds & Agritech |
+| 20 | Siddarth Seeds Company | Soyabean | KDS-726 | Pranam Seeds & Agritech |
+| 21 | Siddarth Seeds Company | Soyabean | KDS-753 | Pranam Seeds & Agritech |
+| 22 | Sri Raghavendra Agro Agencies | Soyabean | JS-335 | Star Organic Sollutions |
+| 23 | Sri Sai Agro Service | Bajra | JKBH-676(MH-1299) | JK Agrigenetics Ltd |
+| 24 | Sri Sai Agro Service | Jowar | JKSH-22 | JK Agrigenetics Ltd |
+| 25 | Sri Sai Agro Service | Maize | JKMH-4848 | JK Agrigenetics Ltd |
+| 26 | Sri Sai Agro Service | Maize | JKMH-502 | JK Agrigenetics Ltd |
+| 27 | Sri Sai Agro Service | Maize | JKMH-1001 | JK Agrigenetics Ltd |
+| 28 | Sri Siddeshwara Agencies | Soyabean | JS-335 | Santhosi Seeds |
+| 29 | Sriram Bio Seed Genetics (DCM Shriram Ltd) | Maize | Bio-151 | Bioseed Research India Pvt Ltd |
+| 30 | Sriram Bio Seed Genetics (DCM Shriram Ltd) | Maize | Bio-716 (Rajkumar) | Bioseed Research India Pvt Ltd |
+| 31 | Varada Agencies | Hy. Paddy | MRP-5408 (MEPH-114) | Mahyco Seeds Pvt Ltd |
+| 32 | Varada Agencies | Bajra | MRB-2272 | Mahyco Seeds Pvt Ltd |
+| 33 | Varada Agencies | Maize | MRM-4064 | Mahyco Seeds Pvt Ltd |
+
+---
+
+### English Translation
+
+**Annexure-1**
+**List of MOU Companies**
+
+| Sl. No. | Supplier Name | Crops | Variety/ Hybrid | MOU Agencies |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Agarwal Agro Agencies | Soybean | JS 335 | Param Agro Seeds, Assure Agro Genetics |
+| 2 | Agarwal Agro Agencies | Soybean | KDS-726 | Param Agro Seeds, |
+| 3 | Agarwal Agro Agencies | Soybean | KDS-753 | Param Agro Seeds, |
+| 4 | Agro Distributors | Maize | 3591 | Rasi Seeds Pvt Ltd |
+| 5 | Agro Distributors | Maize | 3033 (747) | Rasi Seeds Pvt Ltd |
+| 6 | Atlas Seeds & Biotech | Soybean | JS 335 | Sri Vinayaka Seeds |
+| 7 | Basaganni Seeds Farm | Maize | HTMH-5404 | Hytech Seeds India Pvt Ltd |
+| 8 | Basaganni Seeds Farm | Maize | HTMH-5402 | Hytech Seeds India Pvt Ltd |
+| 9 | Basaganni Seeds Farm | Maize | HTMH-5203 | Hytech Seeds India Pvt Ltd |
+| 10 | Basaganni Seeds Farm | Maize | HTMH-5108 | Hytech Seeds India Pvt Ltd |
+| 11 | Basaganni Seeds Farm | Maize | HTMH-5109 | Hytech Seeds India Pvt Ltd |
+| 12 | HIL India Ltd | Groundnut | TMV-2 (TL) pod | Indiago Seeds Pvt Ltd |
+| 13 | Karnataka Hitech Agro Enterprises. | Soybean | JS 335 | Annapoorna Seeds, Vimal Industries |
+| 14 | Karnataka Hitech Agro Enterprises. | Soybean | JS-9305 | Annapoorna Seeds, |
+| 15 | Karnataka State Seeds Corporation | Groundnut | TMV-2 (TL) pod | Sri Madiwaleshwara Seeds |
+| 16 | Parshv Genetics India | Soybean | JS 335 | Parshv Genetics India LLP |
+| 17 | Sai Krishi Kendra | Soybean | JS-335 | Sri Siddhivinayak Agro Seeds |
+| 18 | Siddarth Seeds Company | Soybean | JS-335 | Pranam Seeds & Agritech |
+| 19 | Siddarth Seeds Company | Soybean | JS-9305 | Pranam Seeds & Agritech |
+| 20 | Siddarth Seeds Company | Soybean | KDS-726 | Pranam Seeds & Agritech |
+| 21 | Siddarth Seeds Company | Soybean | KDS-753 | Pranam Seeds & Agritech |
+| 22 | Sri Raghavendra Agro Agencies | Soybean | JS-335 | Star Organic Solutions |
+| 23 | Sri Sai Agro Service | Bajra (Pearl Millet) | JKBH-676(MH-1299) | JK Agrigenetics Ltd |
+| 24 | Sri Sai Agro Service | Jowar (Sorghum) | JKSH-22 | JK Agrigenetics Ltd |
+| 25 | Sri Sai Agro Service | Maize | JKMH-4848 | JK Agrigenetics Ltd |
+| 26 | Sri Sai Agro Service | Maize | JKMH-502 | JK Agrigenetics Ltd |
+| 27 | Sri Sai Agro Service | Maize | JKMH-1001 | JK Agrigenetics Ltd |
+| 28 | Sri Siddeshwara Agencies | Soybean | JS-335 | Santhosi Seeds |
+| 29 | Sriram Bio Seed Genetics (DCM Shriram Ltd) | Maize | Bio-151 | Bioseed Research India Pvt Ltd |
+| 30 | Sriram Bio Seed Genetics (DCM Shriram Ltd) | Maize | Bio-716 (Rajkumar) | Bioseed Research India Pvt Ltd |
+| 31 | Varada Agencies | Hybrid Paddy | MRP-5408 (MEPH-114) | Mahyco Seeds Pvt Ltd |
+| 32 | Varada Agencies | Bajra (Pearl Millet) | MRB-2272 | Mahyco Seeds Pvt Ltd |
+| 33 | Varada Agencies | Maize | MRM-4064 | Mahyco Seeds Pvt Ltd |
+
+--- Page 18 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 19 ---
+Of course. Here is the OCR, correction, and translation of the provided document page.
+
+### Corrected Kannada Text
+
+ಅನುಬಂಧ-2
+
+### English Translation
+
+Annexure-2
+**List of Seed Suppliers during Kharif-202[..]**
+
+| SL. NO | NAME OF THE COMPANY | MOBILE NO | e-Mail ID |
+| :--- | :--- | :--- | :--- |
+| 1 | ADVANTA ENTERPRISES LIMITED, E-35 & E-37, APMC YARD, E BLOCK, OPP HP OIL GODOWN, DAVANGERE - 577003. V.PAUL AUSTIN | 9448283129 | paul.austin@advantaseeds.com |
+| 2 | AGARWAL AGRO AGENCIES, D/112 SHINDE COMPLEX, NEELIGIN ROAD, HUBLI - 580029 | 9448112901 | aaahubli@gmail.com |
+| 3 | M/S AGRO DISTRIBUTORS, CHIKKAVEERANNAWAR COMPLEX, NEELIGIN ROAD, HUBLI - 29. CONTACT PERSON: NAGABHUSHAN BANNIGIDAMATH | 9008203429 | agrodistributors@gmail.com |
+| 4 | AGRO SEEDS CORPORATION #619 M C LAYOUT NEAR BETHUR HALLA BRIDGE BETHURU RING ROAD JAGALUR MAIN ROAD DAVANGERE. NAME: S C NAGARAJ | 9845472073 | agroseeds97@gmail.com |
+| 5 | AMITH SEEDS #60, SHIVAJI CHOWK, KHANDWA (M.P). CONTACT PERSON: AMITH AGARWAL | 7204080121 | amigarg@gmail.com |
+| 6 | ARUNODAYA SEEDS PRIVATE LIMITED, NO 4/5 1ST MAIN 4TH CROSS OPP OLD GYM MARUTHI NAGAR YELAHANKA BANGALORE 560064. CONTACT PERSON: P B SRINIVASA REDDY | 9449813719 | arunodayaseeds@yahoo.com |
+| 7 | ARUNODHAYA ENTERPRISES, BESIDE HIGH SCHOOL, MOKA MAIN ROAD, NEW MOKA POST N VILLAGE BALLARI TQ N DISTRICT 583117. R S HARISH KUMAR | 8951178050, 9480503986 | krs3943@gmail.com |
+| 8 | ASHA AGRISCIENCES PRIVATE LIMITED # NO, 868/1-11-A, SHANKAR VIHAR BADAVANE, PB ROAD, BEHIND SHREE MALLIKARJUNA ITI COLLEGE, DAVANGERE-577006 | 9886468989 | tammanagouda.p@yaagantiseeds.in |
+| 9 | ASHWIN SEEDS, SURVEY NO. 117/B, GUTTAL ROAD, GUDDADANNVERI VILLAGE, PO & TQ: RANIBENNUR-581115. ASHWIN BIRADAR | 9113052690, 9844132589 | ashwinseeds.rnr@gmail.com |
+| 10 | ATLAS SEEDS AND BIOTECH, Karmveer Complex, Badabom, KHANDWA (M P) Pin -450001 | 9448457301/9425342922 | svs.info@gmail.com |
+| 11 | BASEGANNI SEEDS FARM W NO 15, BLOCK NO 4, SHOP NO 1, K.C.ROAD, BALLARI-583101. B.SURESH | 9448056225 | baseganniseedsfarm@gmail.com |
+| 12 | CHAROEN POKPHAND SEEDS INDIA PVT LTD #12/1, SRINIDHI LANDMARK, NEW THIPPASANDRA, HAL 3RD STAGE, BANGALORE 560075. CONTACT PERSON: METHAR.P | 9945230018 | methar.p@cpseeds.in |
+| 13 | GANGAKAVERI SEEDS PVT LTD 247, 13A CROSS, BASAVANAPURA MAIN ROAD, NEAR CAMBRIDGE SCHOOL, KR PURAM, BANGALORE 560036. M RAVIKUMAR | 9448001609 | mrravi.kumar@gangakaveri.in |
+| 14 | KARNATAKA CO OPERATIVE OILSEEDS GROWERS FEDERATION LIMITED, # 11 4TH FLOOR BLUE CROSS CHAMBERS INFANTRY ROAD BANGALORE -1. CONTACT PERSON: SURESH | 9591812050 | pi@kof.co.in, bvsuresh@kof.co.in |
+| 15 | KARNATAKA HITECH AGRO ENTERPRISES, PLOT NO M-5&M-6 INDUSTRIAL ESTATE HATALGERE NAKA GADAG - 582101. CONTACT PERSON: I L PATIL | 9448285802 | ilpatil1500@gmail.com |
+| 16 | KARNATAKA STATE SEEDS CORPORATION LTD, BEEJ BHAVAN, BELLARY ROAD, HEBBAL, BANGALORE -24. CONTACT PERSON: RAMAKRISHNA | 9141013062 | mktg.kssc@gmail.com |
+
+--- Page 20 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 21 ---
+Of course. As an OCR and translation expert, I have processed the document image you provided.
+
+Please note that the document provided is written entirely in English, not Kannada. It appears to be a document from a government department in Karnataka, where Kannada is the official language, but this particular page uses English.
+
+Therefore, I have performed OCR to extract the English text, corrected any errors, and will present this as the "Corrected Text". As the source text is already in English, the "translation" will be the same text.
+
+***
+
+### **Corrected English Text (from OCR)**
+
+| SL. NO | NAME OF THE COMPANY | MOBILE NO | e-Mail ID |
+| :--- | :--- | :--- | :--- |
+| 35 | M/S REGIONAL OIL SEEDS GROWERS CO OP SOCIETY UNION LTD, PLOT NO 74/A KELAGOTE INDUSTRIAL AREA CHITRADURGA - 577501 | 9591812110 | kofcta3@gmail.com |
+| 36 | REGIONAL OILSEEDS GROWERS CO-OP SOCIETIES UNION LTD, TAJNAGAR, HUBLI- 580031 SHIVAPRAKASH L, NINGARAJ DAMBAL | 99005 53039, 9008516771 | kof.hubli@gmail.com |
+| 37 | SANGAM AGRO TECH ENTERPRISES, PLOT NO:81, AGRO TECH PARK INDUSTRIAL AREA, NAVANAGAR, BAGALKOTE. CONTACT PERSON : S S GADDI | 9448003416 | santoshgaddi1176@gmail.com |
+| 38 | SANGAMESHWAR SEEDS, KAMBLIHAL, HUNUGUND TALUK. CONTACT PERSON, N M CHALGERI | 9448789548, 9972143744 | ssseedskamblihal@gmail.com |
+| 39 | SAHAJA CROP SCIENCES PRIVATE LIMITED #1031/6, APMC YARD, B BLOCK, DAVANAGERE - 577003 | 9113026155 | sahajacrops@gmail.com |
+| 40 | SAI KRISHI KENDRA 9-7-12, GANDHI GUNJ BIDAR-585403 MADIVALAPPA GANSHETTY | 9448126557 | saikrishikendra@Rediffmail.com |
+| 41 | SHANTI TRADING COMPANY, NO3/16, KC ROAD BELLARY 583101 CONTACT PERSON : VIJAY KUMAR TALEDAR | 9448071530 | shanthitradingco@rediffmail.com |
+| 42 | SHIVA HYBRID SEEDS WARD NO.4, DOOR NO.489, HARAPANAHALLI ROAD, KOTTUR, BALLARI - 583134. CONTACT PERSON: K M KOTRESH | 7026401111 | kotreshg70@gmail.com |
+| 43 | M/S SRI SIDDESHWARA AGENCIES, 4011, 1ST FLOOR, KAKATIVES ROAD, BELGAUM-590002. | 9448110563 | siddsai@hotmail.com |
+| 44 | SIDDHARTH SEEDS COMPANY IN FRONT OF RELIANCE PETROL PUMP, BURHANPUR ROAD, KHANDWA(M.P.) SANTOSH MAHESHWARI | 9425928535 | ssc.santosh2014@gmail.com |
+| 45 | SIRI SEEDS (INDIA) PRIVATE LIMITED, # 301 & 302, 3RD FLOOR, 6-3-1099/1100, BABUKHAN MILLENIUM CENTER, RAJ BHAVAN ROAD, SOMAJIGUDA, HYDERABAD - 500082 TELANGANA | 9611129817 | shashi.l@siriseeds.com |
+| 46 | SHRI AMARESHWAR SEEDS, SVP COLLAGE NEAR, NALATWAD-586124, MAHANATESH A GANGANAGOUDAR 9731481657, 9844507385 | 9731481657, 9844507385 | amareshwarseedsnlt@gmail.com |
+| 47 | SRI GAURISHANKAR AGRO INPUTS PRIVATE LIMITED, D-15/16, 1ST FLOOR, SHINDE COMPLEX, NEILGIN ROAD, HUBLI-580029 CONTACT PERSON : RAMESH V BONNAGERI | 9480690657 | gaurishankaragro@gmail.com |
+| 48 | SHRIRAM BIOSEED GENETICS. C/O PAREKH INTEGRATED SERVICES PVT LTD 75/2B, KALEBUDDE WAREHOUSE COMPOUND PB ROAD, HUBBALI-580029 SUDHEER KORIPALLI | 80730 15995 | sudheer.koripalli@bioseed.com |
+| 49 | M/S SRI MADIWALESHWARA SEEDS DHAWALAGI | 9448301821 | srkkas2020@gmail.com |
+| 50 | M/S. SREE RAGHAVENDRA AGRO AGENCY W.NO.01, D.NO. I 60, MAIN ROAD, B.D.HALLI VILLAGE, BALLARI TALUK AND DIST. | 9902604606 | raghavendrasraa@gmail.com |
+
+***
+
+### **English Translation**
+
+| SL. NO | NAME OF THE COMPANY | MOBILE NO | e-Mail ID |
+| :--- | :--- | :--- | :--- |
+| 35 | M/S REGIONAL OIL SEEDS GROWERS CO OP SOCIETY UNION LTD, PLOT NO 74/A KELAGOTE INDUSTRIAL AREA CHITRADURGA - 577501 | 9591812110 | kofcta3@gmail.com |
+| 36 | REGIONAL OILSEEDS GROWERS CO-OP SOCIETIES UNION LTD, TAJNAGAR, HUBLI- 580031 SHIVAPRAKASH L, NINGARAJ DAMBAL | 99005 53039, 9008516771 | kof.hubli@gmail.com |
+| 37 | SANGAM AGRO TECH ENTERPRISES, PLOT NO:81, AGRO TECH PARK INDUSTRIAL AREA, NAVANAGAR, BAGALKOTE. CONTACT PERSON : S S GADDI | 9448003416 | santoshgaddi1176@gmail.com |
+| 38 | SANGAMESHWAR SEEDS, KAMBLIHAL, HUNUGUND TALUK. CONTACT PERSON, N M CHALGERI | 9448789548, 9972143744 | ssseedskamblihal@gmail.com |
+| 39 | SAHAJA CROP SCIENCES PRIVATE LIMITED #1031/6, APMC YARD, B BLOCK, DAVANAGERE - 577003 | 9113026155 | sahajacrops@gmail.com |
+| 40 | SAI KRISHI KENDRA 9-7-12, GANDHI GUNJ BIDAR-585403 MADIVALAPPA GANSHETTY | 9448126557 | saikrishikendra@Rediffmail.com |
+| 41 | SHANTI TRADING COMPANY, NO3/16, KC ROAD BELLARY 583101 CONTACT PERSON : VIJAY KUMAR TALEDAR | 9448071530 | shanthitradingco@rediffmail.com |
+| 42 | SHIVA HYBRID SEEDS WARD NO.4, DOOR NO.489, HARAPANAHALLI ROAD, KOTTUR, BALLARI - 583134. CONTACT PERSON: K M KOTRESH | 7026401111 | kotreshg70@gmail.com |
+| 43 | M/S SRI SIDDESHWARA AGENCIES, 4011, 1ST FLOOR, KAKATIVES ROAD, BELGAUM-590002. | 9448110563 | siddsai@hotmail.com |
+| 44 | SIDDHARTH SEEDS COMPANY IN FRONT OF RELIANCE PETROL PUMP, BURHANPUR ROAD, KHANDWA(M.P.) SANTOSH MAHESHWARI | 9425928535 | ssc.santosh2014@gmail.com |
+| 45 | SIRI SEEDS (INDIA) PRIVATE LIMITED, # 301 & 302, 3RD FLOOR, 6-3-1099/1100, BABUKHAN MILLENIUM CENTER, RAJ BHAVAN ROAD, SOMAJIGUDA, HYDERABAD - 500082 TELANGANA | 9611129817 | shashi.l@siriseeds.com |
+| 46 | SHRI AMARESHWAR SEEDS, SVP COLLAGE NEAR, NALATWAD-586124, MAHANATESH A GANGANAGOUDAR 9731481657, 9844507385 | 9731481657, 9844507385 | amareshwarseedsnlt@gmail.com |
+| 47 | SRI GAURISHANKAR AGRO INPUTS PRIVATE LIMITED, D-15/16, 1ST FLOOR, SHINDE COMPLEX, NEILGIN ROAD, HUBLI-580029 CONTACT PERSON : RAMESH V BONNAGERI | 9480690657 | gaurishankaragro@gmail.com |
+| 48 | SHRIRAM BIOSEED GENETICS. C/O PAREKH INTEGRATED SERVICES PVT LTD 75/2B, KALEBUDDE WAREHOUSE COMPOUND PB ROAD, HUBBALI-580029 SUDHEER KORIPALLI | 80730 15995 | sudheer.koripalli@bioseed.com |
+| 49 | M/S SRI MADIWALESHWARA SEEDS DHAWALAGI | 9448301821 | srkkas2020@gmail.com |
+| 50 | M/S. SREE RAGHAVENDRA AGRO AGENCY W.NO.01, D.NO. I 60, MAIN ROAD, B.D.HALLI VILLAGE, BALLARI TALUK AND DIST. | 9902604606 | raghavendrasraa@gmail.com |
+
+--- Page 22 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]

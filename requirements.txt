@@ -1,0 +1,12 @@
+fitz
+dotenv
+langchain
+langgraph
+langchain-huggingface
+langchain-astradb
+pdf2image
+tools
+sentence-transformers
+fastapi
+uvicorn
+groq

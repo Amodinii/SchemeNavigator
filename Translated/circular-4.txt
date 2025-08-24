@@ -1,0 +1,161 @@
+
+--- Page 1 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 2 ---
+Here is the OCR, correction, and translation of the provided document.
+
+### 1. Corrected Kannada Text
+
+```kannada
+ಅನುಬಂಧ-1
+```
+
+### 2. English Translation
+
+```english
+Annexure-1
+
+Accepted Rates of Soyabean Varieties offered in the RFP during Kharif 2025
+
+(Quantity in quintals, Rate in Rs. per quintal)
+```
+
+**Kharif 2025 Certified**
+
+| Sl. No. | Supplier Name | Variety/ Hybrid | Approved Qty | Approved Rate |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Regional Oilseeds growers Coop Society, Hubli | DSB-21 | 1500 | 7540 |
+| | Karnataka Oil Seeds Growers Fedaration | DSB-21 | 1100 | 7540 |
+| | Karnataka State Seeds corporation | DSB-21 | 110 | 7540 |
+| | HIL India Ltd | DSB-21 | 1500 | 7540 |
+| | Amith Seeds | DSB-21 | 175 | 7540 |
+| | Sri Gourishankar Agro Inputs Pvt Ltd | DSB-21 | 906 | 7540 |
+| | Sri Maltesh Krishi Kendra | DSB-21 | 5796 | 7540 |
+| | Varada Seeds Farm | DSB-21 | 1304 | 7540 |
+| | Varun Hybrid Seeds | DSB-21 | 2609 | 7540 |
+| | | **Total** | **15000** | **7540** |
+| 2 | Varun Hybrid Seeds | DSB-23 | 27 | 8100 |
+| | | **Total** | **27** | |
+| 3 | Karnataka State Seeds corporation | DSB-34 | 2500 | 7540 |
+| | National Seeds Corporation Ltd | DSB-34 | 450 | 7540 |
+| | Regional Oilseeds growers Coop Society, Hubli | DSB-34 | 1000 | 7540 |
+| | Amith Seeds | DSB-34 | 198 | 7540 |
+| | Sri Gourishankar Agro Inputs Pvt Ltd | DSB-34 | 992 | 7540 |
+| | Sri Maltesh Krishi Kendra | DSB-34 | 2007 | 7540 |
+| | Varun Hybrid Seeds | DSB-34 | 12853 | 7540 |
+| | | **Total** | **20000** | |
+| 4 | Karnataka State Seeds corporation | JS-335 | 6292 | 7045 |
+| | Agarwal Agro Agencies | JS 335 | 9095 | 7045 |
+| | Atlas Seeds & Biotech | JS 335 | 6096 | 7045 |
+| | Karnataka Hitech Agro Enterprises. | JS 335 | 7925 | 7045 |
+| | Amith Seeds | JS 335 | 18696 | 7045 |
+| | Arunodhaya Enterprises | JS 335 | 2648 | 7045 |
+| | Parshv Genetics India | JS 335 | 9144 | 7045 |
+| | Mamta Seeds | JS-335 | 6157 | 7045 |
+| | Sunderam Enterprises Pvt Ltd | JS-335 | 7925 | 7045 |
+| | Varada Seeds Farm | JS-335 | 11887 | 7045 |
+| | Krishi Kanchan Seeds | JS-335 | 1933 | 7045 |
+
+--- Page 3 ---
+Of course. As an OCR and translation expert, I have processed the provided image.
+
+The source document is entirely in English, containing details about certified seeds for the Kharif 2025 season. Below is the accurate text extraction and its English representation.
+
+### Corrected Kannada Text
+
+***[Note: The source document is in English, not Kannada. The extracted and corrected English text is provided below.]***
+
+| Sl. No. | Supplier Name | Variety/ Hybrid | Approved Qty | Approved Rate |
+| :--- | :--- | :--- | :--- | :--- |
+| | | | **Kharif 2025 Certified** | |
+| | Sai Krishi Kendra | JS-335 | 1219 | 7045 |
+| | Siddarth Seeds Company | JS-335 | 10972 | 7045 |
+| | Sri Gourishankar Agro Inputs Pvt Ltd | JS-335 | 5544 | 7045 |
+| | Sri Maltesh Krishi Kendra | JS-335 | 1295 | 7045 |
+| | Sri Raghavendra Agro Agencies | JS-335 | 7925 | 7045 |
+| | Sri Raghavendra Agro Service | JS-335 | 1865 | 7045 |
+| | Sri Siddeshwara Agencies | JS-335 | 6886 | 7045 |
+| | Varun Hybrid Seeds | JS-335 | 16497 | 7045 |
+| | | **Total** | **140000** | |
+| 5 | Karnataka Hitech Agro Enterprises. | JS-9305 | 185 | 7180 |
+| | Siddarth Seeds Company | JS-9305 | 185 | 7180 |
+| | Sunderam Enterprises Pvt Ltd | JS-9305 | 946 | 7180 |
+| | Varada Seeds Farm | JS-9305 | 185 | 7180 |
+| | | **Total** | **1500** | |
+| 6 | Karnataka State Seeds corporation | KDS-726 | 872 | 7180 |
+| | National Seeds Corporation Ltd | KDS-726 | 2500 | 7180 |
+| | HIL India LTd | KDS-726 | 6250 | 7180 |
+| | Agarwal Agro Agencies | KDS-726 | 296 | 7180 |
+| | Sunderam Enterprises Pvt Ltd | KDS-726 | 432 | 7180 |
+| | Amith Seeds | KDS-726 | 387 | 7180 |
+| | Siddarth Seeds Company | KDS-726 | 263 | 7180 |
+| | Sri Gourishankar Agro Inputs Pvt Ltd | KDS-726 | 179 | 7180 |
+| | Sri Maltesh Krishi Kendra | KDS-726 | 680 | 7180 |
+| | Varada Seeds Farm | KDS-726 | 184 | 7180 |
+| | Varun Hybrid Seeds | KDS-726 | 2957 | 7180 |
+| | | **Total** | **15000** | |
+| 6 | National Seeds Corporation Ltd | KDS-753 | 3000 | 7180 |
+| | Agarwal Agro Agencies | KDS-753 | 772 | 7180 |
+| | Amith Seeds | KDS-753 | 471 | 7180 |
+| | Siddarth Seeds Company | KDS-753 | 514 | 7180 |
+| | Sri Maltesh Krishi Kendra | KDS-753 | 612 | 7180 |
+| | Varun Hybrid Seeds | KDS-753 | 4630 | 7180 |
+| | | **Total** | **10000** | |
+| 7 | Varun Hybrid Seeds | KDS-992 | 1440 | 8100 |
+| | Varun Hybrid Seeds | MACS-1460 | 185 | 8100 |
+| | Varun Hybrid Seeds | MAUS-612 | 417 | 8100 |
+| | | **Grand Total** | **203569** | |
+
+**Note:** Less than 5 Year old varieties of Certified seeds to be distributed for demonstration under NMEO-OS scheme as per the guidelines.
+
+Director of Agriculture
+
+---
+
+### English Translation
+
+| Sl. No. | Supplier Name | Variety/ Hybrid | Approved Qty | Approved Rate |
+| :--- | :--- | :--- | :--- | :--- |
+| | | | **Kharif 2025 Certified** | |
+| | Sai Krishi Kendra | JS-335 | 1219 | 7045 |
+| | Siddarth Seeds Company | JS-335 | 10972 | 7045 |
+| | Sri Gourishankar Agro Inputs Pvt Ltd | JS-335 | 5544 | 7045 |
+| | Sri Maltesh Krishi Kendra | JS-335 | 1295 | 7045 |
+| | Sri Raghavendra Agro Agencies | JS-335 | 7925 | 7045 |
+| | Sri Raghavendra Agro Service | JS-335 | 1865 | 7045 |
+| | Sri Siddeshwara Agencies | JS-335 | 6886 | 7045 |
+| | Varun Hybrid Seeds | JS-335 | 16497 | 7045 |
+| | | **Total** | **140000** | |
+| 5 | Karnataka Hitech Agro Enterprises. | JS-9305 | 185 | 7180 |
+| | Siddarth Seeds Company | JS-9305 | 185 | 7180 |
+| | Sunderam Enterprises Pvt Ltd | JS-9305 | 946 | 7180 |
+| | Varada Seeds Farm | JS-9305 | 185 | 7180 |
+| | | **Total** | **1500** | |
+| 6 | Karnataka State Seeds corporation | KDS-726 | 872 | 7180 |
+| | National Seeds Corporation Ltd | KDS-726 | 2500 | 7180 |
+| | HIL India LTd | KDS-726 | 6250 | 7180 |
+| | Agarwal Agro Agencies | KDS-726 | 296 | 7180 |
+| | Sunderam Enterprises Pvt Ltd | KDS-726 | 432 | 7180 |
+| | Amith Seeds | KDS-726 | 387 | 7180 |
+| | Siddarth Seeds Company | KDS-726 | 263 | 7180 |
+| | Sri Gourishankar Agro Inputs Pvt Ltd | KDS-726 | 179 | 7180 |
+| | Sri Maltesh Krishi Kendra | KDS-726 | 680 | 7180 |
+| | Varada Seeds Farm | KDS-726 | 184 | 7180 |
+| | Varun Hybrid Seeds | KDS-726 | 2957 | 7180 |
+| | | **Total** | **15000** | |
+| 6 | National Seeds Corporation Ltd | KDS-753 | 3000 | 7180 |
+| | Agarwal Agro Agencies | KDS-753 | 772 | 7180 |
+| | Amith Seeds | KDS-753 | 471 | 7180 |
+| | Siddarth Seeds Company | KDS-753 | 514 | 7180 |
+| | Sri Maltesh Krishi Kendra | KDS-753 | 612 | 7180 |
+| | Varun Hybrid Seeds | KDS-753 | 4630 | 7180 |
+| | | **Total** | **10000** | |
+| 7 | Varun Hybrid Seeds | KDS-992 | 1440 | 8100 |
+| | Varun Hybrid Seeds | MACS-1460 | 185 | 8100 |
+| | Varun Hybrid Seeds | MAUS-612 | 417 | 8100 |
+| | | **Grand Total** | **203569** | |
+
+**Note:** Less than 5 Year old varieties of Certified seeds to be distributed for demonstration under NMEO-OS scheme as per the guidelines.
+
+Director of Agriculture

@@ -1,0 +1,123 @@
+
+--- Page 1 ---
+[Error: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting]
+
+--- Page 2 ---
+Based on the analysis of the scanned Kannada government document, here is the OCR-corrected text and its English translation.
+
+### **Corrected Kannada Text**
+
+(ಟಿಪ್ಪಣಿ: ಪುಟದ ಮೇಲಿನ ಭಾಗವು ಹಿಂದಿನ ಪುಟದಿಂದ ಮುಂದುವರೆದ ವಾಕ್ಯದ ಭಾಗವಾಗಿರಬಹುದು ಮತ್ತು ಅಸ್ಪಷ್ಟವಾಗಿದೆ. ಸ್ಪಷ್ಟವಾಗಿ ಓದಬಹುದಾದ ಭಾಗವು ಇಲ್ಲಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ.)
+
+...ದಿನಾಂಕ:07-08-2021 ರಲ್ಲಿದ್ದ, ಮೊದಲಿನ ಅಧಿಸೂಚನೆ ಸಂಖ್ಯೆಗಳಿಗೆ ಸರ್ಕಾರದ ಆದೇಶ ಸಂಖ್ಯೆ:AGRI-AML/141/2021, ದಿನಾಂಕ:10-12-2021 ರಂತೆ, ತಿದ್ದುಪಡಿ ತರಲಾಗಿದ್ದು, ಮಾನ್ಯರಿಸಿ ಆದೇಶ ಹೊರಡಿಸಲಾಗಿದೆ.
+
+ಬಹುಮಟ್ಟಿನ ಕೃಷಿ ಯಾಂತ್ರೀಕರಣ ಯೋಜನೆಯಡಿ ಪ್ರಸ್ತಾವಿತವಾದ (8 ರಿಂದ 10 ನೇ ಷರತ್ತಿನವರೆಗೆ) ಹಾಗೂ ಅನುಮೋದನೆ ಕೋರಿ ಸಲ್ಲಿಸಿದ ಪ್ರಸ್ತಾವನೆಗೆ 2021-22ನೇ ಸಾಲಿಗೆ ಸರ್ಕಾರದ ವತಿಯಿಂದ ರೂ.2000/-ಗಳ ಆರ್ಥಿಕ ನೆರವನ್ನು ಮಂಜೂರು ಮಾಡಿ ಆದೇಶಿಸಲಾಗಿದೆ.
+
+ಸರ್ಕಾರದ ಆದೇಶ ಸಂಖ್ಯೆ:AGRI-AML/141/2021, ದಿನಾಂಕ:07-08-2021 ಹಾಗೂ ಅದೇ ಸಂಖ್ಯೆ: AGRI-AML/141/2021 ದಿನಾಂಕ: 10.12.2021 ರ ಅಧಿಸೂಚನೆಯ ಪ್ರಸ್ತಾವನೆಯಲ್ಲಿನ (8 ರಿಂದ 10 ನೇ ಷರತ್ತಿನವರೆಗೆ) ಇದ್ದುದನ್ನು ಬಹುಮಟ್ಟಿನ ಕೃಷಿ ಯಾಂತ್ರೀಕರಣಕ್ಕೆ ಮಾತ್ರ ಸೀಮಿತಗೊಳಿಸಿ ಆದೇಶಿಸಿದೆ.
+
+ಕರ್ನಾಟಕ ರಾಜ್ಯಪಾಲರ ಆದೇಶಾನುಸಾರ
+ಮತ್ತು ಅವರ ಹೆಸರಿನಲ್ಲಿ,
+
+(ಸಹಿ) ಪಿ. ಶಿವಶಂಕರ್ 31/12/21
+(ಪಿ. ಶಿವಶಂಕರ್)
+ಸರ್ಕಾರದ ಅಧೀನ ಕಾರ್ಯದರ್ಶಿ,
+ಕೃಷಿ ಇಲಾಖೆ (ಯೋಜನೆ).
+
+31/12/21
+
+ಪ್ರತಿಯನ್ನು:
+ಸರ್ಕಾರದ ಪ್ರಧಾನ ಕಾರ್ಯದರ್ಶಿಗಳು, ಕೃಷಿ ಇಲಾಖೆ, ಬೆಂಗಳೂರು-ಇವರಿಗೆ ಮಾಹಿತಿಗಾಗಿ ಕಳುಹಿಸಿದೆ.
+ಬೆಂಗಳೂರು ಕೇಂದ್ರ.
+
+---
+2
+
+Scanned by CamScanner
+---
+
+### **English Translation**
+
+(Note: The top of the page may be the continuation of a sentence from the previous page and is unclear. The clearly legible text begins from the reference section.)
+
+...With reference to the previous notification numbers dated 07-08-2021, an amendment has been made as per Government Order No: AGRI-AML/141/2021, dated: 10-12-2021, and this order is hereby issued.
+
+For the proposal submitted seeking approval under the Multi-level Farm Mechanization Scheme (concerning conditions 8 to 10), financial assistance of Rs. 2000/- is sanctioned by the Government for the year 2021-22.
+
+What was stated in the proposal of the notification under Government Order No: AGRI-AML/141/2021, dated: 07-08-2021 and the same number AGRI-AML/141/2021, dated: 10.12.2021 (concerning conditions 8 to 10) is hereby ordered to be limited only to Multi-level Farm Mechanization.
+
+By Order and in the name of the
+Governor of Karnataka,
+
+(Signature) P. Shivashankar 31/12/21
+(P. Shivashankar)
+Under Secretary to Government,
+Department of Agriculture (Planning).
+
+31/12/21
+
+Copy to:
+The Principal Secretary to Government, Department of Agriculture, Bengaluru - for information.
+Bengaluru Central.
+
+---
+2
+
+Scanned by CamScanner
+---
+
+--- Page 3 ---
+Here is the OCR, correction, and translation of the provided document.
+
+### **Corrected Kannada Text**
+
+**ಇವರಿಗೆ:**
+
+1.  ಪ್ರಧಾನ ಮಹಾಲೇಖಪಾಲರು, ಕರ್ನಾಟಕ ವೃತ್ತ, ಬೆಂಗಳೂರು.
+2.  ಸರ್ಕಾರದ ಮುಖ್ಯ ಕಾರ್ಯದರ್ಶಿಯವರು, ಕರ್ನಾಟಕ ಸರ್ಕಾರ, ವಿಧಾನಸೌಧ, ಬೆಂಗಳೂರು.
+3.  ಸರ್ಕಾರದ ಅಪರ ಮುಖ್ಯ ಕಾರ್ಯದರ್ಶಿಯವರ ಹಾಗೂ ಅಭಿವೃದ್ಧಿ ಆಯುಕ್ತರು, ಕರ್ನಾಟಕ ಸರ್ಕಾರ, ವಿಧಾನಸೌಧ, ಬೆಂಗಳೂರು.
+4.  ಸರ್ಕಾರದ ಅಪರ ಮುಖ್ಯ ಕಾರ್ಯದರ್ಶಿಯವರು, ಕರ್ನಾಟಕ ಸರ್ಕಾರ, ವಿಧಾನಸೌಧ, ಬೆಂಗಳೂರು.
+5.  ಸನ್ಮಾನ್ಯ ಮುಖ್ಯಮಂತ್ರಿಯವರ ಪ್ರಧಾನ ಕಾರ್ಯದರ್ಶಿಯವರು, ವಿಧಾನಸೌಧ, ಬೆಂಗಳೂರು.
+6.  ಸರ್ಕಾರದ ಎಲ್ಲಾ ಅಪರ ಮುಖ್ಯ ಕಾರ್ಯದರ್ಶಿಗಳು/ಸರ್ಕಾರದ ಪ್ರಧಾನ ಕಾರ್ಯದರ್ಶಿಗಳು, ಕರ್ನಾಟಕ ಸರ್ಕಾರ, ವಿಧಾನಸೌಧ, ಬೆಂಗಳೂರು.
+7.  ಎಲ್ಲಾ ಇಲಾಖಾ ಮುಖ್ಯಸ್ಥರು/ಕ್ಷೇತ್ರ ಇಲಾಖೆಗಳ ಮುಖ್ಯಸ್ಥರು/ಜಿಲ್ಲಾಧಿಕಾರಿಗಳು.
+8.  ಖಜಾನೆಗಳು, ರಾಜ್ಯದ ಎಲ್ಲಾ ಜಿಲ್ಲೆಗಳ ಜಿಲ್ಲಾಧಿಕಾರಿಗಳು/ ಹಾಗೂ ಪ್ರಾದೇಶಿಕ ಆಯುಕ್ತರುಗಳು.
+9.  ಕೃಷಿ ಆಯುಕ್ತರು, ಕೃಷಿ ಇಲಾಖೆ, ಶೇಷಾದ್ರಿ ರಸ್ತೆ, ಬೆಂಗಳೂರು.
+10. ಕೃಷಿ ನಿರ್ದೇಶಕರು, ಕೃಷಿ ಇಲಾಖೆ, ಶೇಷಾದ್ರಿ ರಸ್ತೆ, ಬೆಂಗಳೂರು.
+11. ಎಲ್ಲಾ ಜಂಟಿ ಕೃಷಿ ನಿರ್ದೇಶಕರುಗಳು.
+12. ಎಲ್ಲಾ ಜಿಲ್ಲಾ ಸಂಖ್ಯಾ ಸಂಗ್ರಹಣಾಧಿಕಾರಿಯವರುಗಳು.
+13. ಯೋಜನಾ ನಿರ್ದೇಶಕರು, ನೇರ ನಗದು ವರ್ಗಾವಣೆ ಕೋಶ (Direct Benefit Tranfer - DBT Cell), (ಇ-ಆಡಳಿತ), ಬಹುಮಹಡಿಗಳ ಕಟ್ಟಡ, ಬೆಂಗಳೂರು.
+14. ಶಾಖಾ ರಕ್ಷಾ ಕಡತ/ಕಛೇರಿ ಪ್ರತಿ/ಮಾಸಿಕ ವರದಿ.
+
+**ಪ್ರತಿ ಮಾಹಿತಿಗಾಗಿ:**
+
+1.  ಮಾನ್ಯ ಕೃಷಿ ಸಚಿವರ ಆಪ್ತ ಕಾರ್ಯದರ್ಶಿಯವರು, ವಿಕಾಸ ಸೌಧ, ಬೆಂಗಳೂರು.
+2.  ಸರ್ಕಾರದ ಪ್ರಧಾನ ಕಾರ್ಯದರ್ಶಿಯವರ ಆಪ್ತ ಕಾರ್ಯದರ್ಶಿ, ಕೃಷಿ ಇಲಾಖೆ.
+3.  ಸರ್ಕಾರದ ಉಪ ಕಾರ್ಯದರ್ಶಿ ಹಾಗೂ ಆರ್ಥಿಕ ಇಲಾಖೆ (ವೆಚ್ಚ), ಬಹುಮಹಡಿಗಳ ಕಟ್ಟಡ, ಬೆಂಗಳೂರು.
+4.  ಸರ್ಕಾರದ ಉಪ ಕಾರ್ಯದರ್ಶಿ, ಶಾಖೆ, ಕೃಷಿ ಇಲಾಖೆ.
+
+---
+
+### **English Translation**
+
+**To:**
+
+1.  The Principal Accountant General, Karnataka Circle, Bengaluru.
+2.  The Chief Secretary to the Government, Government of Karnataka, Vidhana Soudha, Bengaluru.
+3.  The Additional Chief Secretary to the Government and Development Commissioner, Government of Karnataka, Vidhana Soudha, Bengaluru.
+4.  The Additional Chief Secretary to the Government, Government of Karnataka, Vidhana Soudha, Bengaluru.
+5.  The Principal Secretary to the Hon'ble Chief Minister, Vidhana Soudha, Bengaluru.
+6.  All Additional Chief Secretaries to the Government / Principal Secretaries to the Government, Government of Karnataka, Vidhana Soudha, Bengaluru.
+7.  All Heads of Departments / Heads of Field Departments / Deputy Commissioners.
+8.  Treasuries, Deputy Commissioners of all districts of the state / and Regional Commissioners.
+9.  The Commissioner for Agriculture, Department of Agriculture, Seshadri Road, Bengaluru.
+10. The Director of Agriculture, Department of Agriculture, Seshadri Road, Bengaluru.
+11. All Joint Directors of Agriculture.
+12. All District Statistical Officers.
+13. The Project Director, Direct Cash Transfer Cell (Direct Benefit Transfer - DBT Cell), (e-Governance), Multi-storeyed Building, Bengaluru.
+14. Branch Guard File / Office Copy / Monthly Report.
+
+**Copy for information to:**
+
+1.  The Private Secretary to the Hon'ble Minister for Agriculture, Vikasa Soudha, Bengaluru.
+2.  The Private Secretary to the Principal Secretary to the Government, Department of Agriculture.
+3.  The Deputy Secretary to the Government and Finance Department (Expenditure), Multi-storeyed Building, Bengaluru.
+4.  The Deputy Secretary to the Government, Branch, Department of Agriculture.

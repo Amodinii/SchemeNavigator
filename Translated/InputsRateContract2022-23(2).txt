@@ -1,0 +1,994 @@
+
+--- Page 1 ---
+[Error: Timeout of 600.0s exceeded, last exception: 503 failed to connect to all addresses; last error: UNKNOWN: ipv4:172.217.24.10:443: tcp handshaker shutdown]
+
+--- Page 2 ---
+[Error: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting]
+
+--- Page 3 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 4 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 5 ---
+Here is the OCR, correction, and translation of the provided Kannada document page.
+
+### 1. Corrected Kannada Text (OCR and Correction)
+
+**2022-23ನೇ ಸಾಲಿಗೆ ನಿಗಧಿಪಡಿಸಲಾದ ದರಗಳು (ರೂ.ಗಳಲ್ಲಿ)**
+
+| ಕ್ರ. ಸಂ. | ಪರಿಕರಗಳ ಹೆಸರು | ಅನುಮೋದಿತ ದರ (ರೂ.ಗಳಲ್ಲಿ) | ಪ್ರತಿ ವ್ಯಾಗನ್‌ಗೆ ಶೇ.50ರ ರಿಯಾಯಿತಿ ದರ | ಪ್ರತಿ ವ್ಯಾಗನ್‌ಗೆ ಶೇ.75ರ ರಿಯಾಯಿತಿ ದರ |
+|---|---|---|---|---|
+| | | **ನಿಗದಿತ ಮಾರಾಟ ದರ** | **ಪ್ರತಿ ಟನ್‌ಗೆ** | **ಒಟ್ಟು ದರ** | **ಸಾಮಾನ್ಯ ದರ** | **ರೈತರಿಂದ ಖರೀದಿಸಿದರೆ** | **ಸಾಮಾನ್ಯ ದರ** | **ರೈತರಿಂದ ಖರೀದಿಸಿದರೆ** |
+| **ಅ** | **ಮುಖ್ಯ ಪೋಷಕಾಂಶಗಳು** | | | | | | |
+| 1 | ಪೊಟ್ಯಾಷ್ (L1) | ರೂ. 4500/- ಪ್ರತಿ ಟನ್‌ಗೆ | 50 ಕೆಜಿ ಪ್ಯಾಕೆಟ್ | 225.00 | 112.50 | 112.50 | 168.75 | 56.25 |
+| 2 | ಕೃಷಿ ಸುಣ್ಣ (L1) | ರೂ. 3500/- ಪ್ರತಿ ಟನ್‌ಗೆ | 50 ಕೆಜಿ ಪ್ಯಾಕೆಟ್ | 175.00 | 87.50 | 87.50 | 131.25 | 43.75 |
+| 3 | ಡೋಲೋಮೈಟ್ (L1) | ರೂ. 3500/- ಪ್ರತಿ ಟನ್‌ಗೆ | 50 ಕೆಜಿ ಪ್ಯಾಕೆಟ್ | 175.00 | 87.50 | 87.50 | 131.25 | 43.75 |
+| **ಆ** | **ಪೌಷ್ಟಿಕಾಂಶ ಮಿಶ್ರಣ ಹಾಗೂ ಇತರೆ** | | | | | | |
+| 1 | ಬೀಜೋಪಚಾರದ ಗೊಬ್ಬರಗಳು | ರೂ. 18900/- ಪ್ರತಿ ಟನ್‌ಗೆ | 50 ಕೆಜಿ ಪ್ಯಾಕೆಟ್ | 945.00 | 472.50 | 472.50 | 708.75 | 236.25 |
+
+ಮೇಲೆ ತಿಳಿಸಿರುವ ದರಗಳು ಗುತ್ತಿಗೆದಾರರು ಪೂರೈಸುವ ಮೂಲದರವಾಗಿದ್ದು, ಇಲಾಖೆಯ ಮಾರ್ಗಸೂಚಿಯನ್ವಯ ಸಾಗಾಣಿಕಾ ವೆಚ್ಚವನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಪಾವತಿಸಲಾಗುವುದು, ಈ ದರಗಳು ಸರ್ಕಾರದಿಂದ ಯಾವುದೇ ಸಹಾಯಧನವನ್ನು ಹೊಂದಿರದ ದರಗಳಾಗಿದ್ದು, ಒಂದು ವೇಳೆ ಸರ್ಕಾರದಿಂದ ದರಗಳು ಪರಿಷ್ಕರಣೆಗೊಂಡಲ್ಲಿ ಪರಿಷ್ಕೃತ ದರಗಳನ್ನೇ ಅಂತಿಮಗೊಳಿಸಲಾಗುವುದು ಹಾಗೂ ಅನುಬಂಧ-1 ರಲ್ಲಿ ನಮೂದಿಸಲಾಗಿರುವಂತೆ ಪರಿಕರಗಳ ತಾಂತ್ರಿಕ ವಿವರಣೆ ಅನ್ವಯ ಪೂರೈಸತಕ್ಕದ್ದು.
+
+ಸಹಿ/-
+ಜಂಟಿ ನಿರ್ದೇಶಕರು
+
+**ಪ್ರತಿಯನ್ನು:**
+1. ಆಯುಕ್ತರಿಗೆ, ಕೃಷಿ ಇಲಾಖೆ, ಬೆಂಗಳೂರು ರವರ ಮಾಹಿತಿಗಾಗಿ ಸಲ್ಲಿಸಿದೆ.
+2. ಅಪರ ಕೃಷಿ ನಿರ್ದೇಶಕರು (ಸಮಗ್ರ ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ)/(ಬೀಜ ಮತ್ತು ಸಾವಯವ ಕೃಷಿ)/(ಬೆಳೆ ಅಭಿವೃದ್ಧಿ ಮತ್ತು ಇತರೆ) ರವರಿಗೆ ಮಾಹಿತಿಗಾಗಿ ಸಲ್ಲಿಸಿದೆ.
+3. ಎಲ್ಲಾ ಜಂಟಿ ಕೃಷಿ ನಿರ್ದೇಶಕರು, ಕಾರ್ಯಕ್ರಮ ಅನುಷ್ಠಾನಾಧಿಕಾರಿಗಳಿಗೆ ಮಾಹಿತಿಗಾಗಿ ಸಲ್ಲಿಸಿದೆ.
+4. ಎಲ್ಲಾ ಜಿಲ್ಲಾ ಜಂಟಿ ಕೃಷಿ ನಿರ್ದೇಶಕರುಗಳಿಗೆ ಮಾಹಿತಿಗಾಗಿ ಹಾಗೂ ಅಗತ್ಯ ಕ್ರಮಕ್ಕಾಗಿ ಸಲ್ಲಿಸಿದೆ.
+5. ಮುಖ್ಯ ಲೆಕ್ಕಾಧಿಕಾರಿಗಳು ಹಾಗೂ ಆರ್ಥಿಕ ಸಲಹೆಗಾರರು, ಕೃಷಿ ಆಯುಕ್ತಾಲಯ, ಇವರಿಗೆ ಮಾಹಿತಿಗಾಗಿ.
+6. ಕಛೇರಿಯ ಎಲ್ಲಾ ಶಾಖಾ ಮುಖ್ಯಸ್ಥರಿಗೆ.
+7. ಕೃಷಿ ಆಯುಕ್ತರ ಆಪ್ತ ಸಹಾಯಕರಿಗೆ ಮಾಹಿತಿಗಾಗಿ.
+8. ಕೃಷಿ ನಿರ್ದೇಶಕರ ರವರ ಆಪ್ತ ಸಹಾಯಕರಿಗೆ.
+9. ಕಛೇರಿಯ ಸಂಬಂಧಿಸಿದ ನಡವಳಿಗೆ ನಮೂದಿಸಲು ಹಾಗೂ ಒಂದು ಪ್ರತಿಯನ್ನು ಕಡತದಲ್ಲಿರಿಸಿ, ಕೃಷಿ ನಿರ್ದೇಶಕರ ಸೇವಾ ಕಡತದಲ್ಲಿ ಮತ್ತು ಇನ್ನೊಂದು ಅನುಬಂಧ-5 ರಲ್ಲಿ ದಾಖಲಿಸಲು.
+
+---
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 5
+
+---
+### 2. English Translation
+
+**Rates fixed for the year 2022-23 (in Rs.)**
+
+| Sl. No. | Name of Items | Approved Rate (in Rs.) | 50% Discount Rate per Wagon | 75% Discount Rate per Wagon |
+|---|---|---|---|---|
+| | | **Fixed Sale Price** | **Per Ton** | **Total Rate** | **Normal Rate** | **If purchased by farmers** | **Normal Rate** | **If purchased by farmers** |
+| **A** | **Major Nutrients** | | | | | | |
+| 1 | Potash (L1) | Rs. 4500/- per Ton | 50 kg Packet | 225.00 | 112.50 | 112.50 | 168.75 | 56.25 |
+| 2 | Agricultural Lime (L1) | Rs. 3500/- per Ton | 50 kg Packet | 175.00 | 87.50 | 87.50 | 131.25 | 43.75 |
+| 3 | Dolomite (L1) | Rs. 3500/- per Ton | 50 kg Packet | 175.00 | 87.50 | 87.50 | 131.25 | 43.75 |
+| **B** | **Nutrient Mix and Others** | | | | | | |
+| 1 | Fertilizers for Seed Treatment | Rs. 18900/- per Ton | 50 kg Packet | 945.00 | 472.50 | 472.50 | 708.75 | 236.25 |
+
+The above-mentioned rates are the base rates for supply by the contractor. As per departmental guidelines, transportation costs will be paid separately. These rates do not include any subsidy from the government. In the event that the rates are revised by the government, the revised rates will be considered final. The items must be supplied as per the technical specifications mentioned in Annexure-1.
+
+Sd/-
+Joint Director
+
+**Copy to:**
+1. Submitted to the Commissioner, Department of Agriculture, Bengaluru, for information.
+2. Submitted to the Additional Director of Agriculture (Integrated Nutrient Management) / (Seeds and Organic Farming) / (Crop Development and Others) for information.
+3. Submitted to all Joint Directors of Agriculture, Program Implementation Officers, for information.
+4. Submitted to all District Joint Directors of Agriculture for information and necessary action.
+5. To the Chief Accounts Officer and Financial Advisor, Directorate of Agriculture, for information.
+6. To all Branch Heads of the office.
+7. To the Personal Assistant of the Commissioner of Agriculture, for information.
+8. To the Personal Assistant of the Director of Agriculture.
+9. For entry into the concerned office proceedings, and for one copy to be kept in the file, one in the service file of the Director of Agriculture, and another to be filed in Annexure-5.
+
+---
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 5
+
+--- Page 6 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 7 ---
+Of course. Here is the corrected OCR text from the Kannada document and its English translation.
+
+### **Corrected Kannada Text (OCR)**
+
+**ಉಪಖನಿಜಾಂಶಗಳು:**
+
+**2.1 ಸತುವಿನ ಸಲ್ಫೇಟ್ (Zinc Sulphate) (ಜೀ.21):-**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. Viraj Agrotech & Food, Vijayapur(L1) | Own |
+| 2 | M/s. Bhoomi Bio Industries, Bangalore | Varsha Bioscience and Technology India Private Limited, Andhrapradesh |
+| 3 | M/s. Amruth Organic Fertilizers, Chitradurga | Own |
+| 4 | M/s. K S Agrotech, Bangalore | own |
+| 5 | M/s. Rohini Bio-Chem Microinputs Pvt Ltd, Bagalkot | Shrey Lab solutions, Hubli |
+| 6 | M/s. Sannathi Plant Protection, Bangalore | Imported |
+| 7 | M/s. Shrey Lab Solutions, Dharwad | Own |
+| 8 | M/s. Sri Vinayaka Agro, Bangalore | Imported |
+| 9 | M/s. Varada Agro Agency, Hubli | Greencare Bioscience, Tel |
+| 10 | M/s. Varada Agro Service, Ballery | Kissan Zinc(India) P Ltd, Punjab |
+| 11 | M/s. Agrilife Sciences, Bengaluru | ICMC Corporation Ltd, TN |
+| 12 | M/s. Vaibhav Enterprises, Hubli | Imported |
+| 13 | M/s. Dscign Biosys Pvt Ltd, Bangalore | Own |
+| 14 | M/s. Ganesh Agrotech, Bangalore | Own |
+| 15 | M/s. Kannikaparmeswari Agro Chemicals, Hubli | Synergy Green Care Pvt Ltd, Hubli |
+| 16 | M/s. Shree Mahalakshmi Agro Tech, Bagalkot | Imported |
+| 17 | M/s. Sunshine International Agritech, Ballari | Own |
+| 18 | M/s. Bonageri CropScience Ltd, Hubli | Own |
+
+**2.2 ಸತುವಿನ ಸಲ್ಫೇಟ್ (Zinc Sulphate) (ಜೀ.33):-**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. K S Agrotech, Bangalore(L1) | Own |
+| 2 | M/s. Sri Vinayaka Agro, Bangalore | Imported |
+| 3 | M/s. Prabhat Fertilizer & Chemicals Works, Haryana | Own |
+| 4 | M/s. Dscign Biosys Pvt Ltd, Bangalore | Own |
+| 5 | M/s. Ganesh Agrotech, Bangalore | Own |
+| 6 | M/s. Kannikaparmeswari Agro Chemicals, Hubli | Synergy Green Care Pvt Ltd, Hubli |
+
+---
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 7
+
+***
+
+### **English Translation**
+
+**Micronutrients:**
+
+**2.1 Zinc Sulphate (G.21):-**
+
+| Sl. No | Name of the Supplying Company | Source of Supply |
+| :--- | :--- | :--- |
+| 1 | M/s. Viraj Agrotech & Food, Vijayapur(L1) | Own |
+| 2 | M/s. Bhoomi Bio Industries, Bangalore | Varsha Bioscience and Technology India Private Limited, Andhra Pradesh |
+| 3 | M/s. Amruth Organic Fertilizers, Chitradurga | Own |
+| 4 | M/s. K S Agrotech, Bangalore | Own |
+| 5 | M/s. Rohini Bio-Chem Microinputs Pvt Ltd, Bagalkot | Shrey Lab Solutions, Hubli |
+| 6 | M/s. Sannathi Plant Protection, Bangalore | Imported |
+| 7 | M/s. Shrey Lab Solutions, Dharwad | Own |
+| 8 | M/s. Sri Vinayaka Agro, Bangalore | Imported |
+| 9 | M/s. Varada Agro Agency, Hubli | Greencare Bioscience, Tel |
+| 10 | M/s. Varada Agro Service, Ballari | Kissan Zinc (India) P Ltd, Punjab |
+| 11 | M/s. Agrilife Sciences, Bengaluru | ICMC Corporation Ltd, TN |
+| 12 | M/s. Vaibhav Enterprises, Hubli | Imported |
+| 13 | M/s. Dscign Biosys Pvt Ltd, Bangalore | Own |
+| 14 | M/s. Ganesh Agrotech, Bangalore | Own |
+| 15 | M/s. Kannikaparameswari Agro Chemicals, Hubli | Synergy Green Care Pvt Ltd, Hubli |
+| 16 | M/s. Shree Mahalakshmi Agro Tech, Bagalkot | Imported |
+| 17 | M/s. Sunshine International Agritech, Ballari | Own |
+| 18 | M/s. Bonageri CropScience Ltd, Hubli | Own |
+
+**2.2 Zinc Sulphate (G.33):-**
+
+| Sl. No | Name of the Supplying Company | Source of Supply |
+| :--- | :--- | :--- |
+| 1 | M/s. K S Agrotech, Bangalore(L1) | Own |
+| 2 | M/s. Sri Vinayaka Agro, Bangalore | Imported |
+| 3 | M/s. Prabhat Fertilizer & Chemicals Works, Haryana | Own |
+| 4 | M/s. Dscign Biosys Pvt Ltd, Bangalore | Own |
+| 5 | M/s. Ganesh Agrotech, Bangalore | Own |
+| 6 | M/s. Kannikaparameswari Agro Chemicals, Hubli | Synergy Green Care Pvt Ltd, Hubli |
+
+---
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 7
+
+--- Page 8 ---
+Of course. Here is the OCR, correction, and translation of the provided Kannada document page.
+
+### Corrected Kannada Text
+
+```kannada
+2.3 ಬೋರಾಕ್ಸ್ (Borax) ಶೇ (10.50):-
+
+| ಕ್ರ. ಸಂ. | ಸರಬರಾಜು ಆದೇಶ ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜುದಾರರು |
+|---|---|---|
+| 1 | M/s. Viraj Agrotech & Food, Vijayapur(L1) | Own |
+| 2 | M/s. Bhoomi Bio Industries, Bangalore | Varsha Bioscience and Technology India Private Limited, Andhrapradesh |
+| 3 | M/s. Sannathi Plant Protection, Bangalore | Imported |
+| 4 | M/s. Vaibhav Enterprises, Hubli | Imported |
+| 5 | M/s. Sri Vinayaka Agro, Bangalore | Imported |
+| 6 | M/s. Sunshine International Agritech, Ballari | Own |
+| 7 | M/s. Bonageri CropScience Ltd, Hubli | Own |
+| 8 | M/s. K S Agrotech, Bangalore | Own |
+| 9 | M/s. Agrilife Sciences, Bengaluru | ICMC Corporation Ltd, TN |
+| 10 | M/s. Varada Agro Service, Ballari | Imported |
+| 11 | M/s. Varada Agro Agency, Hubli | Imported |
+| 12 | M/s. Ganesh Agrotech, Bangalore | Own |
+| 13 | M/s. Kannikaparameswari Agro Chemicals, Hubli | Synergy Green Care Pvt Ltd, Hubli |
+| 14 | M/s. Shree Mahalakshmi Agro Tech, Bagalkot | Imported |
+
+2.4 ಬೋರಾಕ್ಸ್ (Borax) ಶೇ (14.50):-
+
+| ಕ್ರ. ಸಂ. | ಸರಬರಾಜು ಆದೇಶ ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜುದಾರರು |
+|---|---|---|
+| 1 | M/s. K S Agrotech, Bangalore (L1) | Own |
+| 2 | M/s. Sri Vinayaka Agro, Bangalore | Imported |
+| 3 | M/s. Varada Agro Agency, Hubli | Imported |
+| 4 | M/s. Varada Agro Service, Ballari | Imported |
+| 5 | M/s. Agrilife Sciences, Bengaluru | ICMC Corporation Ltd, TN |
+| 6 | M/s. Ganesh Agrotech, Bangalore | Own |
+| 7 | M/s. Kannikaparameswari Agro Chemicals, Hubli | Synergy Green Care Pvt Ltd, Hubli |
+
+2.5 ಫೆರಸ್ ಸಲ್ಫೇಟ್ (Ferrous Sulphate):-
+
+| ಕ್ರ. ಸಂ. | ಸರಬರಾಜು ಆದೇಶ ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜುದಾರರು |
+|---|---|---|
+| 1 | M/s. Sunshine International Agritech, Ballari(L1) | Own |
+| 2 | M/s. Dscign Biosys Pvt Ltd, Bangalore | Own |
+| 3 | M/s. Sri Vinayaka Agro, Bangalore | Imported |
+
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 8
+```
+
+---
+
+### English Translation
+
+```english
+2.3 Borax 10.50%:-
+
+| Sl. No. | Name of the firm that received the supply order | Source of Supply |
+|---|---|---|
+| 1 | M/s. Viraj Agrotech & Food, Vijayapur (L1) | Own |
+| 2 | M/s. Bhoomi Bio Industries, Bangalore | Varsha Bioscience and Technology India Private Limited, Andhra Pradesh |
+| 3 | M/s. Sannathi Plant Protection, Bangalore | Imported |
+| 4 | M/s. Vaibhav Enterprises, Hubli | Imported |
+| 5 | M/s. Sri Vinayaka Agro, Bangalore | Imported |
+| 6 | M/s. Sunshine International Agritech, Ballari | Own |
+| 7 | M/s. Bonageri CropScience Ltd, Hubli | Own |
+| 8 | M/s. K S Agrotech, Bangalore | Own |
+| 9 | M/s. Agrilife Sciences, Bengaluru | ICMC Corporation Ltd, TN |
+| 10 | M/s. Varada Agro Service, Ballari | Imported |
+| 11 | M/s. Varada Agro Agency, Hubli | Imported |
+| 12 | M/s. Ganesh Agrotech, Bangalore | Own |
+| 13 | M/s. Kannikaparameswari Agro Chemicals, Hubli | Synergy Green Care Pvt Ltd, Hubli |
+| 14 | M/s. Shree Mahalakshmi Agro Tech, Bagalkot | Imported |
+
+2.4 Borax 14.50%:-
+
+| Sl. No. | Name of the firm that received the supply order | Source of Supply |
+|---|---|---|
+| 1 | M/s. K S Agrotech, Bangalore (L1) | Own |
+| 2 | M/s. Sri Vinayaka Agro, Bangalore | Imported |
+| 3 | M/s. Varada Agro Agency, Hubli | Imported |
+| 4 | M/s. Varada Agro Service, Ballari | Imported |
+| 5 | M/s. Agrilife Sciences, Bengaluru | ICMC Corporation Ltd, TN |
+| 6 | M/s. Ganesh Agrotech, Bangalore | Own |
+| 7 | M/s. Kannikaparameswari Agro Chemicals, Hubli | Synergy Green Care Pvt Ltd, Hubli |
+
+2.5 Ferrous Sulphate:-
+
+| Sl. No. | Name of the firm that received the supply order | Source of Supply |
+|---|---|---|
+| 1 | M/s. Sunshine International Agritech, Ballari (L1) | Own |
+| 2 | M/s. Dscign Biosys Pvt Ltd, Bangalore | Own |
+| 3 | M/s. Sri Vinayaka Agro, Bangalore | Imported |
+
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 8
+```
+
+--- Page 9 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 10 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 11 ---
+Here is the OCR extraction, correction, and translation of the provided document page.
+
+### **Corrected Kannada Text**
+
+**3.2.2. ಲಘು ಪೋಷಕಾಂಶ ಮಿಶ್ರಣ- Grade I(2): (ದ್ರವ ರೂಪ)**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡಲು ಅರ್ಹತೆ ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. Jain Agro Care, Belagavi (L1) | Own |
+| 2 | M/s. Shrey Agritech, Hubli (L1) | Own |
+| 3 | M/s. Shrey Lab Solutions, Dharwad (L1) | Own |
+| 4 | M/s. Bharath Bio-Fertilizers, Bagalkot | Own |
+| 5 | M/s. Miklens Bio Private Limited, Bangalore | Own |
+| 6 | M/s. Synergy Green Care Products Pvt Ltd, Hubli | Own |
+| 7 | M/s. Genetech Chemicals & Nutrients, Ballari | Own |
+| 8 | M/s. Biopest Control Industries, Bangalore | Own |
+| 9 | M/s. Sri Laxminarayan Biotech, Dharwad | Own |
+| 10 | M/s. Dscign Biosys Pvt Ltd, Bangalore | Own |
+| 11 | M/s. Amruth Organic Fertilizers, Chitradurga | Own |
+| 12 | M/s. Bonageri CropScience Ltd, Hubli | Own |
+| 13 | M/s. Somnath Seeds Pvt Ltd, Gadag | Own |
+
+**4.0.0 ಜೈವಿಕ ಗೊಬ್ಬರಗಳು:-**
+
+**4.1.1 ರೈಸೋಬಿಯಂ (Rhizobium-CB) ಜೈವಿಕ ಗೊಬ್ಬರ(ದ್ರವರೂಪ ಮಿಶ್ರಣ):-**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡಲು ಅರ್ಹತೆ ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. Miklens Bio Private Limited, Bangalore(L1) | Own |
+| 2 | M/s. Biopest Control Industries, Bangalore | Own |
+| 3 | M/s. Sunshine Inernational Agritech, Ballari | Own |
+
+**4.1.2 ಅಜಟೋಬ್ಯಾಕ್ಟರ್ (Azotobactor-CB) ಜೈವಿಕ ಗೊಬ್ಬರ(ದ್ರವರೂಪ ಮಿಶ್ರಣ):-**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡಲು ಅರ್ಹತೆ ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. Sunshine Inernational Agritech, Ballari(L1) | Own |
+| 2 | M/s. Biotech International Ltd, New delhi | Own |
+
+**4.1.3 ಅಜೋಸ್ಪೈರಿಲಮ್ (Azospirillum-CB) ಜೈವಿಕ ಗೊಬ್ಬರ(ದ್ರವರೂಪ ಮಿಶ್ರಣ):-**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡಲು ಅರ್ಹತೆ ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. Sunshine Inernational Agritech, Ballari(L1) | Own |
+| 2 | M/s. Biotech International Ltd, New delhi | Own |
+
+---
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 11
+
+---
+
+### **English Translation**
+
+**3.2.2. Micronutrient Mixture - Grade I(2): (Liquid Form)**
+
+| Sl. No | Name of the firm qualified for supply | Source of Supply |
+| :--- | :--- | :--- |
+| 1 | M/s. Jain Agro Care, Belagavi (L1) | Own |
+| 2 | M/s. Shrey Agritech, Hubli (L1) | Own |
+| 3 | M/s. Shrey Lab Solutions, Dharwad (L1) | Own |
+| 4 | M/s. Bharath Bio-Fertilizers, Bagalkot | Own |
+| 5 | M/s. Miklens Bio Private Limited, Bangalore | Own |
+| 6 | M/s. Synergy Green Care Products Pvt Ltd, Hubli | Own |
+| 7 | M/s. Genetech Chemicals & Nutrients, Ballari | Own |
+| 8 | M/s. Biopest Control Industries, Bangalore | Own |
+| 9 | M/s. Sri Laxminarayan Biotech, Dharwad | Own |
+| 10 | M/s. Dscign Biosys Pvt Ltd, Bangalore | Own |
+| 11 | M/s. Amruth Organic Fertilizers, Chitradurga | Own |
+| 12 | M/s. Bonageri CropScience Ltd, Hubli | Own |
+| 13 | M/s. Somnath Seeds Pvt Ltd, Gadag | Own |
+
+**4.0.0 Bio-fertilizers:-**
+
+**4.1.1 Rhizobium-CB Bio-fertilizer (Liquid Mixture):-**
+
+| Sl. No | Name of the firm qualified for supply | Source of Supply |
+| :--- | :--- | :--- |
+| 1 | M/s. Miklens Bio Private Limited, Bangalore(L1) | Own |
+| 2 | M/s. Biopest Control Industries, Bangalore | Own |
+| 3 | M/s. Sunshine Inernational Agritech, Ballari | Own |
+
+**4.1.2 Azotobactor-CB Bio-fertilizer (Liquid Mixture):-**
+
+| Sl. No | Name of the firm qualified for supply | Source of Supply |
+| :--- | :--- | :--- |
+| 1 | M/s. Sunshine Inernational Agritech, Ballari(L1) | Own |
+| 2 | M/s. Biotech International Ltd, New delhi | Own |
+
+**4.1.3 Azospirillum-CB Bio-fertilizer (Liquid Mixture):-**
+
+| Sl. No | Name of the firm qualified for supply | Source of Supply |
+| :--- | :--- | :--- |
+| 1 | M/s. Sunshine Inernational Agritech, Ballari(L1) | Own |
+| 2 | M/s. Biotech International Ltd, New delhi | Own |
+
+---
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 11
+
+--- Page 12 ---
+Of course! Here is the OCR extraction, correction, and English translation of the provided Kannada document page.
+
+### Corrected Kannada Text
+
+**4.1.4 ಎನ್.ಪಿ.ಕೆ ಕನ್ಸಾರ್ಟಿಯಾ-ಸಿಬಿ (NPK Consortia-CB) ಜೈವಿಕ ಗೊಬ್ಬರ(ಕ್ಯಾರಿಯರ್ ಬೇಸ್ಡ್):-**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡಲು ಅರ್ಹತೆ ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. Rohini Bio-Agents, Bagalkot (L1) | Own |
+| 2 | M/s. Biopest Control Industries, Bangalore | Own |
+| 3 | M/s. Biotech International Ltd, New delhi | Own |
+
+**4.1.5 ಕೆ.ಎಂ.ಬಿ. (KMB-CB) ಜೈವಿಕ ಗೊಬ್ಬರ(ಕ್ಯಾರಿಯರ್ ಬೇಸ್ಡ್):-**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡಲು ಅರ್ಹತೆ ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. Sunshine International Agritech, Ballari(L1) | Own |
+| 2 | M/s. Miklens Bio Private Limited, Bangalore | Own |
+| 3 | M/s. Biotech International Ltd, New delhi | Own |
+
+**4.2.1 ರೈಜೋಬಿಯಂ (Rhizobium-LB) ಜೈವಿಕ ಗೊಬ್ಬರ(ದ್ರವ ರೂಪ):-**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡಲು ಅರ್ಹತೆ ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. Miklens Bio Private Limited, Bangalore (L1) | Own |
+| 2 | M/s. Biopest Control Industries, Bangalore | Own |
+| 3 | M/s. Bharath Bio-Fertilizers, Bagalkot | Own |
+| 4 | M/s. Shrey Lab Solutions, Dharwad | Own |
+| 5 | M/s. Rohini Bio-Agents, Bagalkot | Own |
+| 6 | M/s. Biotech International Ltd, New delhi | Own |
+
+**4.2.2 ಅಜೋಸ್ಪೈರುಲಮ್ (Azospirullum-LB) ಜೈವಿಕ ಗೊಬ್ಬರ(ದ್ರವ ರೂಪ):-**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡಲು ಅರ್ಹತೆ ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. Miklens Bio Private Limited, Bangalore(L1) | Own |
+| 2 | M/s. Bharath Bio-Fertilizers, Bagalkot | Own |
+| 3 | M/s. Shrey Lab Solutions, Dharwad | Own |
+| 4 | M/s. Genetech Chemicals & Nutrients, Ballari | Own |
+| 5 | M/s. Biotech International Ltd, New delhi | Own |
+
+---
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 12
+
+---
+
+### English Translation
+
+**4.1.4 NPK Consortia-CB Bio-fertilizer (Carrier Based):-**
+
+| Sl. No. | Name of the firm qualified to supply | Source of Supply |
+| :--- | :--- | :--- |
+| 1 | M/s. Rohini Bio-Agents, Bagalkot (L1) | Own |
+| 2 | M/s. Biopest Control Industries, Bangalore | Own |
+| 3 | M/s. Biotech International Ltd, New Delhi | Own |
+
+**4.1.5 KMB-CB Bio-fertilizer (Carrier Based):-**
+
+| Sl. No. | Name of the firm qualified to supply | Source of Supply |
+| :--- | :--- | :--- |
+| 1 | M/s. Sunshine International Agritech, Ballari (L1) | Own |
+| 2 | M/s. Miklens Bio Private Limited, Bangalore | Own |
+| 3 | M/s. Biotech International Ltd, New Delhi | Own |
+
+**4.2.1 Rhizobium-LB Bio-fertilizer (Liquid Form):-**
+
+| Sl. No. | Name of the firm qualified to supply | Source of Supply |
+| :--- | :--- | :--- |
+| 1 | M/s. Miklens Bio Private Limited, Bangalore (L1) | Own |
+| 2 | M/s. Biopest Control Industries, Bangalore | Own |
+| 3 | M/s. Bharath Bio-Fertilizers, Bagalkot | Own |
+| 4 | M/s. Shrey Lab Solutions, Dharwad | Own |
+| 5 | M/s. Rohini Bio-Agents, Bagalkot | Own |
+| 6 | M/s. Biotech International Ltd, New Delhi | Own |
+
+**4.2.2 Azospirillum-LB Bio-fertilizer (Liquid Form):-**
+
+| Sl. No. | Name of the firm qualified to supply | Source of Supply |
+| :--- | :--- | :--- |
+| 1 | M/s. Miklens Bio Private Limited, Bangalore (L1) | Own |
+| 2 | M/s. Bharath Bio-Fertilizers, Bagalkot | Own |
+| 3 | M/s. Shrey Lab Solutions, Dharwad | Own |
+| 4 | M/s. Genetech Chemicals & Nutrients, Ballari | Own |
+| 5 | M/s. Biotech International Ltd, New Delhi | Own |
+
+---
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 12
+
+--- Page 13 ---
+Of course. Here is the corrected Kannada OCR text and the English translation as requested.
+
+### **Corrected Kannada Text**
+
+**4.2.3 ಅಜೊಟೋಬ್ಯಾಕ್ಟರ್ (Azotobacter-LB) ಜೈವಿಕ ಗೊಬ್ಬರ(ದ್ರವ ರೂಪ):-**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡಲು ಅರ್ಹತೆ ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. Miklens Bio Private Limited, Bangalore(L1) | Own |
+| 2 | M/s. Sri Laxminarayan Biotech, Dharwad | Own |
+| 3 | M/s. Biotech International Ltd, New delhi | Own |
+
+**4.2.4 ಎನ್ & ಪಿ & ಕೆ ಕನ್ಸಾರ್ಷಿಯಾ (Consortia-Liquid Base) ಜೈವಿಕ ಗೊಬ್ಬರ(ದ್ರವ ರೂಪ):-**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡಲು ಅರ್ಹತೆ ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. Miklens Bio Private Limited, Bangalore (L1) | Own |
+| 2 | M/s. Bharath Bio-Fertilizers, Bagalkot | Own |
+| 3 | M/s. Rohini Bio-Agents, Bagalkot | Own |
+| 4 | M/s. Sri Laxminarayan Biotech, Dharwad | Own |
+| 5 | M/s. Biopest Control Industries, Bangalore | Own |
+| 6 | M/s. Shrey Lab Solutions, Dharwad | Own |
+| 7 | M/s. Jain Agro Care, Belagavi | Own |
+| 8 | M/s. Genetech Chemicals & Nutrients, Ballari | Own |
+| 9 | M/s. Amruth Organic Fertilizers,Chitradurga | Own |
+| 10 | M/s. Prabhat Fertilizer & Chemicals Works, Haryana | Own |
+| 11 | M/s. Pragathi Organics, Bangalore | Own |
+| 12 | M/s. Biotech International Ltd, New delhi | Own |
+
+**4.2.5 ಪಿ ಎಸ್ ಬಿ (PSB-LB) ಜೈವಿಕ ಗೊಬ್ಬರ(ದ್ರವ ರೂಪ):-**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡಲು ಅರ್ಹತೆ ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. Miklens Bio Private Limited, Bangalore(L1) | Own |
+| 2 | M/s. Biopest Control Industries, Bangalore | Own |
+| 3 | M/s. Amruth Organic Fertilizers,Chitradurga | Own |
+| 4 | M/s. Bharath Bio-Fertilizers, Bagalkot | Own |
+| 5 | M/s. Shrey Lab Solutions, Dharwad | Own |
+| 6 | M/s. Biotech International Ltd, New delhi | Own |
+| 7 | M/s. Genetech Chemicals & Nutrients, Ballari | Own |
+| 8 | M/s. Sri Laxminarayan Biotech, Dharwad | Own |
+| 9 | M/s. Rohini Bio-Agents, Bagalkot | Own |
+| 10 | M/s. Siddaganga Oil & Bio Industries LLP, Tumkur | Own |
+
+---
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 13
+
+---
+
+### **English Translation**
+
+**4.2.3 Azotobacter (Azotobacter-LB) Bio-fertilizer (Liquid Form):-**
+
+| Sl. No. | Name of the firm qualified to supply | Source of Supply |
+| :--- | :--- | :--- |
+| 1 | M/s. Miklens Bio Private Limited, Bangalore(L1) | Own |
+| 2 | M/s. Sri Laxminarayan Biotech, Dharwad | Own |
+| 3 | M/s. Biotech International Ltd, New delhi | Own |
+
+**4.2.4 N & P & K Consortia (Consortia-Liquid Base) Bio-fertilizer (Liquid Form):-**
+
+| Sl. No. | Name of the firm qualified to supply | Source of Supply |
+| :--- | :--- | :--- |
+| 1 | M/s. Miklens Bio Private Limited, Bangalore (L1) | Own |
+| 2 | M/s. Bharath Bio-Fertilizers, Bagalkot | Own |
+| 3 | M/s. Rohini Bio-Agents, Bagalkot | Own |
+| 4 | M/s. Sri Laxminarayan Biotech, Dharwad | Own |
+| 5 | M/s. Biopest Control Industries, Bangalore | Own |
+| 6 | M/s. Shrey Lab Solutions, Dharwad | Own |
+| 7 | M/s. Jain Agro Care, Belagavi | Own |
+| 8 | M/s. Genetech Chemicals & Nutrients, Ballari | Own |
+| 9 | M/s. Amruth Organic Fertilizers,Chitradurga | Own |
+| 10 | M/s. Prabhat Fertilizer & Chemicals Works, Haryana | Own |
+| 11 | M/s. Pragathi Organics, Bangalore | Own |
+| 12 | M/s. Biotech International Ltd, New delhi | Own |
+
+**4.2.5 PSB (PSB-LB) Bio-fertilizer (Liquid Form):-**
+
+| Sl. No. | Name of the firm qualified to supply | Source of Supply |
+| :--- | :--- | :--- |
+| 1 | M/s. Miklens Bio Private Limited, Bangalore(L1) | Own |
+| 2 | M/s. Biopest Control Industries, Bangalore | Own |
+| 3 | M/s. Amruth Organic Fertilizers,Chitradurga | Own |
+| 4 | M/s. Bharath Bio-Fertilizers, Bagalkot | Own |
+| 5 | M/s. Shrey Lab Solutions, Dharwad | Own |
+| 6 | M/s. Biotech International Ltd, New delhi | Own |
+| 7 | M/s. Genetech Chemicals & Nutrients, Ballari | Own |
+| 8 | M/s. Sri Laxminarayan Biotech, Dharwad | Own |
+| 9 | M/s. Rohini Bio-Agents, Bagalkot | Own |
+| 10 | M/s. Siddaganga Oil & Bio Industries LLP, Tumkur | Own |
+
+---
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 13
+
+--- Page 14 ---
+Of course. As an OCR and translation expert, I will process the provided Kannada document page. Here is the result:
+
+### **Corrected Kannada Text**
+
+**4.2.6 ಕೆ.ಎಂ.ಬಿ. ದ್ರಾವಣ (KMB-LB) (ದ್ರವ ರೂಪ):-**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. Miklens Bio Private Limited, Bangalore(L1) | Own |
+| 2 | M/s. Bharath Bio-Fertilizers, Bagalkot | Own |
+| 3 | M/s. Biotech International Ltd, New delhi | Own |
+| 4 | M/s. Siddaganga Oil & Bio Industries LLP, Tumkur | Own |
+
+**4.2.7 ಝಡ್. ಎಸ್. ಬಿ. ದ್ರಾವಣ (ZSB-LB) (ದ್ರವ ರೂಪ):-**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. Miklens Bio Private Limited, Bangalore(L1) | Own |
+| 2 | M/s. Biotech International Ltd, New delhi | Own |
+| 3 | M/s. Prabhat Fertilizer & Chemicals Works, Haryana | Own |
+
+**5.0 ಮಣ್ಣು ಸುಧಾರಕಗಳು :-**
+
+**5.1 ಜಿಪ್ಸಂ:-**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. Amruth Organic Fertilizers, Chitradurga(L1) | Fact, Cochin |
+| 2 | M/s. Sri Bhagya Agency, Yadgir | Fact, Cochin |
+| 3 | M/s. Shri Laxmi Agro Agency, Gadag | Fact, Cochin |
+| 4 | M/s. Jain Agro Care, Belagavi | Mahaveer Industries, Salem |
+| 5 | M/s. Sri Vinayaka Agro, Bangalore | Greenstar Ferts, Tuticorn |
+| 6 | M/s. K S Agrotech, Bangalore | Greenstar Ferts, Tuticorn |
+| 7 | M/s. Akshya Agro Chemicals, Gadag | Fact, Cochin |
+| 8 | M/s. Varada Agro Agency, Hubli | Greenstar Ferts, Tuticorn |
+| 9 | M/s. Varada Agro Service, Ballery | Greenstar Ferts, Tuticorn |
+| 10 | M/s. Rohini Bio-Chem Microinputs Pvt Ltd, Bagalkot | Fact, Cochin |
+| 11 | M/s. Shivakumara Swamy Traders, Vijayanagara | Fact, Cochin |
+| 12 | M/s. H K Global Enterprises, Bangalore | Fact, Cochin |
+| 13 | M/s. Somnath Seeds Pvt Ltd, Gadag | Fact, Cochin |
+| 14 | M/s. Bharath Bio-Fertilizers, Bagalkot | Fact, Cochin |
+| 15 | M/s. Rastriya Agro Inputs Industries, Bangalore | Fact, Cochin |
+| 16 | M/s. Ganesh Agrotech, Bangalore | Fact, Cochin |
+| 17 | M/s. Sree Mahalakshmi Agro Tech, Bagalkot | Fact, Cochin |
+
+***
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 14
+
+---
+
+### **English Translation**
+
+**4.2.6 KMB Solution (KMB-LB) (Liquid Form):-**
+
+| Sl. No. | Name of the Supplying Agency | Source of Supply |
+| :--- | :--- | :--- |
+| 1 | M/s. Miklens Bio Private Limited, Bangalore(L1) | Own |
+| 2 | M/s. Bharath Bio-Fertilizers, Bagalkot | Own |
+| 3 | M/s. Biotech International Ltd, New delhi | Own |
+| 4 | M/s. Siddaganga Oil & Bio Industries LLP, Tumkur | Own |
+
+**4.2.7 ZSB Solution (ZSB-LB) (Liquid Form):-**
+
+| Sl. No. | Name of the Supplying Agency | Source of Supply |
+| :--- | :--- | :--- |
+| 1 | M/s. Miklens Bio Private Limited, Bangalore(L1) | Own |
+| 2 | M/s. Biotech International Ltd, New delhi | Own |
+| 3 | M/s. Prabhat Fertilizer & Chemicals Works, Haryana | Own |
+
+**5.0 Soil Conditioners:-**
+
+**5.1 Gypsum:-**
+
+| Sl. No. | Name of the Supplying Agency | Source of Supply |
+| :--- | :--- | :--- |
+| 1 | M/s. Amruth Organic Fertilizers, Chitradurga(L1) | Fact, Cochin |
+| 2 | M/s. Sri Bhagya Agency, Yadgir | Fact, Cochin |
+| 3 | M/s. Shri Laxmi Agro Agency, Gadag | Fact, Cochin |
+| 4 | M/s. Jain Agro Care, Belagavi | Mahaveer Industries, Salem |
+| 5 | M/s. Sri Vinayaka Agro, Bangalore | Greenstar Ferts, Tuticorn |
+| 6 | M/s. K S Agrotech, Bangalore | Greenstar Ferts, Tuticorn |
+| 7 | M/s. Akshya Agro Chemicals, Gadag | Fact, Cochin |
+| 8 | M/s. Varada Agro Agency, Hubli | Greenstar Ferts, Tuticorn |
+| 9 | M/s. Varada Agro Service, Ballery | Greenstar Ferts, Tuticorn |
+| 10 | M/s. Rohini Bio-Chem Microinputs Pvt Ltd, Bagalkot | Fact, Cochin |
+| 11 | M/s. Shivakumara Swamy Traders, Vijayanagara | Fact, Cochin |
+| 12 | M/s. H K Global Enterprises, Bangalore | Fact, Cochin |
+| 13 | M/s. Somnath Seeds Pvt Ltd, Gadag | Fact, Cochin |
+| 14 | M/s. Bharath Bio-Fertilizers, Bagalkot | Fact, Cochin |
+| 15 | M/s. Rastriya Agro Inputs Industries, Bangalore | Fact, Cochin |
+| 16 | M/s. Ganesh Agrotech, Bangalore | Fact, Cochin |
+| 17 | M/s. Sree Mahalakshmi Agro Tech, Bagalkot | Fact, Cochin |
+
+***
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 14
+
+--- Page 15 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 16 ---
+Of course! As an OCR and translation expert, I will process the provided Kannada document page.
+
+Here is the extracted, corrected Kannada text and its fluent English translation.
+
+***
+
+### **1. Corrected Kannada Text**
+
+**[Table 1]**
+
+| | | |
+| :--- | :--- | :--- |
+| 4 | M/s. Amruth Organic Fertilizers, Chitradurga | own |
+| 5 | M/s. Samrakshan Organics, Bengaluru | Own |
+| 6 | M/s. Shrey Lab Solutions, Dharwad | Own |
+| 7 | M/s. Jain Agro Care, Belagavi | Own |
+| 8 | M/s. Bharath Bio-Fertilizers, Bagalkot | Own |
+| 9 | M/s. Sri Sai Bioorganics, Hyderabad | Own |
+| 10 | M/s. Karnataka Biofertilizers, Vijaypur | Own |
+| 11 | M/s. Dscign Biosys Pvt Ltd, Bangalore | Own |
+| 12 | M/s. Ganesh Agrotech, Bangalore | Own |
+
+---
+
+8.1 ಖಾದ್ಯವಲ್ಲದ ಎಣ್ಣೆ ರಹಿತ ಹಿಂಡಿ(ಬೀಜ) ಹಿಂಡಿ ಗೊಬ್ಬರ):-
+
+**[Table 2]**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಅರ್ಹತೆ ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಮೂಲ ಸರಬರಾಜು |
+| :--- | :--- | :--- |
+| 1 | M/s. Charminar Bio-tech, Chitradurga(L1) | Own |
+| 2 | M/s. Amruth Organic Fertilizers, Chitradurga | own |
+| 3 | M/s. Sai Estaers, Vijaypura | Own |
+| 4 | M/s. Ganesh Agrotech, Bangalore | Nutrimax Organics, Bangalore |
+| 5 | M/s. Sree Mahalakshmi Agro Tech, Bagalkot | Shree SB Neem |
+| 6 | M/s. Sri Vinayaka Agro, Bangalore | Eco Biosides & Botanicals Pvt Ltd, TN |
+| 7 | M/s. Bhoomi Bio Industries, Bangalore | Agri India Hitech, TN |
+| 8 | M/s. Agrilife Sciences, Bengaluru | Agro extracts Ltd |
+| 9 | M/s. SPS Organics India Pvt Ltd, Salem | Own |
+| 10 | M/s. Karnataka State Seeds Corporation, Bangalore | Sri Eco Biosides & Botanics |
+
+---
+
+ಕೃಷಿ ನಿರ್ದೇಶಕರು
+
+---
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 16
+
+***
+
+### **2. English Translation**
+
+**[Table 1]**
+
+| | | |
+| :--- | :--- | :--- |
+| 4 | M/s. Amruth Organic Fertilizers, Chitradurga | own |
+| 5 | M/s. Samrakshan Organics, Bengaluru | Own |
+| 6 | M/s. Shrey Lab Solutions, Dharwad | Own |
+| 7 | M/s. Jain Agro Care, Belagavi | Own |
+| 8 | M/s. Bharath Bio-Fertilizers, Bagalkot | Own |
+| 9 | M/s. Sri Sai Bioorganics, Hyderabad | Own |
+| 10 | M/s. Karnataka Biofertilizers, Vijaypur | Own |
+| 11 | M/s. Dscign Biosys Pvt Ltd, Bangalore | Own |
+| 12 | M/s. Ganesh Agrotech, Bangalore | Own |
+
+---
+
+8.1 Non-edible de-oiled cake (seed cake) manure:-
+
+**[Table 2]**
+
+| Sl. No. | Name of the firm qualified for supply | Source of supply |
+| :--- | :--- | :--- |
+| 1 | M/s. Charminar Bio-tech, Chitradurga(L1) | Own |
+| 2 | M/s. Amruth Organic Fertilizers, Chitradurga | own |
+| 3 | M/s. Sai Estaers, Vijaypura | Own |
+| 4 | M/s. Ganesh Agrotech, Bangalore | Nutrimax Organics, Bangalore |
+| 5 | M/s. Sree Mahalakshmi Agro Tech, Bagalkot | Shree SB Neem |
+| 6 | M/s. Sri Vinayaka Agro, Bangalore | Eco Biosides & Botanicals Pvt Ltd, TN |
+| 7 | M/s. Bhoomi Bio Industries, Bangalore | Agri India Hitech, TN |
+| 8 | M/s. Agrilife Sciences, Bengaluru | Agro extracts Ltd |
+| 9 | M/s. SPS Organics India Pvt Ltd, Salem | Own |
+| 10 | M/s. Karnataka State Seeds Corporation, Bangalore | Sri Eco Biosides & Botanics |
+
+---
+
+Director of Agriculture
+
+---
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 16
+
+--- Page 17 ---
+Here is the OCR-extracted and corrected Kannada text, followed by its English translation.
+
+### **Corrected Kannada Text**
+
+**ಅನುಬಂಧ-2**
+
+**ಅನುಮೋದಿತ ಸರಬರಾಜುದಾರರ ಹೆಸರು, ವಿಳಾಸ, ಸಂಪರ್ಕಿಸಬೇಕಾದವರ ಮತ್ತು ಇ-ಮೇಲ್ ವಿವರ ಈ ಕೆಳಗಿನಂತೆ ಇರುತ್ತದೆ.**
+
+| ಕ್ರ. ಸಂ. | ಸರಬರಾಜು ಮಾಡುವ ಸಂಸ್ಥೆ ಮತ್ತು ಇರುವ ಸ್ಥಳ | ಸರಬರಾಜು ಮಾಡುವ ವಿಳಾಸ | ಸಂಪರ್ಕಿಸಬೇಕಾದವರ ಹೆಸರು ಮತ್ತು ದೂರವಾಣಿ ಸಂಖ್ಯೆ |
+| :--- | :--- | :--- | :--- |
+| 1 | Access Agrotech, Bangalore | #114/1-4, G V R Gardens, 4th cross, Deshabandu Nagar, Doddabommasandra, Vidyaranyapura Post, Bangalore-560097 | 9886859160<br>9448259160<br>accessagro@yahoo.com<br>B H Lakshmipathi |
+| 2 | Agarwal Associates, Hubli | D/115, Shinde Complex, Neeligin Road, Hubli-29 | 0836-2250501<br>9448118503<br>agarwalvinu79@gmail.com<br>Vinay Agarwal |
+| 3 | Agri Life Sciences, Bangalore | No.9, 52nd Cross, 8th main, IV Block, Rajajinagar, Bangalore-560009 | 080-23144897<br>9448480640<br>agrilifesciences2007@gmail.com<br>A P Sanjeev |
+| 4 | Agro Seeds Corporation, Davangere | #619, Near Bethur Halla Bridge, Bethur Ring Road, Jagalur Main Road, Davangere-577001 | 87624-62712<br>9845472073<br>agro.seeds97@gmail.com<br>S C Nagaraj |
+| 5 | Akshya Agro Chemicals, Gadag | Plot No-76, Road No.-6, KIADB Narsapur Industrial Area, Betageri, Gadag-582102 | 08372-237143<br>9449165565<br>akshayaagro1995@gmail.com<br>S S Meti |
+| 6 | Amruth Organic Fertilizers, Chitradurga | Amruth Organic Fertilizers, Malladihalli, Holalkere Taluk, Chitradurga District - 577531 | 9900066307<br>9448019452<br>amruth.organic@gmail.com<br>K. Nagaraj |
+| 7 | Bharath Bio-Fertilizers, Bagalkot | #132/1A/1, Mudhol, Bagalkot-587313 | 9980978080<br>9164290000<br>sg.ningaraj@gmail.com<br>Ningaraj S Gosar |
+| 8 | Bhoomi Bio Industries, Bangalore | No. 867, Anchepalya, Srikantapura, Nagasandra Post, Tumkur Road, Bangalore 560073 | 9164100029<br>bhoomibioindustries@gmail.com<br>Venu Gopal |
+| 9 | Bhoovi Solutions, Hassan | Valambige Village, Singapura Post, Hole Narasipura Taluk, Hassan-573211 | 080-29909969<br>9164111787<br>bhoovisolutions@gmail.com<br>Manuprakash HR |
+
+---
+
+### **English Translation**
+
+**Annexure-2**
+
+**The details of the approved suppliers, including name, address, contact person, and e-mail, are as follows.**
+
+| Sl. No. | Name of the supplying firm and its location | Supplying Address | Name of the person to contact and phone number |
+| :--- | :--- | :--- | :--- |
+| 1 | Access Agrotech, Bangalore | #114/1-4, G V R Gardens, 4th cross, Deshabandu Nagar, Doddabommasandra, Vidyaranyapura Post, Bangalore-560097 | 9886859160<br>9448259160<br>accessagro@yahoo.com<br>B H Lakshmipathi |
+| 2 | Agarwal Associates, Hubli | D/115, Shinde Complex, Neeligin Road, Hubli-29 | 0836-2250501<br>9448118503<br>agarwalvinu79@gmail.com<br>Vinay Agarwal |
+| 3 | Agri Life Sciences, Bangalore | No.9, 52nd Cross, 8th main, IV Block, Rajajinagar, Bangalore-560009 | 080-23144897<br>9448480640<br>agrilifesciences2007@gmail.com<br>A P Sanjeev |
+| 4 | Agro Seeds Corporation, Davangere | #619, Near Bethur Halla Bridge, Bethur Ring Road, Jagalur Main Road, Davangere-577001 | 87624-62712<br>9845472073<br>agro.seeds97@gmail.com<br>S C Nagaraj |
+| 5 | Akshya Agro Chemicals, Gadag | Plot No-76, Road No.-6, KIADB Narsapur Industrial Area, Betageri, Gadag-582102 | 08372-237143<br>9449165565<br>akshayaagro1995@gmail.com<br>S S Meti |
+| 6 | Amruth Organic Fertilizers, Chitradurga | Amruth Organic Fertilizers, Malladihalli, Holalkere Taluk, Chitradurga District - 577531 | 9900066307<br>9448019452<br>amruth.organic@gmail.com<br>K. Nagaraj |
+| 7 | Bharath Bio-Fertilizers, Bagalkot | #132/1A/1, Mudhol, Bagalkot-587313 | 9980978080<br>9164290000<br>sg.ningaraj@gmail.com<br>Ningaraj S Gosar |
+| 8 | Bhoomi Bio Industries, Bangalore | No. 867, Anchepalya, Srikantapura, Nagasandra Post, Tumkur Road, Bangalore 560073 | 9164100029<br>bhoomibioindustries@gmail.com<br>Venu Gopal |
+| 9 | Bhoovi Solutions, Hassan | Valambige Village, Singapura Post, Hole Narasipura Taluk, Hassan-573211 | 080-29909969<br>9164111787<br>bhoovisolutions@gmail.com<br>Manuprakash HR |
+
+--- Page 18 ---
+Of course. As an OCR and translation expert, I have processed the provided Kannada document page. Here are the results.
+
+### 1. Corrected Kannada Text
+
+I have performed OCR and corrected the errors, primarily in the column headers, to ensure accuracy.
+
+| ಕ್ರ. ಸಂ. | ಸರಬರಾಜು ಮಾಡಲು ಆದೇಶ ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು ಮತ್ತು ವಿಳಾಸ | ಸಂಪರ್ಕಿಸಬೇಕಾದವರ ಹೆಸರು ಮತ್ತು ದೂರವಾಣಿ ಸಂಖ್ಯೆ |
+| :--- | :--- | :--- |
+| **11** | **Biopest Control Industries, Bangalore**<br>No.51/3, Agrahara, Yelahanka, Bengaluru-560064 | 9341972727<br>bpcibangalore@gmail.com<br>**M P Sureshgouda** |
+| **12** | **Biotech International Ltd, New delhi**<br>No 40, SSR Residency, 17th Cross, 22nd main, 5th Phase, J P Nagar, Bangalore-560078 | 080-41696460<br>9448796460<br>bangalore@biotech-int.com<br>**A C Ravindra** |
+| **13** | **Bonageri CropScience Ltd, Hubli**<br>Bonageri CropScience Ltd, 12/1 Shivakrupa Complex, Neeligin Road, Hubli - 580 029. | 0836 4255935<br>7975077839<br>cropscience14@gmail.com<br>**Nagappa Hunsikatti** |
+| **14** | **Charminar Bio-tech, Chitradurga**<br>Nagaramgere, Challakere, Chitradurga-577522 | 9986915437<br>9742614310<br>cbtclk@gmail.com<br>**Mohammed Mujeeb Ulla** |
+| **15** | **Daiwik Enviro Engineering Solution, Mysore**<br>MCC ZWM Copost Plant, Sewage Farm, Gundurao Nagara, Mysore-570025 | 7676788889<br>daivik.ees@gmail.com<br>**Prabhavathi GK** |
+| **16** | **Dscign Biosys Pvt Ltd, Bangalore**<br>#91/2, Near Isha Cashew Factory, Kumbalagodu Industrial Area, 2nd Phase, Doddaaladamara Road, Gerupalya, Bangalore-5600744 | 080 29748955<br>9972588512<br>vp.desai@dscignbiosys.com<br>**V P Desai** |
+| **17** | **Exceed Crop Science Pvt Ltd, Dharwad**<br>216&217(P), II Stage, KIADB Industrial Area, Gamanagatti, Hubli, Dharwad-580025 | 8362970866<br>9945060298<br>exceedcropsciencepvtltd@gmail.com<br>**M P Nagaraj** |
+| **18** | **Ganesh Agrotech, Bangalore**<br>#410, 12 main Road, RMV Extension, Bangalore | 9449813669<br>ganeshaagrotech@gmail.com<br>**Kumar Vinod P Nadagouda** |
+| **19** | **Genetech Chemicals & Nutrients, Ballari**<br>No.44, KIADB 2nd Stage, Bangalore Road, Ballari-583102 | 9449835153<br>guruktr@yahoo.co.in<br>**T M Gurubasavaraj** |
+| **20** | **H K Global Enterprises, Bangalore**<br>H K Global Enterprises, #450, Ist Main Road, Sowmya Kali Temple, Andrahalli, Bangalore-560058 | 9945312666<br>vishalvruddhi@gmail.com<br>**Prakash H K** |
+| **21** | **Jain Agro Care, Belagavi**<br>#1316/A, KIADB Kanabargi Industrial Area, Belagavi | 0831-2410089<br>9742651008<br>jainagrocare1008@gmail.com<br>**Neminath K Chougala** |
+
+---
+
+### 2. English Translation
+
+Here is the fluent English translation of the corrected Kannada text.
+
+| Sl. No. | Name and Address of the Organization Approved to Supply | Name and Phone Number of the Contact Person |
+| :--- | :--- | :--- |
+| **11** | **Biopest Control Industries, Bangalore**<br>No.51/3, Agrahara, Yelahanka, Bengaluru-560064 | 9341972727<br>bpcibangalore@gmail.com<br>**M P Sureshgouda** |
+| **12** | **Biotech International Ltd, New Delhi**<br>No 40, SSR Residency, 17th Cross, 22nd Main, 5th Phase, J P Nagar, Bangalore-560078 | 080-41696460<br>9448796460<br>bangalore@biotech-int.com<br>**A C Ravindra** |
+| **13** | **Bonageri CropScience Ltd, Hubli**<br>Bonageri CropScience Ltd, 12/1 Shivakrupa Complex, Neeligin Road, Hubli - 580 029. | 0836 4255935<br>7975077839<br>cropscience14@gmail.com<br>**Nagappa Hunsikatti** |
+| **14** | **Charminar Bio-tech, Chitradurga**<br>Nagaramgere, Challakere, Chitradurga-577522 | 9986915437<br>9742614310<br>cbtclk@gmail.com<br>**Mohammed Mujeeb Ulla** |
+| **15** | **Daiwik Enviro Engineering Solution, Mysore**<br>MCC ZWM Compost Plant, Sewage Farm, Gundurao Nagara, Mysore-570025 | 7676788889<br>daivik.ees@gmail.com<br>**Prabhavathi GK** |
+| **16** | **Dscign Biosys Pvt Ltd, Bangalore**<br>#91/2, Near Isha Cashew Factory, Kumbalagodu Industrial Area, 2nd Phase, Doddaaladamara Road, Gerupalya, Bangalore-5600744 | 080 29748955<br>9972588512<br>vp.desai@dscignbiosys.com<br>**V P Desai** |
+| **17** | **Exceed Crop Science Pvt Ltd, Dharwad**<br>216&217(P), II Stage, KIADB Industrial Area, Gamanagatti, Hubli, Dharwad-580025 | 8362970866<br>9945060298<br>exceedcropsciencepvtltd@gmail.com<br>**M P Nagaraj** |
+| **18** | **Ganesh Agrotech, Bangalore**<br>#410, 12 Main Road, RMV Extension, Bangalore | 9449813669<br>ganeshaagrotech@gmail.com<br>**Kumar Vinod P Nadagouda** |
+| **19** | **Genetech Chemicals & Nutrients, Ballari**<br>No.44, KIADB 2nd Stage, Bangalore Road, Ballari-583102 | 9449835153<br>guruktr@yahoo.co.in<br>**T M Gurubasavaraj** |
+| **20** | **H K Global Enterprises, Bangalore**<br>H K Global Enterprises, #450, 1st Main Road, Sowmya Kali Temple, Andrahalli, Bangalore-560058 | 9945312666<br>vishalvruddhi@gmail.com<br>**Prakash H K** |
+| **21** | **Jain Agro Care, Belagavi**<br>#1316/A, KIADB Kanabargi Industrial Area, Belagavi | 0831-2410089<br>9742651008<br>jainagrocare1008@gmail.com<br>**Neminath K Chougala** |
+
+--- Page 19 ---
+Of course. Here is the OCR extraction, correction, and English translation of the provided Kannada government document page.
+
+### **1. Corrected Kannada Text (OCR)**
+
+**ಟೇಬಲ್ (Table):**
+
+| ಕ್ರ. ಸಂ. | ಸರಬರಾಜು ಮಾಡುವ ಸಂಸ್ಥೆಯ ಹೆಸರು ಮತ್ತು ವಿಳಾಸ | ಸಂಪರ್ಕಿಸಬೇಕಾದವರ ಹೆಸರು ಮತ್ತು ದೂರವಾಣಿ ಸಂಖ್ಯೆ |
+| :--- | :--- | :--- |
+| **22** | K S Agrotech, Bangalore | **No.547, 2nd A Cross, 3rd State, 3rd Block, Basaveswaranagar, Bangalore-560079** | **080-23227343** <br> **9900092801** <br> **ksagrotech@rediffmail.com** <br> **H S Kumar** |
+| **23** | Kannikaparameswari Agro Chemicals, Hubli | **D-15/16 First Floor, Shinde Complex, Neeligen Road, Hubli-580029** | **0836-2352296** <br> **9480690657** <br> **kannikaagro@gmail.com** <br> **Ramesh V Bonageri** |
+| **24** | Karnataka Biofertilizers, Vijaypur | **Ankalivar Layout, Sindagi Road, Vijaypur** | **08352-259698** <br> **9611997368** <br> **kbforgbio7368@gmail.com** <br> **Ravi D Kulkarni** |
+| **25** | Karnataka State Seeds Corporation, Bangalore | **Karnataka State Seeds Corporation, Beeja Bhavan, Hebbal, Bangalore-560024** | **080-23415895** <br> **9448990385** <br> **mktg.kssc@gmail.com** <br> **C Vidyananda** |
+| **26** | Kisan Biofertilizers, Tumkur | **No 183, Shree Annapurneswari Nilaya, Manjunatha Nagara, Tuda Layout, Kyathasandra Opp Water Tank, Tumkur-572104** | **8861236869** <br> **6366833123** <br> **chandrakanthnfl@gmail.com** <br> **Chandrakanth BH** |
+| **27** | Krishna Lime Products, Belagam | **Sr No. 19/2, Ranjanagi Road, Yadwad, Gokak, Belagam-591136** | **08350-280561** <br> **9449807208** <br> **unikrishna.2010@gmail.com** <br> **Ravasaheb R Naik** |
+| **28** | Miklens Bio Private Limited, Bangalore | **#70/1, HKK Industrial Estates, Cheemasandra, Bidarahalli Hobali, Virgonagar, Bangalore-560049** | **-** <br> **9741421600** <br> **vijayendra@miklensbio.com** <br> **Vijayendra P** |
+| **29** | National seeds Corporation Limited, Bangalore | **Regional office, Near railway gate, UAS Campus Hebbal Bangalore-560024** | **8023416824** <br> **9677227062** <br> **rm.bangalore@indiaseeds.com,** <br> **mktg.nscbangalore@gmail.com** <br> **M. Ahamed Raza** |
+| **30** | Prabhat Fertilizer & Chemicals Works, Haryana | **Village-Kurali, Indri Road, Karnal-132001, Haryana** | **7027650111** <br> **7027650222** <br> **admin@prabhatagri.com** <br> **Prashant Goyal** |
+| **31** | Pragathi Organics, Bangalore | **Plot No 103/3, Chogandahalli, Melekote Post, Doddaballur Taluk, Bangalore Rural District-561203** | **-** <br> **9845077154** <br> **cs.pragathi@gmail.com** <br> **C S Srinivas** |
+| **32** | Pyramid Minerals, AP | **H NO. 11-4, Kothapete Dhone Town, Kanrool District, Andrapradesh-518222** | **08516-221059** <br> **9346318232** <br> **pyramidmineralsdhone@gmail.com** <br> **K Suresh Babu** |
+
+---
+**Footer:** E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 19
+---
+<br>
+
+### **2. English Translation**
+
+**Table:**
+
+| Sl. No. | Name and Address of the Supplying Organization | Name and Phone Number of the Person to be Contacted |
+| :--- | :--- | :--- |
+| **22** | K S Agrotech, Bangalore | **No.547, 2nd A Cross, 3rd State, 3rd Block, Basaveswaranagar, Bangalore-560079** | **080-23227343** <br> **9900092801** <br> **ksagrotech@rediffmail.com** <br> **H S Kumar** |
+| **23** | Kannikaparameswari Agro Chemicals, Hubli | **D-15/16 First Floor, Shinde Complex, Neeligen Road, Hubli-580029** | **0836-2352296** <br> **9480690657** <br> **kannikaagro@gmail.com** <br> **Ramesh V Bonageri** |
+| **24** | Karnataka Biofertilizers, Vijaypur | **Ankalivar Layout, Sindagi Road, Vijaypur** | **08352-259698** <br> **9611997368** <br> **kbforgbio7368@gmail.com** <br> **Ravi D Kulkarni** |
+| **25** | Karnataka State Seeds Corporation, Bangalore | **Karnataka State Seeds Corporation, Beeja Bhavan, Hebbal, Bangalore-560024** | **080-23415895** <br> **9448990385** <br> **mktg.kssc@gmail.com** <br> **C Vidyananda** |
+| **26** | Kisan Biofertilizers, Tumkur | **No 183, Shree Annapurneswari Nilaya, Manjunatha Nagara, Tuda Layout, Kyathasandra Opp Water Tank, Tumkur-572104** | **8861236869** <br> **6366833123** <br> **chandrakanthnfl@gmail.com** <br> **Chandrakanth BH** |
+| **27** | Krishna Lime Products, Belgaum | **Sr No. 19/2, Ranjanagi Road, Yadwad, Gokak, Belgaum-591136** | **08350-280561** <br> **9449807208** <br> **unikrishna.2010@gmail.com** <br> **Ravasaheb R Naik** |
+| **28** | Miklens Bio Private Limited, Bangalore | **#70/1, HKK Industrial Estates, Cheemasandra, Bidarahalli Hobali, Virgonagar, Bangalore-560049** | **-** <br> **9741421600** <br> **vijayendra@miklensbio.com** <br> **Vijayendra P** |
+| **29** | National Seeds Corporation Limited, Bangalore | **Regional office, Near railway gate, UAS Campus Hebbal Bangalore-560024** | **8023416824** <br> **9677227062** <br> **rm.bangalore@indiaseeds.com,** <br> **mktg.nscbangalore@gmail.com** <br> **M. Ahamed Raza** |
+| **30** | Prabhat Fertilizer & Chemicals Works, Haryana | **Village-Kurali, Indri Road, Karnal-132001, Haryana** | **7027650111** <br> **7027650222** <br> **admin@prabhatagri.com** <br> **Prashant Goyal** |
+| **31** | Pragathi Organics, Bangalore | **Plot No 103/3, Chogandahalli, Melekote Post, Doddaballur Taluk, Bangalore Rural District-561203** | **-** <br> **9845077154** <br> **cs.pragathi@gmail.com** <br> **C S Srinivas** |
+| **32** | Pyramid Minerals, AP | **H NO. 11-4, Kothapete Dhone Town, Kurnool District, Andhra Pradesh-518222** | **08516-221059** <br> **9346318232** <br> **pyramidmineralsdhone@gmail.com** <br> **K Suresh Babu** |
+
+---
+**Footer:** E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 19
+---
+
+--- Page 20 ---
+Of course. Here is the professional OCR extraction, correction, and translation of the provided Kannada government document.
+
+### Corrected Kannada Text
+
+| ಕ್ರ. ಸಂ. | ಸರಬರಾಜು ಮಾಡಲು ಒಪ್ಪಿದ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಸಂಸ್ಥೆಯ ವಿಳಾಸ | ನೋಂದಾಯಿಸಿದವರ ಹೆಸರು ಮತ್ತು ದೂರವಾಣಿ ಸಂಖ್ಯೆ |
+| :--- | :--- | :--- | :--- |
+| **33** | ರಾಷ್ಟ್ರೀಯ ಆಗ್ರೋ ಇನ್‌ಪುಟ್ಸ್ ಇಂಡಸ್ಟ್ರೀಸ್, ಬೆಂಗಳೂರು | #35/1, ಡಿ ಸಿ ಹಳ್ಳಿ, ಬಿಳೆಕಹಳ್ಳಿ ಪೋಸ್ಟ್, ಬನ್ನೇರುಘಟ್ಟ ರೋಡ್, ಬೆಂಗಳೂರು-560076 | 080-26480507<br>9900148309<br>write2raii@gmail.com<br>ರಾಜೇಂದ್ರ ಎಂ ಬಿ |
+| **34** | ರೋಹಿಣಿ ಬಯೋ-ಏಜೆಂಟ್ಸ್, ಬಾಗಲಕೋಟ | 572/2, ಮುಧೋಳ ರೋಡ್, ಮಹಾಲಿಂಗಪುರ, ಬಾಗಲಕೋಟ | 08350-271426<br>9845533416<br>rohinibiotech@yahoo.com<br>ಪಿ ಎಂ ಕಟ್ಟಿ |
+| **35** | ರೋಹಿಣಿ ಬಯೋ-ಕೆಮ್ ಮೈಕ್ರೋಇನ್‌ಪುಟ್ಸ್ ಪ್ರೈ. ಲಿ., ಬಾಗಲಕೋಟ | 572/2 ಮುಧೋಳ ರೋಡ್ ಮಹಾಲಿಂಗಪುರ, ಬಾಗಲಕೋಟ- 587312 | 08350-271426<br>9845533416<br>rbmpvtltd10@yahoo.com<br>ಪಿ ಎಂ ಕಟ್ಟಿ |
+| **36** | ಸಂರಕ್ಷನ್ ಆರ್ಗಾನಿಕ್ಸ್, ಬೆಂಗಳೂರು | #401/2, ಎಫ್-3, 1ನೇ ಮಹಡಿ, ಸ್ವಸ್ತಿಕ್ ಮನಂಡಿ ಆರ್ಕೇಡ್, ಎಸ್ ಸಿ ರೋಡ್, ಶೇಷಾದ್ರಿಪುರಂ, ಬೆಂಗಳೂರು-560020 | 080-23563233<br>9008534869<br>samrakshanorganics@gmail.com<br>ರಾಘವೇಂದ್ರ ಕೆ |
+| **37** | ಸನ್ನತಿ ಪ್ಲಾಂಟ್ ಪ್ರೊಟೆಕ್ಷನ್, ಬೆಂಗಳೂರು | ನಂ.525, 20ನೇ ಮೇನ್, 23ನೇ ಕ್ರಾಸ್, ಜುಡಿಷಿಯಲ್ ಲೇಔಟ್, ಜಿಕೆವಿಕೆ ಪೋಸ್ಟ್, ಬೆಂಗಳೂರು-560065 | 9663382848<br>sannathipp@gmail.com<br>ಜಿ ವಿ ಯಶೋಧರ |
+| **38** | ಶಾರದಾ ಆಗ್ರೋ ಇಂಡಸ್ಟ್ರೀಸ್, ತೆಲಂಗಾಣ | 4-2-164, ಎಸ್ ಪಿ ನಗರ, ಆರ್ ಜಿ ರೋಡ್, ವಿಕಾರಾಬಾದ್, ತೆಲಂಗಾಣ-501101 | 8885552070<br>9440008816<br>sharadaagroindustries@gmail.com<br>ಅನಿಲ್ ಕುಮಾರ್ ಕುಂಚವರಂ |
+| **39** | ಶಿವ ಹೈಬ್ರಿಡ್ ಸೀಡ್ಸ್, ಕೊಟ್ಟೂರು | ವಾರ್ಡ್ ನಂ 04, ಡಿ ನಂ.489, ಹರಪನಹಳ್ಳಿ ರೋಡ್, ಕೊಟ್ಟೂರು-583134 | 08391-226889<br>7026401111<br>kotresh970@gmail.com<br>ಕೆ ಎನ್ ಕೊಟ್ರೇಶ್ |
+| **40** | ಶಿವಕುಮಾರ ಸ್ವಾಮಿ ಟ್ರೇಡರ್ಸ್, ವಿಜಯನಗರ | ವಾರ್ಡ್ ನಂ 4, ಎಪಿಎಂಸಿ ಯಾರ್ಡ್, ಕೊಟ್ಟೂರು | 08391-226889<br>7026401111<br>kotreshg70@gmail.com<br>ಕೆ ಎನ್ ಕೊಟ್ರೇಶ್ |
+| **41** | ಶ್ರೀ ಲಕ್ಷ್ಮೀ ಎಂಟರ್‌ಪ್ರೈಸಸ್, ಶಿವಮೊಗ್ಗ | 1ನೇ ಮಹಡಿ, ರೂಂ ನಂ.1, ಕೆ ಆರ್ ಪುರಂ ಮೇನ್ ರೋಡ್, ಬಿಎಸ್ಎನ್ ಕಾಂಪ್ಲೆಕ್ಸ್, ಶಿವಮೊಗ್ಗ-577202 | 08182-228827<br>9844333755<br>shreelakshmi375@gmail.com<br>ಲಕ್ಷ್ಮಿ ಎ |
+| **42** | ಶ್ರೇಯ್ ಅಗ್ರಿಟೆಕ್, ಹುಬ್ಬಳ್ಳಿ | ಸರ್ವೆ ನಂ. 90, ಪ್ಲಾಟ್ ನಂ.152 ಪಿ, ತಾರಿಹಾಳ ಕೈಗಾರಿಕಾ ಪ್ರದೇಶ, ಹುಬ್ಬಳ್ಳಿ-580026 | 0836-2237199<br>9742911402<br>shreyagritech@gmail.com<br>ಚಿದಂಬರ್ ಡಿ ಆನೆಗುಂದಿ |
+| **43** | ಶ್ರೇಯ್ ಲ್ಯಾಬ್ ಸಲ್ಯೂಷನ್ಸ್, ಧಾರವಾಡ | #2H, ತಾರಿಹಾಳ ಕೈಗಾರಿಕಾ ಪ್ರದೇಶ, ತಾರಿಹಾಳ, ಹುಬ್ಬಳ್ಳಿ, ಧಾರವಾಡ-580 030 | 948284743<br>9449829047<br>shreylabsolutions@gmail.com<br>ಮಹಾರುದ್ರಪ್ಪ ಆಲೂರ |
+
+**ಅಡಿಟಿಪ್ಪಣಿ (Footer):**
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 20
+
+---
+
+### English Translation
+
+| Sl. No. | Name of the Organization That Agreed to Supply | Address of the Organization | Registrant's Name and Phone Number |
+| :--- | :--- | :--- | :--- |
+| **33** | Rastriya Agro Inputs Industries, Bengaluru | #35/1, D C Halli, Bilekahalli Post, Bannerghatta Road, Bangalore-560076 | 080-26480507<br>9900148309<br>write2raii@gmail.com<br>Rajendra M B |
+| **34** | Rohini Bio-Agents, Bagalkot | 572/2, Mudhol Road, Mahalingpur, Bagalkot | 08350-271426<br>9845533416<br>rohinibiotech@yahoo.com<br>P M Katti |
+| **35** | Rohini Bio-Chem Microinputs Pvt. Ltd., Bagalkot | 572/2 Mudhol Road, Mahalingpur, Bagalkot- 587312 | 08350-271426<br>9845533416<br>rbmpvtltd10@yahoo.com<br>P M Katti |
+| **36** | Samrakshan Organics, Bengaluru | #401/2, F-3, 1st Floor, Swastik Manandi Arcade, S C Road, Sheshadripuram, Bengaluru-560020 | 080-23563233<br>9008534869<br>samrakshanorganics@gmail.com<br>Ragavendra K |
+| **37** | Sannathi Plant Protection, Bangalore | No.525, 20th Main, 23rd Cross, Judicial Layout, GKVK Post, Bangalore-560065 | 9663382848<br>sannathipp@gmail.com<br>G V Yashodhara |
+| **38** | Sharada Agro Industries, Telangana | 4-2-164, SP Nagar, RG Road, Vikarabad, Telangana-501101 | 8885552070<br>9440008816<br>sharadaagroindustries@gmail.com<br>Anil Kumar Kunchavaram |
+| **39** | Shiva Hybrid Seeds, Kottur | Ward No 04, D No.489, Harapanahalli Road, Kottur-583134 | 08391-226889<br>7026401111<br>kotresh970@gmail.com<br>K N Kotresh |
+| **40** | Shivakumara Swamy Traders, Vijayanagara | Ward No 4, APMC Yard, Kottur | 08391-226889<br>7026401111<br>kotreshg70@gmail.com<br>KN Kotresh |
+| **41** | Shree Lakshmi Enterprises, Shimoga | 1st Floor, Room No.1, K R Puram Main Road, BSN Complex, Shimoga-577202 | 08182-228827<br>9844333755<br>shreelakshmi375@gmail.com<br>Lakshmi A |
+| **42** | Shrey Agritech, Hubli | Survey No. 90, Plot No.152 P, Tarihal Industrial Area, Hubli-580026 | 0836-2237199<br>9742911402<br>shreyagritech@gmail.com<br>Chidambar D Anegundi |
+| **43** | Shrey Lab Solutions, Dharwad | #2H, Tarihal Industrial Area, Tarihal, Hubli, Dharwad-580 030 | 948284743<br>9449829047<br>shreylabsolutions@gmail.com<br>Maharudrappa Alur |
+
+**Footer:**
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 20
+
+--- Page 21 ---
+Excellent. Here is the requested OCR, correction, and translation of the provided Kannada government document.
+
+### **1. Corrected Kannada Text**
+
+This is the text extracted from the image with OCR errors corrected. The main content is in English, while the headers are in Kannada.
+
+| ಕ್ರ. ಸಂ. | ಸರಬರಾಜು ಮಾಡಲು ಪಡೆದಿರುವ ಸಂಸ್ಥೆಯ ಹೆಸರು | ಸಂಸ್ಥೆಯ ವಿಳಾಸ | ಸಂಪರ್ಕಿಸಬೇಕಾದವರ ಹೆಸರು ಮತ್ತು ದೂರವಾಣಿ ಸಂಖ್ಯೆ |
+| :--- | :--- | :--- | :--- |
+| 44 | Shri Laxmi Agro Agency, Gadag | Plot No.568, Road No-6A, KIADB Narsapur Industrial Area, Betageri, Gadag-582102 | 9449120980 <br> cghiregoudar@rediffmail.com <br> C G Hiregoudar |
+| 45 | Siddaganga Oil & Bio Industries LLP, Tumkur | HOA, Opp Fire Station, NH-4, Tumkur- 572102 | 0816-2282555 <br> 9008088888 <br> adarsh@siddioil.com <br> AKSHAY NR |
+| 46 | Skanda Agrotech, Bangalore | #84A, 5th Cross, 2 Stage, BHCS, Chandra Layout, Vijayanagar, Bengaluru-40 | 9740217533 <br> 9740956721 <br> skandaagrotech2021@gmail.com <br> Govind K |
+| 47 | Somnath Seeds Pvt Ltd, Gadag | Plot No.2, KIADB Narasapur Industrial Area, Betageri, Gadag-582102 | 9448838205 <br> seeds.somnath@gmail.com <br> S S Patil |
+| 48 | SPS Organics India Pvt Ltd, Salem | 123/6c3, Pichampalayam, Mallur, Salem | 9448285851 <br> spsorganics@gmail.com <br> Maneesh Bohra |
+| 49 | Sree Mahalakshmi Agro Tech, Bagalkot | H No.239, Ward No.11, Hulyal Layout, Vinayak Nagar, Bagalkot-587101 | 9632099792 <br> 9731188189 <br> shreemahalakshmiagrotech@gmail.com <br> Mahantesh V Nadagouda |
+| 50 | Sri Bhagya Agency, Yadgir | No.2, Chetty Complex, B B Road, Shahapur, Yadgir-585223 | 9008664911 <br> 9972609260 <br> sribhagyaagencies@gmail.com <br> Babugouda Patil |
+| 51 | Sri Laxminarayan Biotech, Dharwad | #29, 1st Floor, Admin Building, KIADB Industrial Area, Rayapur, Dharwad | 0836-2226444 <br> 9845012128 <br> slnbiotek@rediffmail.com <br> Naveen V Akalwadi |
+| 52 | Sri Sai Bioorganics, Hyderabad | Sri Sai Bioorganics, G-7, Pallavi Apartment, Vinayaka Nagar, Balanagar, Hyderabad, TG | 8125555355 <br> 9301399999 <br> srisaibioorganic@gmail.com <br> R V Subramanyam Istamsetty |
+| 53 | Sri Vijaya Manruthi Trading Co., Koppal | July Nagar, Gangavathi, Koppal-583227 | 08533-271666 <br> 9448271071 <br> birudukota2016@rediffmail.com <br> Birudhukota |
+| 54 | Sri Vinayaka Agro, Bangalore | No.525/1, 20th Main, 23rd Cross, Judicial Layout, GKVK Post, Bangalore-560065 | 9980058169 <br> srivinayakaagro606@gmail.com <br> B S Mahesh |
+
+---
+**Footer:** E:\Tender 2022-23\Rate contract 2022-23.docx
+**Page Number:** Page 21
+
+---
+
+### **2. English Translation**
+
+This is the fluent English translation of the document.
+
+| Sl. No. | Name of the Supplying Firm/Agency | Firm's Address | Contact Person's Name and Phone Number |
+| :--- | :--- | :--- | :--- |
+| 44 | Shri Laxmi Agro Agency, Gadag | Plot No. 568, Road No. 6A, KIADB Narsapur Industrial Area, Betageri, Gadag-582102 | 9449120980 <br> cghiregoudar@rediffmail.com <br> C G Hiregoudar |
+| 45 | Siddaganga Oil & Bio Industries LLP, Tumkur | HOA, Opp Fire Station, NH-4, Tumkur-572102 | 0816-2282555 <br> 9008088888 <br> adarsh@siddioil.com <br> AKSHAY NR |
+| 46 | Skanda Agrotech, Bangalore | #84A, 5th Cross, 2nd Stage, BHCS, Chandra Layout, Vijayanagar, Bengaluru-40 | 9740217533 <br> 9740956721 <br> skandaagrotech2021@gmail.com <br> Govind K |
+| 47 | Somnath Seeds Pvt Ltd, Gadag | Plot No. 2, KIADB Narasapur Industrial Area, Betageri, Gadag-582102 | 9448838205 <br> seeds.somnath@gmail.com <br> S S Patil |
+| 48 | SPS Organics India Pvt Ltd, Salem | 123/6c3, Pichampalayam, Mallur, Salem | 9448285851 <br> spsorganics@gmail.com <br> Maneesh Bohra |
+| 49 | Sree Mahalakshmi Agro Tech, Bagalkot | H No. 239, Ward No. 11, Hulyal Layout, Vinayak Nagar, Bagalkot-587101 | 9632099792 <br> 9731188189 <br> shreemahalakshmiagrotech@gmail.com <br> Mahantesh V Nadagouda |
+| 50 | Sri Bhagya Agency, Yadgir | No. 2, Chetty Complex, B B Road, Shahapur, Yadgir-585223 | 9008664911 <br> 9972609260 <br> sribhagyaagencies@gmail.com <br> Babugouda Patil |
+| 51 | Sri Laxminarayan Biotech, Dharwad | #29, 1st Floor, Admin Building, KIADB Industrial Area, Rayapur, Dharwad | 0836-2226444 <br> 9845012128 <br> slnbiotek@rediffmail.com <br> Naveen V Akalwadi |
+| 52 | Sri Sai Bioorganics, Hyderabad | Sri Sai Bioorganics, G-7, Pallavi Apartment, Vinayaka Nagar, Balanagar, Hyderabad, TG | 8125555355 <br> 9301399999 <br> srisaibioorganic@gmail.com <br> R V Subramanyam Istamsetty |
+| 53 | Sri Vijaya Manruthi Trading Co., Koppal | July Nagar, Gangavathi, Koppal-583227 | 08533-271666 <br> 9448271071 <br> birudukota2016@rediffmail.com <br> Birudhukota |
+| 54 | Sri Vinayaka Agro, Bangalore | No. 525/1, 20th Main, 23rd Cross, Judicial Layout, GKVK Post, Bangalore-560065 | 9980058169 <br> srivinayakaagro606@gmail.com <br> B S Mahesh |
+
+---
+**Footer:** E:\Tender 2022-23\Rate contract 2022-23.docx
+**Page Number:** Page 21
+
+--- Page 22 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]

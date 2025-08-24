@@ -1,0 +1,163 @@
+
+--- Page 1 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 2 ---
+Here is the OCR extraction, correction, and translation of the provided Kannada document.
+
+### **Corrected Kannada Text**
+
+*   ಜಿಲ್ಲಾ ಹಂತದಲ್ಲಿ ನಿರ್ದೇಶಕರ ಪೂರ್ವಾನುಮತಿ ಪಡೆದು ಗುತ್ತಿಗೆದಾರರಿಗೆ ಗುತ್ತಿಗೆಯನ್ನು ನೀಡತಕ್ಕದ್ದು.
+*   ಬೆಳೆಗಳ ಸಂರಕ್ಷಣೆಗೆ ಗುತ್ತಿಗೆದಾರರೇ ಸಂಪೂರ್ಣವಾಗಿ ಜವಾಬ್ದಾರರಾಗಿದ್ದು, ಬೆಳೆಗಳ ನಿಗಾವಹಿಸಿ ಅವುಗಳ ಕಟಾವು ಮಾಡಿ ಉತ್ಪನ್ನವನ್ನು ಮಾರುಕಟ್ಟೆಗೆ ತೆಗೆದುಕೊಂಡು ಹೋಗುವ ಸಂಪೂರ್ಣ ವ್ಯವಸ್ಥೆಯನ್ನು ಮಾಡಿಕೊಳ್ಳತಕ್ಕದ್ದು.
+*   ಗುತ್ತಿಗೆದಾರರಾದವರು ನಿಗದಿತ ದಿನಾಂಕದೊಳಗೆ ಗುತ್ತಿಗೆ ಹಣವನ್ನು ಒಂದೇ ಕಂತಿನಲ್ಲಿ ಪಾವತಿಸತಕ್ಕದ್ದು.
+*   ಗುತ್ತಿಗೆಯ ನಂತರ ಗುತ್ತಿಗೆದಾರರು ಬೀಜೋತ್ಪಾದನೆ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಖರಾಬು ಎಂದು ವರ್ಗೀಕರಿಸಿದ ಕ್ಷೇತ್ರ ಹೊರತುಪಡಿಸಿ ಉಳಿದ ಕ್ಷೇತ್ರವನ್ನು ಗುತ್ತಿಗೆದಾರರಿಗೆ ಹಸ್ತಾಂತರಿಸತಕ್ಕದ್ದು.
+*   ತದನಂತರದ ಮಾಹಿತಿಯನ್ನು ಇಲಾಖೆಯ FRUITS and Kkisan software application ನಲ್ಲಿ ಕಡ್ಡಾಯವಾಗಿ ನಮೂದಿಸಬೇಕು ಹಾಗೂ ಪ್ರಗತಿಯನ್ನು ಪರಿಶೀಲಿಸುವುದು ಕಡ್ಡಾಯವಾಗಿರುತ್ತದೆ. ಸದರಿ ಮಾಹಿತಿಯನ್ನು ಉಪಯೋಗಿಸಿಕೊಂಡು Kkisan-MIS ತಂತ್ರಾಂಶದಲ್ಲಿ ಪ್ರಗತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ ಜಿಲ್ಲೆಗಳಿಗೆ ವರದಿಯನ್ನು ನೀಡಲಾಗುವುದು.
+*   ಬೀಜೋತ್ಪಾದನೆ ಕ್ಷೇತ್ರದಲ್ಲಿ ಇಳುವರಿ ಬಾರದೇ ಇದ್ದಲ್ಲಿ ಅಥವಾ ಇಳುವರಿ ಕುಂಠಿತವಾದಲ್ಲಿ ಇಲಾಖಾ ವತಿಯಿಂದ ಯಾವುದೇ ಪರಿಹಾರ ನೀಡುವುದಿಲ್ಲ.
+*   ಬೆಳೆಗಳ ಕ್ಷೇತ್ರ ತಪಾಸಣೆ ಸಮಯದಲ್ಲಿ ಇಲಾಖೆ ಅಧಿಕಾರಿಗಳ ಜೊತೆ ಗುತ್ತಿಗೆದಾರರು ಸಹಕರಿಸಿ ಕ್ಷೇತ್ರ ತಪಾಸಣೆ ಪೂರ್ಣಗೊಂಡ ನಂತರ ವರದಿಗೆ ಸಹಿ ಮಾಡತಕ್ಕದ್ದು.
+*   ಇಲಾಖೆಯಿಂದ ಗುತ್ತಿಗೆಯನ್ನು ಪಡೆದ ನಂತರ ಬೆಳೆ ವಿಫಲವಾದಲ್ಲಿ, ಅತಿವೃಷ್ಟಿ, ಅನಾವೃಷ್ಟಿ ಅಥವಾ ಇತರೆ ಯಾವುದೇ ನೈಸರ್ಗಿಕ ವಿಕೋಪಗಳಿಂದ ಬೆಳೆ ಹಾನಿಯಾದಲ್ಲಿ ಇಲಾಖೆಯು ಜವಾಬ್ದಾರಿಯಾಗಿರುವುದಿಲ್ಲ. ಬೆಳೆ ವಿಮೆ ಮಾಡಿಸುವ ಬಗ್ಗೆ ಗುತ್ತಿಗೆದಾರರೇ ಸಂಪೂರ್ಣ ಜವಾಬ್ದಾರರಾಗಿರುತ್ತಾರೆ.
+*   ಬೆಳೆಗಳ ಕಟಾವು ನಂತರ ಬೆಳೆ ಕಟಾವು ವರದಿಯನ್ನು ತಾಲ್ಲೂಕು ಕೃಷಿ ನಿರ್ದೇಶಕರು ಹಾಗೂ ಕ್ಷೇತ್ರ ಸಹಾಯಕರಿಂದ ದೃಢೀಕರಿಸಿ ಸಲ್ಲಿಸತಕ್ಕದ್ದು.
+*   ಯಾವುದೇ ವಿವಾದಗಳು ಉದ್ಭವಿಸಿದ್ದಲ್ಲಿ, ವ್ಯವಸ್ಥಾಪಕ ನಿರ್ದೇಶಕರ ತೀರ್ಮಾನವೇ ಅಂತಿಮವಾಗಿರುತ್ತದೆ.
+*   ಈ ಮೇಲೆ ತಿಳಿಸಿರುವ ಎಲ್ಲಾ ಷರತ್ತುಗಳನ್ನು ಕಡ್ಡಾಯವಾಗಿ ಪಾಲಿಸತಕ್ಕದ್ದು.
+*   ನಿಗದಿತ ದಿನಾಂಕದೊಳಗೆ ಬಾಕಿ ಹಣವನ್ನು ಪಾವತಿಸದೇ ಇದ್ದಲ್ಲಿ, ದಿನಾಂಕ: 31.03.2023 ರೊಳಗೆ ರದ್ದುಪಡಿಸಲಾಗುವುದು.
+
+**2022-23 ನೇ ಸಾಲಿನ ಖುಷ್ಕಿ ಬೀಜದ ಬೆಳೆಗಳ ಗುತ್ತಿಗೆ ನೀಡುವ ಕುರಿತಂತೆ, ಅನುಸೂಚಿತ ಹಾಗೂ ಸರ್ಕಾರದಿಂದ ನಿಗದಿಪಡಿಸಿದ ದರಗಳ ವಿವರಗಳು:**
+
+**2022-23ನೇ ಸಾಲಿನ ನಿಗದಿಪಡಿಸಿದ ದರಗಳು (ರೂ.ಗಳಲ್ಲಿ)**
+
+| ಕ್ರ. ಸಂ | ಬೆಳೆಗಳ ಹೆಸರು | ಅನುಸೂಚಿತ ದರ (ರೂ.ಗಳಲ್ಲಿ) | ಪ್ರತಿ ಎಕರೆಗೆ ರೂ.500 ದರದಲ್ಲಿ | ಪ್ರತಿ ಎಕರೆಗೆ ರೂ.750 ದರದಲ್ಲಿ |
+| :--- | :--- | :--- | :--- | :--- |
+| | | **ನಿಗದಿತ ವಿಸ್ತೀರ್ಣ ದರ (ಪ್ರತಿ ಹೆ.ಗೆ/ಎ.ಗೆ)** | **ಬೆಳೆ ವಾರು (ಪ್ರತಿ ಹೆಕ್ಟೇರ್ ಗೆ)** | **ಇಲಾಖಾ ದರ** | **ಇತರೆ ಖರ್ಚು** | **ಇಲಾಖಾ ದರ** | **ಇತರೆ ಖರ್ಚು** |
+
+---
+### **English Translation**
+
+*   The contract must be awarded to the contractor at the district level with the prior approval of the Director.
+*   The contractor is fully responsible for the protection of the crops, and must make complete arrangements for monitoring the crops, harvesting them, and taking the produce to the market.
+*   The contractor must pay the contract amount in a single installment within the specified date.
+*   After the contract is awarded, the contractor must be handed over the remaining area in the seed production fields, excluding the area classified as 'kharab' (uncultivable land).
+*   Subsequent information must be mandatorily entered into the department's FRUITS and Kkisan software application, and monitoring the progress is mandatory. Using this information, progress will be reviewed in the Kkisan-MIS software and reports will be submitted to the districts.
+*   In the event of no yield or reduced yield in the seed production field, no compensation will be provided by the department.
+*   During the crop field inspection, the contractor must cooperate with the department officials and sign the report after the field inspection is completed.
+*   After obtaining the contract from the department, the department will not be responsible for crop failure or damage due to floods, drought, or any other natural disasters. The contractor is fully responsible for obtaining crop insurance.
+*   After the crop is harvested, the crop cutting report must be certified by the Taluk Agriculture Director and the Field Assistant and then submitted.
+*   In case of any disputes, the decision of the Managing Director shall be final.
+*   All the above-mentioned conditions must be compulsorily followed.
+*   If the outstanding amount is not paid by the due date, it will be cancelled by date: 31.03.2023.
+
+**Details of scheduled and government-fixed rates for the leasing of rainfed seed crops for the year 2022-23:**
+
+**Fixed Rates for the year 2022-23 (in Rs.)**
+
+| Sl. No. | Name of Crops | Scheduled Rate (in Rs.) | At the rate of Rs. 500 per Acre | At the rate of Rs. 750 per Acre |
+| :--- | :--- | :--- | :--- | :--- |
+| | | **Fixed Area Rate (Per Ha./Acre)** | **Crop-wise (Per Hectare)** | **Dept. Rate** | **Other Expenses** | **Dept. Rate** | **Other Expenses** |
+
+--- Page 3 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 4 ---
+Of course. Here is the OCR extraction, correction, and translation of the provided Kannada document.
+
+### **Corrected Kannada Text**
+
+**ಅನುಬಂಧ-1**
+
+**2022-23 ನೇ ಸಾಲಿಗೆ ಹಸಿರೆಲೆ ಗೊಬ್ಬರದ ಬೀಜಗಳನ್ನು ಉಚಿತವಾಗಿ ವಿತರಿಸಲು ಸರಬರಾಜು ಮಾಡಿದ ಗುತ್ತಿಗೆದಾರರ ವಿವರಗಳು ಈ ಕೆಳಗಿನಂತೆ ಇರುತ್ತದೆ.**
+
+**1.0 ಹಸಿರೆಲೆ ಗೊಬ್ಬರ ಬೀಜಗಳು:**
+
+**1.1. ಹಸಿರೆಲೆ ಗೊಬ್ಬರ ಬೀಜ (ಡಯಾಂಚ):**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡಿದ ಗುತ್ತಿಗೆದಾರರ ಸಂಸ್ಥೆಯ ಹೆಸರು |
+| :--- | :--- |
+| 1 | M/s. National seeds Corporation Limited, Bangalore(L1) |
+| 2 | M/s. Agarwal Associates, Hubli |
+| 3 | M/s. Akash Enterprises, Davangere |
+| 4 | M/s. Karnataka State Seeds Corporation, Bangalore |
+| 5 | M/s. Somnath Seeds Pvt Ltd, Gadag |
+| 6 | M/s. Varada Agro Agency, Hubli |
+| 7 | M/s. Varada Agro Service, Ballery |
+| 8 | M/s. Sannathi Plant Protection, Bangalore |
+| 9 | M/s. Shiva Hybrid Seeds, Kottur |
+| 10 | M/s. Skanda Agrotech, Bangalore |
+| 11 | M/s. Agrilife Sciences, Bengaluru |
+| 12 | M/s. Vijay Sai Trading Company |
+| 13 | M/s. Ganesh Agrotech, Bangalore |
+| 14 | M/s. K S Agrotech, Bangalore |
+| 15 | M/s. Sri Vijaya Manruthi Trading Co., Koppal |
+| 16 | M/s. Agro Seeds Corporation, Davangere |
+| 17 | M/s. Dscign Biosys Pvt Ltd, Bangalore |
+
+**1.2. ಹಸಿರೆಲೆ ಗೊಬ್ಬರ ಬೀಜ (ಸನ್‌ಹೆಂಪ್):**
+
+| ಕ್ರ. ಸಂ | ಸರಬರಾಜು ಮಾಡಿದ ಗುತ್ತಿಗೆದಾರರ ಸಂಸ್ಥೆಯ ಹೆಸರು |
+| :--- | :--- |
+| 1 | M/s. Agarwal Associates, Hubli |
+| 2 | M/s. Karnataka State Seeds Corporation, Bangalore |
+| 3 | M/s. Varada Agro Service, Ballery |
+| 4 | M/s. Dscign Biosys Pvt Ltd, Bangalore |
+| 5 | M/s. Varada Agro Agency, Hubli |
+| 6 | M/s. Agrilife Sciences, Bengaluru |
+| 7 | M/s. K S Agrotech, Bangalore |
+| 8 | M/s. Sannathi Plant Protection, Bangalore |
+
+---
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 4
+
+---
+### **English Translation**
+
+**Annexure-1**
+
+**Details of the contractors who supplied green manure seeds for free distribution for the year 2022-23 are as follows.**
+
+**1.0 Green Manure Seeds:**
+
+**1.1. Green Manure Seeds (Dhaincha):**
+
+| Sl. No. | Name of the supplying contractor's organization |
+| :--- | :--- |
+| 1 | M/s. National seeds Corporation Limited, Bangalore(L1) |
+| 2 | M/s. Agarwal Associates, Hubli |
+| 3 | M/s. Akash Enterprises, Davangere |
+| 4 | M/s. Karnataka State Seeds Corporation, Bangalore |
+| 5 | M/s. Somnath Seeds Pvt Ltd, Gadag |
+| 6 | M/s. Varada Agro Agency, Hubli |
+| 7 | M/s. Varada Agro Service, Ballery |
+| 8 | M/s. Sannathi Plant Protection, Bangalore |
+| 9 | M/s. Shiva Hybrid Seeds, Kottur |
+| 10 | M/s. Skanda Agrotech, Bangalore |
+| 11 | M/s. Agrilife Sciences, Bengaluru |
+| 12 | M/s. Vijay Sai Trading Company |
+| 13 | M/s. Ganesh Agrotech, Bangalore |
+| 14 | M/s. K S Agrotech, Bangalore |
+| 15 | M/s. Sri Vijaya Manruthi Trading Co., Koppal |
+| 16 | M/s. Agro Seeds Corporation, Davangere |
+| 17 | M/s. Dscign Biosys Pvt Ltd, Bangalore |
+
+**1.2. Green Manure Seeds (Sunnhemp):**
+
+| Sl. No. | Name of the supplying contractor's organization |
+| :--- | :--- |
+| 1 | M/s. Agarwal Associates, Hubli |
+| 2 | M/s. Karnataka State Seeds Corporation, Bangalore |
+| 3 | M/s. Varada Agro Service, Ballery |
+| 4 | M/s. Dscign Biosys Pvt Ltd, Bangalore |
+| 5 | M/s. Varada Agro Agency, Hubli |
+| 6 | M/s. Agrilife Sciences, Bengaluru |
+| 7 | M/s. K S Agrotech, Bangalore |
+| 8 | M/s. Sannathi Plant Protection, Bangalore |
+
+---
+E:\Tender 2022-23\Rate contract 2022-23.docx
+Page 4
+
+--- Page 5 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 6 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 7 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]

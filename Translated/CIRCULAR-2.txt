@@ -1,0 +1,798 @@
+
+--- Page 1 ---
+[Error: 503 IOCP/Socket: Connection timed out (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ -- 10060)]
+
+--- Page 2 ---
+Based on the provided image of the Kannada government document, here is the OCR extraction, correction, and English translation.
+
+### **Corrected Kannada Text (OCR)**
+
+ಎಲ್ಲಾ ರೈತರಿಗೆ QR Code ಕಡ್ಡಾಯವಾಗಿದ್ದು, ಬೀಜಗಳನ್ನು ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಗಳಲ್ಲಿ ದಾಸ್ತಾನು ಮಾಡುವ ಮುನ್ನ, ಬೀಜಗಳ ಪ್ಯಾಕೆಟ್‌ಗಳ ಮೇಲೆ QR Code ನಮೂದಿಸಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳುವುದು. ಬೀಜ ಮಾರಾಟ ಮಾಡುವಾಗ, Seed MIS ನಲ್ಲಿ QR Code ಮುಖಾಂತರ ದಾಖಲಾದ ನಂತರವೇ ಬೀಜ ವಿತರಣೆ ಕೈಗೊಳ್ಳುವುದು. ಯಾವುದೇ ಕಾರಣಕ್ಕೂ, QR Code ರಹಿತವಾದ ಬೀಜಗಳನ್ನು ವಿತರಿಸುವಂತಿಲ್ಲ.
+
+**ವಿಶೇಷ ಸೂಚನೆಗಳು:**
+
+1.  ಪ್ರತಿಬಾರಿ ಬೀಜಗಳನ್ನು ವಿತರಿಸುವಾಗ, ಪ್ರತಿಬಾರಿಗೆ ಬಿಲ್‌ಗಳಲ್ಲಿ ಒಂದೇ ಆವೃತ್ತಿಯನ್ನು ಬಳಸಿ ಬೀಜಗಳನ್ನು ವಿತರಿಸುವಂತಿಲ್ಲ. ಈ ವ್ಯವಸ್ಥೆಯು ಪ್ರತಿ ವಿತರಣೆ ನಂತರ ಉಳಿತಾಯ ಬೀಜಗಳ ವಿವರ ಲಭ್ಯವಾಗುವುದಿಲ್ಲ.
+2.  ಈ ಮಾಹಿತಿಯನ್ನು ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಗಳಲ್ಲಿ ಪರಿಶೀಲನೆ ಮಾಡಬೇಕು, ಈ ಬಗ್ಗೆ ಲಭ್ಯವಿರುವಂತೆ ಪ್ರತಿ ರೈತರಿಗೂ ಸಹ ಸ್ಪಷ್ಟಪಡಿಸುವುದು.
+3.  ಬೀಜಗಳಿಗೆ ಬಿಡುಗಡೆಯಾದ ಸಬ್ಸಿಡಿ ಹಣವನ್ನು ರೈತರ ಖಾತೆಗೆ ನೇರವಾಗಿ ವರ್ಗಾಯಿಸಲಾಗುವುದು. ಉಳಿದ ಪಾಲಿನ ಹಣವನ್ನು ಶೇ 50% ರಂತೆ, ರೈತರಿಗೆ ನೀಡುವುದು.
+4.  ಸದರಿ ಸುತ್ತೋಲೆಯು ಮುಂದಿನ ಆದೇಶದವರೆಗೆ/ಸೂಚನೆ ಹೊರಡಿಸುವವರೆಗೂ ಜಾರಿಯಲ್ಲಿರುತ್ತದೆ.
+5.  ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಗಳಲ್ಲಿ ಬೀಜ ದಾಸ್ತಾನು ಮಾಡುವಾಗ ಪ್ರತಿ ತಳಿವಾರಾಗಿ ಪ್ರತ್ಯೇಕವಾಗಿ ದಾಸ್ತಾನು ಮಾಡುವುದು. ಉದಾಹರಣೆಗೆ, ಶೇಂಗಾ/ಕಡಲೆಕಾಯಿ ದಾಸ್ತಾನು ಮಾಡುವಾಗ ಆರ್.ಎಫ್.ಎಲ್. ತಳಿಯನ್ನು ಒಂದು ಕಡೆ, ಕೆ.ಸಿ.ಜಿ. ತಳಿಯನ್ನು ಒಂದು ಕಡೆ, ಹೀಗೆ ಪ್ರತ್ಯೇಕವಾಗಿ ದಾಸ್ತಾನು ಮಾಡುವುದು.
+6.  ಸರ್ಕಾರ ಮಾರ್ಗಸೂಚಿಯನ್ವಯ ಬಿತ್ತನೆ ಬೀಜಗಳಿಗೆ ದರವನ್ನು ನಿಗದಿಪಡಿಸಿದ್ದು, ಒಂದು ಕುಟುಂಬಕ್ಕೆ ಗರಿಷ್ಠ 5 ಎಕರೆ (2 ಹೆಕ್ಟೇರ್) ವರೆಗೆ, ಯಾವುದಾದರೂ ಒಂದು ಬೆಳೆಗೆ ಮಾತ್ರ, ಪ್ರತಿ ರೈತನಿಗೆ ಗರಿಷ್ಠ 3 ಎಕರೆಗೆ ಸೀಮಿತಗೊಳಿಸಿ, ಬಿತ್ತನೆ ಬೀಜವನ್ನು ವಿತರಿಸುವುದು.
+
+### **English Translation**
+
+The QR Code is mandatory for all farmers. Before stocking seeds at Raitha Samparka Kendras (Farmer Contact Centers), it must be ensured that the QR Code is present on the seed packets. When selling seeds, the distribution must only be done after making an entry through the QR Code in the Seed MIS. Under no circumstances should seeds without a QR Code be distributed.
+
+**Special Instructions:**
+
+1.  Each time seeds are distributed, they must not be distributed using the same bill version for every transaction. With this system, the details of the remaining seeds will not be available after each distribution.
+2.  This information should be verified at the Raitha Samparka Kendras, and it must also be clarified to every farmer as it is made available.
+3.  The subsidy amount released for seeds will be directly transferred to the farmer's account. The remaining share of the money, at a rate of 50%, is to be given to the farmer.
+4.  This circular will remain in effect until further orders/notifications are issued.
+5.  When stocking seeds at Raitha Samparka Kendras, they must be stocked separately for each variety. For example, when stocking groundnuts/peanuts, the R.F.L. variety should be stocked in one place and the K.C.G. variety in another, thus stocking them separately.
+6.  As per government guidelines, the price for sowing seeds has been fixed. Seeds should be distributed by limiting it to a maximum of 5 acres (2 hectares) per family, for any one crop only, and with a maximum limit of 3 acres per farmer.
+
+--- Page 3 ---
+Of course. Here is the OCR extraction, correction, and English translation of the provided Kannada document page.
+
+### Corrected Kannada Text
+
+7. ಪ್ರಸ್ತುತ ಜಾರಿಯಲ್ಲಿರುವ ಬೀಜ ವಿತರಣೆಯ ಮೇಲೆ Seed MIS ನಲ್ಲಿ ಇರುವಂತೆಯೇ ಆಯ್ಕೆ(select) ಮಾಡಿ ವಿತರಿಸುವ ಅಂಶವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ. ಆಯಾ ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಗಳಿಗೆ ನಿಗದಿಯಾಗಿರುವ ಇಂಡೆಂಟ್‌ ಪ್ರಮಾಣಕ್ಕೆ ಮಾತ್ರವೇ ವಿತರಿಸುವುದರಿಂದ ನೇರವಾಗಿ ಬೀಜದ ಬಿಲ್‌ಗಳನ್ನೇ ಸಲ್ಲಿಸಲು ಸಾಧ್ಯವಾಗದ ಕಾರಣ ವಿತರಣೆ ಮಾಡಲಾಗುತ್ತಿದೆ.
+
+8. ಪ್ರಸ್ತುತ ಜಾರಿಯಲ್ಲಿರುವ ಬೀಜ ವಿತರಣಾ ತಂತ್ರಾಂಶವನ್ನು Seed MIS ನಲ್ಲಿ ದಾಖಲಿಸಿ ಬಳಿಕವಷ್ಟೆ ನಿಗದಿಯಾಗಿರುವ ಪ್ರಮಾಣವನ್ನು freeze ಮಾಡಲಾಗಿರುತ್ತದೆ. ಜಿಲ್ಲೆಯ ಬೀಜ ವಿತರಣಾ ತಂತ್ರಾಂಶದ ಪ್ರಮಾಣವನ್ನು ತೋರಿಸುತ್ತಿರುವುದು ಖಚಿತವಾಗಿಲ್ಲದಿರುವುದರಿಂದ, ಸೂಕ್ತ ಕಾರಣ/ವಿವರಣೆಗಳೊಂದಿಗೆ ಕೇಂದ್ರ ಕಛೇರಿಗೆ ಪ್ರಸ್ತಾವನೆ ಸಲ್ಲಿಸಿ, ಅನುಮತಿ ಪಡೆದು Seed MIS ನಲ್ಲಿ ಪರಿಷ್ಕೃತ ತಂತ್ರಾಂಶವನ್ನು ದಾಖಲಿಸಿದ ನಂತರವೇ ಬೀಜ ವಿತರಣೆಯನ್ನು ಮುಂದುವರಿಸುವುದು. ಒಂದು ವೇಳೆ ಅನುಮತಿ ಪಡೆಯದೆ offline ನಲ್ಲಿ ತಂತ್ರಾಂಶದ ಮೇಲೆ ಬೀಜ ವಿತರಿಸಿದಲ್ಲಿ, ಅಂತಹ ಪ್ರಮಾಣವನ್ನು ಪರಿಗಣಿಸಲಾಗುವುದಿಲ್ಲ.
+
+(ಸಹಿ)
+ಕೃಷಿ ನಿರ್ದೇಶಕರು
+
+---
+
+### English Translation
+
+7. In the current seed distribution process, the feature to 'select' and distribute as was present in Seed MIS has been removed. As distribution is limited to the indented quantity fixed for the respective Raitha Samparka Kendras and direct submission of seed bills is not possible, this distribution is being carried out.
+
+8. The prescribed quantity is frozen only after the details from the current seed distribution software are recorded in Seed MIS. As it is not confirmed that the district seed distribution software is showing the correct quantity, a proposal must be submitted to the head office with appropriate reasons/explanations to obtain permission, and seed distribution should be continued only after the revised software details are recorded in Seed MIS. In case seeds are distributed offline through the software without obtaining permission, such quantities will not be considered.
+
+(Signature)
+Director of Agriculture
+
+--- Page 4 ---
+Of course. Here is the OCR extraction, correction, and English translation of the provided Kannada government document.
+
+### **1. Corrected Kannada Text**
+
+The following Kannada text was extracted and corrected from the document:
+
+**ಶೀರ್ಷಿಕೆ (Title):**
+ಅನುಬಂಧ
+
+**ಬೆಳೆಗಳು (Crops):**
+*   ಊದಲು (Oodalu)
+*   ಅವರೆ (Avare)
+
+---
+
+### **2. English Translation**
+
+The primary Kannada word "ಅನುಬಂಧ" translates to "Annexure". The other Kannada words are names of crops, whose English equivalents are already provided in the document.
+
+Here is the full content of the document transcribed and translated into English for complete context.
+
+**Annexure-4**
+
+**Accepted Quantity and Rates of different Crops/Varieties offered in the RFP during Kharif 2025**
+(Quantity in quintals, Rate in Rs. per quintal)
+
+| Sl. No. | Supplier Name | Crops | Variety/ Hybrid | Kharif 2025 Certified | Kharif 2025 Truthfully Labelled |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| | | | | **Accepted Qty** | **Accepted Rate** | **Accepted Qty** | **Accepted Rate** |
+| 1 | Ganga Kaveri Seeds Pvt Ltd | Bajra | GK-1044 | | | 750 | 28350 |
+| | Ganga Kaveri Seeds Pvt Ltd | Bajra | GK-1200 | | | 250 | 25700 |
+| | Karnataka State Seeds corporation | Bajra | Dhanashakthi | 440 | 4600 | | |
+| | Kaveri Seed Company Ltd | Bajra | Boss 65 | | | 400 | 26450 |
+| | Kaveri Seed Company Ltd | Bajra | Kaveri Super Boss | | | 1000 | 35500 |
+| | Kaveri Seed Company Ltd | Bajra | KBH-6266 | | | 300 | 34500 |
+| | Nu genes Pvt Ltd | Bajra | Hanuman | | | 500 | 26200 |
+| | Nu genes Pvt Ltd | Bajra | Vikas(NBJ-09) | | | 500 | 27400 |
+| | Nuziveedu Seeds Limited | Bajra | NBH-4903 (Balwan) | | | 180 | 24100 |
+| | Proline Seeds Company India Pvt Ltd | Bajra | HP-50 | | | 200 | 16700 |
+| | Sri Sai Agro Service | Bajra | JKBH-676(MH-1299) | | | 250 | 24100 |
+| | Star Agrotech pvt ltd | Bajra | Chandra | | | 300 | 24800 |
+| | Varada Agro Agency | Bajra | MP-7872 | | | 360 | 31350 |
+| | Varada Agro Agency | Bajra | MP-7878 | | | 270 | 32000 |
+| | | **Crop Total** | | **440** | | **5260** | |
+| 2 | Karnataka State Seeds corporation | Barnyard Millet (Oodalu) | DHBM-93-3 | 80 | 6950 | | |
+| | National Seeds Corporation Ltd | Barnyard Millet (Oodalu) | DHBM-93-3 | 100 | 6950 | | |
+| | | **Crop Total** | | **180** | | **0** | |
+| 3 | National Seeds Corporation Ltd | Castor | ICH-5 | | | 10 | 53000 |
+| | | **Crop Total** | | | | **10** | |
+| 4 | Karnataka State Seeds corporation | Field Bean (Avare) | HA-5 | 0 | | 100 | 12900 |
+| | Karnataka State Seeds corporation | Field Bean (Avare) | HA-4 | | | 50 | 12900 |
+| | Karnataka State Seeds corporation | Field Bean (Avare) | HA-3 | | | 50 | 12900 |
+| | | **Crop Total** | | **0** | | **200** | |
+| 5 | National Seeds Corporation Ltd | Groundnut | DH-256 | 3355 | 11400 | | |
+| | National Seeds Corporation Ltd | Groundnut | G2-52 Pod | 210 | 11400 | | |
+| | National Seeds Corporation Ltd | Groundnut | Girinar-4 | 100 | 11400 | | |
+| | National Seeds Corporation Ltd | Groundnut | Girinar-5 | 100 | 11400 | | |
+| | Regional Oilseeds growers Coop Society, Hubli | Groundnut | GPDD-4 Pod | 1300 | 10000 | 1500 | 9200 |
+| | Karnataka Oil Seeds Growers Fedaration | Groundnut | K-6 Pod | 1800 | 10000 | 500 | 9200 |
+| | Karnataka State Seeds corporation | Groundnut | K-6 Pod | 200 | 10000 | 2500 | 9200 |
+| | National Seeds Corporation Ltd | Groundnut | K-6 Pod | 260 | 10000 | | |
+| | Regional Oilseeds growers Coop Society, Chitradurga | Groundnut | K-6 Pod | 10000 | 10000 | 10000 | 9200 |
+| | Sri Amareshwara Seeds | Groundnut | K-6 Pod | | | 1800 | 9200 |
+| | HIL India LTd | Groundnut | Kadiri Lepakshi (P) | 5000 | 11400 | | |
+| | National Seeds Corporation Ltd | Groundnut | Kadiri Lepakshi (P) | 9000 | 11400 | | |
+| | National Seeds Corporation Ltd | Groundnut | TCGS-1694 (Vasishta) | 1600 | 11400 | | |
+
+--- Page 5 ---
+Of course. As an OCR and translation expert, I have processed the provided image of the government document.
+
+Please note that the source document is written in English, not in the Kannada script. Therefore, the task of "translation to English" involves providing the corrected English text itself.
+
+Here is the extracted and corrected information from the document, presented in both requested sections.
+
+***
+
+### **1. Corrected Text (from original English document)**
+
+| Sl. No. | Supplier Name | Crops | Variety/ Hybrid | Kharif 2025 Certified - Accepted Qty | Kharif 2025 Certified - Accepted Rate | Kharif 2025 Truthfully Labelled - Accepted Qty | Kharif 2025 Truthfully Labelled - Accepted Rate |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | HIL India LTd | Groundnut | TMV-2 (TL) pod | | | 5000 | 8500 |
+| | Karnataka Oil Seeds Growers Federation | Groundnut | TMV-2 (TL) pod | | | 800 | 8500 |
+| | Karnataka State Seeds corporation | Groundnut | TMV-2 (TL) pod | | | 6000 | 8500 |
+| | Regional Oilseeds growers Coop Society, Chitradurga | Groundnut | TMV-2 (TL) pod | | | 2500 | 8500 |
+| | Regional Oilseeds growers Coop Society, Hubli | Groundnut | TMV-2 (TL) pod | | | 500 | 8500 |
+| | Sangam Agrotech Enterprises | Groundnut | TMV-2 (TL) pod | | | 5100 | 8500 |
+| | Shiva Hybrid Seeds | Groundnut | TMV-2 (TL) pod | | | 9100 | 8500 |
+| | Sri Amareshwara Seeds | Groundnut | TMV-2 (TL) pod | | | 10800 | 8500 |
+| | Sri Revanasiddeshwara Seeds | Groundnut | TMV-2 (TL) pod | | | 4152 | 8500 |
+| | Sri Revanasiddeshwara Krishi Kendra | Groundnut | TMV-2 (TL) pod | | | 10000 | 8500 |
+| | Sri Sai Agro Seeds | Groundnut | TMV-2 (TL) pod | | | 6500 | 8500 |
+| | Sri Srinidhi Enterprises | Groundnut | TMV-2 (TL) pod | | | 1500 | 8500 |
+| | | **Crop Total** | | **32925** | | **78252** | |
+| 6 | Advanta Enterprises Ltd | Hy. Paddy | PAC-837 | | | 500 | 30000 |
+| | Varada Agencies | Hy. Paddy | MRP-5408 (MEPH-114) | | | 100 | 26200 |
+| | | **Crop Total** | | **0** | | **600** | |
+| 7 | Shanti Trading Company | Jowar | CSH-14 | | | 500 | 13750 |
+| | Varada Seeds Farm | Jowar | CSH-14 | 100 | 14300 | 100 | 13750 |
+| | Shanti Trading Company | Jowar | CSH-16 | 30 | 14300 | | |
+| | Varada Seeds Farm | Jowar | CSH-16 | 50 | 14300 | 100 | 13750 |
+| | Sri Sai Agro Service | Jowar | JKSH-22 | | | 250 | 19800 |
+| | Nu genes Pvt Ltd | Jowar | NSH-18 | | | 250 | 19800 |
+| | Advanta Enterprises Ltd | Jowar | PAC-501 | | | 100 | 21000 |
+| | | **Crop Total** | | **180** | | **1300** | |
+| 8 | National Seeds Corporation Ltd | Little Millet | DHLM-36-3 | 40 | 6950 | | |
+| | | **Crop Total** | | **40** | | **0** | |
+| 9 | Advanta Enterprises Ltd | Maize | PAC740 | | | 800 | 19800 |
+| | Advanta Enterprises Ltd | Maize | ADV 762 (ADV 7022) | | | 200 | 31500 |
+| | Advanta Enterprises Ltd | Maize | ADV 768 | | | 1000 | 34100 |
+| | Agro Distributors | Maize | 3591 | | | 3000 | 18500 |
+| | Arunodaya Seeds Pvt Ltd | Maize | APSA-91 | | | 2200 | 14400 |
+| | Asha Agrisciences Pvt Ltd (Former Yaganti Seeds Pvt Ltd) | Maize | Byrava Super | | | 1500 | 21000 |
+| | Asha Agrisciences Pvt Ltd (Former Yaganti Seeds Pvt Ltd) | Maize | Laxmi Sona (YMH-3333) | | | 500 | 29200 |
+| | Asha Agrisciences Pvt Ltd (Former Yaganti Seeds Pvt Ltd) | Maize | Laxmi-4959 | | | 2000 | 16000 |
+| | Asha Agrisciences Pvt Ltd (Former Yaganti Seeds Pvt Ltd) | Maize | Laxmi sikka(3960) | | | 500 | 31200 |
+| | Asha Agrisciences Pvt Ltd (Former Yaganti Seeds Pvt Ltd) | Maize | Laxmi Sapna | | | 500 | 28500 |
+| | Asha Agrisciences Pvt Ltd (Former Yaganti Seeds Pvt Ltd) | Maize | Laxmi-3636 | | | 1000 | 25000 |
+
+### **2. English Translation**
+
+| Sl. No. | Supplier Name | Crops | Variety/ Hybrid | Kharif 2025 Certified - Accepted Qty | Kharif 2025 Certified - Accepted Rate | Kharif 2025 Truthfully Labelled - Accepted Qty | Kharif 2025 Truthfully Labelled - Accepted Rate |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | HIL India LTd | Groundnut | TMV-2 (TL) pod | | | 5000 | 8500 |
+| | Karnataka Oil Seeds Growers Federation | Groundnut | TMV-2 (TL) pod | | | 800 | 8500 |
+| | Karnataka State Seeds corporation | Groundnut | TMV-2 (TL) pod | | | 6000 | 8500 |
+| | Regional Oilseeds growers Coop Society, Chitradurga | Groundnut | TMV-2 (TL) pod | | | 2500 | 8500 |
+| | Regional Oilseeds growers Coop Society, Hubli | Groundnut | TMV-2 (TL) pod | | | 500 | 8500 |
+| | Sangam Agrotech Enterprises | Groundnut | TMV-2 (TL) pod | | | 5100 | 8500 |
+| | Shiva Hybrid Seeds | Groundnut | TMV-2 (TL) pod | | | 9100 | 8500 |
+| | Sri Amareshwara Seeds | Groundnut | TMV-2 (TL) pod | | | 10800 | 8500 |
+| | Sri Revanasiddeshwara Seeds | Groundnut | TMV-2 (TL) pod | | | 4152 | 8500 |
+| | Sri Revanasiddeshwara Krishi Kendra | Groundnut | TMV-2 (TL) pod | | | 10000 | 8500 |
+| | Sri Sai Agro Seeds | Groundnut | TMV-2 (TL) pod | | | 6500 | 8500 |
+| | Sri Srinidhi Enterprises | Groundnut | TMV-2 (TL) pod | | | 1500 | 8500 |
+| | | **Crop Total** | | **32925** | | **78252** | |
+| 6 | Advanta Enterprises Ltd | Hy. Paddy | PAC-837 | | | 500 | 30000 |
+| | Varada Agencies | Hy. Paddy | MRP-5408 (MEPH-114) | | | 100 | 26200 |
+| | | **Crop Total** | | **0** | | **600** | |
+| 7 | Shanti Trading Company | Jowar | CSH-14 | | | 500 | 13750 |
+| | Varada Seeds Farm | Jowar | CSH-14 | 100 | 14300 | 100 | 13750 |
+| | Shanti Trading Company | Jowar | CSH-16 | 30 | 14300 | | |
+| | Varada Seeds Farm | Jowar | CSH-16 | 50 | 14300 | 100 | 13750 |
+| | Sri Sai Agro Service | Jowar | JKSH-22 | | | 250 | 19800 |
+| | Nu genes Pvt Ltd | Jowar | NSH-18 | | | 250 | 19800 |
+| | Advanta Enterprises Ltd | Jowar | PAC-501 | | | 100 | 21000 |
+| | | **Crop Total** | | **180** | | **1300** | |
+| 8 | National Seeds Corporation Ltd | Little Millet | DHLM-36-3 | 40 | 6950 | | |
+| | | **Crop Total** | | **40** | | **0** | |
+| 9 | Advanta Enterprises Ltd | Maize | PAC740 | | | 800 | 19800 |
+| | Advanta Enterprises Ltd | Maize | ADV 762 (ADV 7022) | | | 200 | 31500 |
+| | Advanta Enterprises Ltd | Maize | ADV 768 | | | 1000 | 34100 |
+| | Agro Distributors | Maize | 3591 | | | 3000 | 18500 |
+| | Arunodaya Seeds Pvt Ltd | Maize | APSA-91 | | | 2200 | 14400 |
+| | Asha Agrisciences Pvt Ltd (Former Yaganti Seeds Pvt Ltd) | Maize | Byrava Super | | | 1500 | 21000 |
+| | Asha Agrisciences Pvt Ltd (Former Yaganti Seeds Pvt Ltd) | Maize | Laxmi Sona (YMH-3333) | | | 500 | 29200 |
+| | Asha Agrisciences Pvt Ltd (Former Yaganti Seeds Pvt Ltd) | Maize | Laxmi-4959 | | | 2000 | 16000 |
+| | Asha Agrisciences Pvt Ltd (Former Yaganti Seeds Pvt Ltd) | Maize | Laxmi sikka(3960) | | | 500 | 31200 |
+| | Asha Agrisciences Pvt Ltd (Former Yaganti Seeds Pvt Ltd) | Maize | Laxmi Sapna | | | 500 | 28500 |
+| | Asha Agrisciences Pvt Ltd (Former Yaganti Seeds Pvt Ltd) | Maize | Laxmi-3636 | | | 1000 | 25000 |
+
+--- Page 6 ---
+Based on the image provided, here is the OCR transcription and translation.
+
+**Note:** The provided document is in English, not Kannada. Therefore, the following output contains the corrected English text extracted via OCR. As the source text is already in English, a separate translation is not required. The data from the empty "Kharif 2025 Certified" columns has been omitted for clarity.
+
+### Corrected English Text (OCR)
+Page: 6
+
+| Sl. No. | Supplier Name | Crops | Variety/ Hybrid | Accepted Qty (Truthfully Labelled) | Accepted Rate (Truthfully Labelled) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| | Basaganni Seeds Farm | Maize | HTMH-5404 | 750 | 19100 |
+| | Basaganni Seeds Farm | Maize | HTMH-5203 | 1000 | 32100 |
+| | Basaganni Seeds Farm | Maize | HTMH-5402 | 2000 | 21500 |
+| | Charoen Pokphand Seeds India Pvt Ltd | Maize | CP-848 | 1200 | 19200 |
+| | Charoen Pokphand Seeds India Pvt Ltd | Maize | CP-555 | 300 | 22200 |
+| | Ganga Kaveri Seeds Pvt Ltd | Maize | GK-3045 | 5500 | 16000 |
+| | Ganga Kaveri Seeds Pvt Ltd | Maize | GK-3018 | 2500 | 22200 |
+| | Ganga Kaveri Seeds Pvt Ltd | Maize | GK-3015 | 2000 | 20600 |
+| | Ganga Kaveri Seeds Pvt Ltd | Maize | GK-3218 | 5000 | 35700 |
+| | Ganga Kaveri Seeds Pvt Ltd | Maize | GK-3264 | 1500 | 30000 |
+| | Ganga Kaveri Seeds Pvt Ltd | Maize | GK-3266 | 3000 | 30000 |
+| | Kaveri Seed Company Ltd | Maize | KMH 225 | 2000 | 21500 |
+| | Kaveri Seed Company Ltd | Maize | KMH-517 Shimsha | 5000 | 16900 |
+| | Kaveri Seed Company Ltd | Maize | KMH Super 244 | 1500 | 28000 |
+| | Kaveri Seed Company Ltd | Maize | KMH-PROFIT | 1000 | 31600 |
+| | Kaveri Seed Company Ltd | Maize | Drona(KMH-2589) | 1000 | 35200 |
+| | Kaveri Seed Company Ltd | Maize | KMH-244 | 2500 | 23900 |
+| | Mahati Seed Science Pvt Ltd | Maize | SM-505 | 3500 | 16000 |
+| | Namadhari Seeds Pvt Ltd | Maize | NS-8011 | 5000 | 29000 |
+| | Nu genes Pvt Ltd | Maize | NLM-66 | 3000 | 14500 |
+| | Nuziveedu Seeds Limited | Maize | NMH-777 (Sunny) | 1000 | 30500 |
+| | Nuziveedu Seeds Limited | Maize | NMH-4144(Kranthi) | 2000 | 30300 |
+| | Prabhath Agri Biotech Ltd | Maize | PMH-2233(Rambo) | 1200 | 16100 |
+| | Prabhath Agri Biotech Ltd | Maize | PMH-2223 (Ryder-M) | 2000 | 28000 |
+| | Prabhath Agri Biotech Ltd | Maize | PMH-2255(Ryder) | 2000 | 28000 |
+| | Priya Agencies | Maize | NK-6240 | 1700 | 33000 |
+| | Priya Agencies | Maize | S-6305 | 1200 | 26000 |
+| | Proline Seeds Company India Pvt Ltd | Maize | PSC-207 | 1200 | 12000 |
+| | Proline Seeds Company India Pvt Ltd | Maize | PSC-105 | 1500 | 13100 |
+| | Sahaja Crop Science Pvt Ltd | Maize | Chatrapathi | 1000 | 16000 |
+| | Siri seeds India Pvt Ltd | Maize | Siri Raider | 1250 | 24000 |
+| | Siri seeds India Pvt Ltd | Maize | Siri-4366 | 1250 | 23000 |
+| | Sri Sai Agro Service | Maize | JKMH-4848 | 1500 | 24400 |
+| | Sriram Bio Seed Genetics (DCM Shriram Ltd) | Maize | Bio-151 | 2500 | 19000 |
+| | Sriram Bio Seed Genetics (DCM Shriram Ltd) | Maize | Bio-716 (Rajkumar) | 2500 | 29900 |
+| | Star Agrotech pvt ltd | Maize | Star-9 | 500 | 18800 |
+| | Star Agrotech pvt ltd | Maize | TARA | 2000 | 13800 |
+| | Varada Agro Agency | Maize | Bhavani (KMSH-1974) | 720 | 25300 |
+| | Varada Agro Agency | Maize | Shivani (KMSH-1980) | 1800 | 16400 |
+| | Varada Agro Agency | Maize | DM-9279 | 99 | 32200 |
+
+--- Page 7 ---
+Excellent! This document is a list of seed procurements for the Kharif 2025 season, detailing suppliers, crop varieties, and accepted quantities and rates for different seed categories.
+
+Here is the requested OCR extraction, correction, and English translation.
+
+### 1. Corrected Text from Image (Latin Script)
+
+This is a direct transcription of the text from the document table, with OCR errors corrected. The document is written in English (Latin script).
+
+| Sl. No. | Supplier Name | Crops | Variety/ Hybrid | Kharif 2025 Certified | | Kharif 2025 Truthfully Labelled | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | | | | **Accepted Qty** | **Accepted Rate** | **Accepted Qty** | **Accepted Rate** |
+| | Varada Agro Service | Maize | 30B07 | | | 2250 | 38500 |
+| | Varada Agro Service | Maize | P3305 | | | 540 | 38500 |
+| | Varsha Agro Corporation | Maize | 900M Gold | | | 1500 | 27500 |
+| | Varsha Agro Corporation | Maize | DKC-9149 (IM8581) | | | 1000 | 21500 |
+| | Varsha Agro Corporation | Maize | Allrounder | | | 1000 | 19500 |
+| | Varsha Agro Corporation | Maize | DKC-9198 | | | 1500 | 31500 |
+| | Varsha Agro Corporation | Maize | DKC-9126 (LJ-8512) | | | 2000 | 32000 |
+| | **Crop Total** | | | **0** | | **101159** | |
+| 10 | Karnataka State Seeds corporation | Navane | DHFT-109-03 | 810 | 6950 | | |
+| | Shanti Trading Company | Navane | DHFT-109-03 | | | 100 | 6850 |
+| | Karnataka State Seeds corporation | Navane | HN-46 | 255 | 6950 | | |
+| | National Seeds Corporation Ltd | Navane | HN-46 | 50 | 6950 | | |
+| | **Crop Total** | | | **1115** | | **100** | |
+| 11 | Karnataka State Seeds corporation | Paddy | Abhilash | 5000 | 4900 | | |
+| | National Seeds Corporation Ltd | Paddy | Athira | | | 820 | 4800 |
+| | Karnataka State Seeds corporation | Paddy | BPT-5204 | 3230 | 4500 | | |
+| | Karnataka State Seeds corporation | Paddy | BR-2655 | 750 | 4600 | | |
+| | Karnataka State Seeds corporation | Paddy | Gangavathi Sona | 100 | 4000 | | |
+| | National Seeds Corporation Ltd | Paddy | IET-13901 (Tunga) | 1500 | 4400 | | |
+| | National Seeds Corporation Ltd | Paddy | IET-13901 (Tunga) | 875 | 4400 | | |
+| | Karnataka State Seeds corporation | Paddy | Intan | 1300 | 4900 | | |
+| | National Seeds Corporation Ltd | Paddy | IR-64 | 3190 | 4300 | | |
+| | Karnataka State Seeds corporation | Paddy | IR-64 | 1250 | 4300 | | |
+| | Karnataka State Seeds corporation | Paddy | Jaya | 4205 | 4300 | | |
+| | National Seeds Corporation Ltd | Paddy | Jyothi | 16300 | 4900 | | |
+| | Karnataka State Seeds corporation | Paddy | Jyothi | 3500 | 4900 | | |
+| | Karnataka State Seeds corporation | Paddy | KHP-10 | 30 | 4400 | | |
+| | Karnataka State Seeds corporation | Paddy | KHP-11 | 300 | 4400 | | |
+| | Karnataka State Seeds corporation | Paddy | KHP-13 | 190 | 4400 | | |
+| | Karnataka State Seeds corporation | Paddy | KMP-220 | 50 | 4000 | | |
+| | Karnataka State Seeds corporation | Paddy | MO-23 | 200 | 4900 | | |
+| | Karnataka State Seeds corporation | Paddy | MO-4 | 5750 | 4900 | | |
+| | Karnataka State Seeds corporation | Paddy | MSN-99 | 8 | 4000 | | |
+| | National Seeds Corporation Ltd | Paddy | MTU-1001 | 7000 | 4300 | | |
+| | Karnataka State Seeds corporation | Paddy | MTU-1001 | 1000 | 4300 | | |
+| | National Seeds Corporation Ltd | Paddy | MTU-1010 | 2130 | 4300 | | |
+| | Karnataka State Seeds corporation | Paddy | MTU-1010 | 1000 | 4300 | | |
+| | National Seeds Corporation Ltd | Paddy | RNR-15048 | 12150 | 5000 | | |
+| | National Seeds Corporation Ltd | Paddy | RNR-15048 | 2600 | 5000 | | |
+| | Karnataka State Seeds corporation | Paddy | Sahyadri Bramha | 100 | 4900 | | |
+| | Karnataka State Seeds corporation | Paddy | Sahyadri Kempu Mukthi | 2330 | 4900 | | |
+| | Karnataka State Seeds corporation | Paddy | Sahyadri Panchamukhi | 100 | 4700 | | |
+| | Karnataka State Seeds corporation | Paddy | Tellahamsa | 750 | 4300 | | |
+
+---
+
+### 2. English Translation and Clarification
+
+This is the English translation of the document, presented in a clear format with explanations for local terms. The accepted quantities are likely in quintals (100 kg), and the rates are likely per quintal, though units are not specified.
+
+| Serial No. | Supplier Name | Crop | Variety/Hybrid | Kharif 2025 Certified Seeds | | Kharif 2025 Truthfully Labelled Seeds | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | | | | **Accepted Qty** | **Accepted Rate** | **Accepted Qty** | **Accepted Rate** |
+| | Varada Agro Service | Maize (Corn) | 30B07 | | | 2250 | 38500 |
+| | Varada Agro Service | Maize (Corn) | P3305 | | | 540 | 38500 |
+| | Varsha Agro Corporation | Maize (Corn) | 900M Gold | | | 1500 | 27500 |
+| | Varsha Agro Corporation | Maize (Corn) | DKC-9149 (IM8581) | | | 1000 | 21500 |
+| | Varsha Agro Corporation | Maize (Corn) | Allrounder | | | 1000 | 19500 |
+| | Varsha Agro Corporation | Maize (Corn) | DKC-9198 | | | 1500 | 31500 |
+| | Varsha Agro Corporation | Maize (Corn) | DKC-9126 (LJ-8512) | | | 2000 | 32000 |
+| | **Crop Total** | | | **0** | | **101159** | |
+| 10 | Karnataka State Seeds Corporation | Foxtail Millet (Navane) | DHFT-109-03 | 810 | 6950 | | |
+| | Shanti Trading Company | Foxtail Millet (Navane) | DHFT-109-03 | | | 100 | 6850 |
+| | Karnataka State Seeds Corporation | Foxtail Millet (Navane) | HN-46 | 255 | 6950 | | |
+| | National Seeds Corporation Ltd | Foxtail Millet (Navane) | HN-46 | 50 | 6950 | | |
+| | **Crop Total** | | | **1115** | | **100** | |
+| 11 | Karnataka State Seeds Corporation | Paddy (Rice) | Abhilash | 5000 | 4900 | | |
+| | National Seeds Corporation Ltd | Paddy (Rice) | Athira | | | 820 | 4800 |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | BPT-5204 | 3230 | 4500 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | BR-2655 | 750 | 4600 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | Gangavathi Sona | 100 | 4000 | | |
+| | National Seeds Corporation Ltd | Paddy (Rice) | IET-13901 (Tunga) | 1500 | 4400 | | |
+| | National Seeds Corporation Ltd | Paddy (Rice) | IET-13901 (Tunga) | 875 | 4400 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | Intan | 1300 | 4900 | | |
+| | National Seeds Corporation Ltd | Paddy (Rice) | IR-64 | 3190 | 4300 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | IR-64 | 1250 | 4300 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | Jaya | 4205 | 4300 | | |
+| | National Seeds Corporation Ltd | Paddy (Rice) | Jyothi | 16300 | 4900 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | Jyothi | 3500 | 4900 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | KHP-10 | 30 | 4400 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | KHP-11 | 300 | 4400 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | KHP-13 | 190 | 4400 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | KMP-220 | 50 | 4000 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | MO-23 | 200 | 4900 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | MO-4 | 5750 | 4900 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | MSN-99 | 8 | 4000 | | |
+| | National Seeds Corporation Ltd | Paddy (Rice) | MTU-1001 | 7000 | 4300 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | MTU-1001 | 1000 | 4300 | | |
+| | National Seeds Corporation Ltd | Paddy (Rice) | MTU-1010 | 2130 | 4300 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | MTU-1010 | 1000 | 4300 | | |
+| | National Seeds Corporation Ltd | Paddy (Rice) | RNR-15048 | 12150 | 5000 | | |
+| | National Seeds Corporation Ltd | Paddy (Rice) | RNR-15048 | 2600 | 5000 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | Sahyadri Bramha | 100 | 4900 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | Sahyadri Kempu Mukthi | 2330 | 4900 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | Sahyadri Panchamukhi | 100 | 4700 | | |
+| | Karnataka State Seeds Corporation | Paddy (Rice) | Tellahamsa | 750 | 4300 | | |
+
+--- Page 8 ---
+Excellent. This is a government document detailing seed procurement. Although the request mentions Kannada, the document is entirely in English.
+
+Here is the accurate OCR extraction and the corresponding English text as requested.
+
+### 1. Corrected English Text (OCR)
+
+The text has been extracted and formatted into a table for clarity. The page number `8` is circled at the top right of the document.
+
+| Sl. No. | Supplier Name | Crops | Variety/Hybrid | Kharif 2025 Certified - Accepted Qty | Kharif 2025 Certified - Accepted Rate | Kharif 2025 Truthfully Labelled - Accepted Qty | Kharif 2025 Truthfully Labelled - Accepted Rate |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | Karnataka State Seeds corporation | Paddy | Thanu | 100 | 4200 | | |
+| | National Seeds Corporation Ltd | Paddy | Thanu | 102 | 4200 | | |
+| | Karnataka State Seeds corporation | Paddy | Uma | 2000 | 4500 | | |
+| | **Crop Total** | | | **79090** | | **820** | |
+| 12 | Agro Seeds Corporation | Ragi | GPU-28 | | | 30 | 6500 |
+| | Panchami Seeds Corporation | Ragi | GPU-28 | 1550 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | GPU-28 | 20 | 6500 | | |
+| | National Seeds Corporation Ltd | Ragi | GPU-66 | 390 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | GPU-66 | 320 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | Indaf-7 | 187.5 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | Indaf-9 | 190 | 6500 | | |
+| | National Seeds Corporation Ltd | Ragi | KMR-301 | 1585 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | KMR-301 | 100 | 6500 | | |
+| | National Seeds Corporation Ltd | Ragi | KMR-316 | 400 | 6500 | | |
+| | Agro Seeds Corporation | Ragi | KMR-316 | 37.5 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | KMR-630 | 7.5 | 6500 | | |
+| | National Seeds Corporation Ltd | Ragi | KMR-630 | 520 | 6500 | | |
+| | Agro Seeds Corporation | Ragi | KMR-630 | 200 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | ML-365 | 40 | 6500 | | |
+| | National Seeds Corporation Ltd | Ragi | ML-365 | 11480 | 6500 | | |
+| | Panchami Seeds Corporation | Ragi | ML-365 | 950 | 6500 | | |
+| | Agro Seeds Corporation | Ragi | ML-365 | 40 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | MR-1 | 12.5 | 6500 | | |
+| | Panchami Seeds Corporation | Ragi | MR-1 | 2800 | 6500 | | |
+| | Agro Seeds Corporation | Ragi | MR-1 | 12.5 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | MR-6 | 12.5 | 6500 | | |
+| | National Seeds Corporation Ltd | Ragi | MR-6 | 8350 | 6500 | | |
+| | Panchami Seeds Corporation | Ragi | MR-6 | 360 | 6500 | | |
+| | Agro Seeds Corporation | Ragi | MR-6 | 12.5 | 6500 | | |
+| | Panchami Seeds Corporation | Ragi | PR-202 | 500 | 6500 | | |
+| | National Seeds Corporation Ltd | Ragi | PR-202 | 200 | 6500 | | |
+| | National Seeds Corporation Ltd | Ragi | VL-352 | 500 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | VL-376 | 500 | 6500 | | |
+| | **Crop Total** | | | **31287.5** | | **0** | |
+| 13 | Karnataka State Seeds corporation | Redgram | BRG-1 | 60 | 14700 | | |
+| | Karnataka State Seeds corporation | Redgram | BRG-2 | 20 | 14700 | | |
+| | Karnataka State Seeds corporation | Redgram | BRG-3 | 230 | 14500 | | |
+| | National Seeds Corporation Ltd | Redgram | BRG-3 | 90 | 14500 | | |
+| | Karnataka State Seeds corporation | Redgram | BRG-4 | 50 | 14700 | | |
+| | Karnataka State Seeds corporation | Redgram | BRG-5 | 1250 | 14500 | | |
+| | National Seeds Corporation Ltd | Redgram | BRG-5 | 130 | 14500 | | |
+| | Karnataka State Seeds corporation | Redgram | BSMR-736 | 150 | 15000 | | |
+| | Arunodhaya Enterprises | Redgram | GRG-152 | 23 | 14500 | | |
+| | Karnataka State Seeds corporation | Redgram | GRG-152 | 6300 | 14500 | | |
+| | National Seeds Corporation Ltd | Redgram | GRG-152 | 5500 | 14500 | | |
+| | Shanti Trading Company | Redgram | GRG-152 | 23 | 14500 | | |
+| | Sri Amareshwara Seeds | Redgram | GRG-152 | 45 | 14500 | | |
+
+---
+
+### 2. English Translation
+
+The provided document is already written in English. Therefore, a translation from Kannada is not applicable. The table below presents the fluent English text as found in the document.
+
+| Sl. No. | Supplier Name | Crops | Variety/Hybrid | Kharif 2025 Certified - Accepted Qty | Kharif 2025 Certified - Accepted Rate | Kharif 2025 Truthfully Labelled - Accepted Qty | Kharif 2025 Truthfully Labelled - Accepted Rate |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | Karnataka State Seeds corporation | Paddy | Thanu | 100 | 4200 | | |
+| | National Seeds Corporation Ltd | Paddy | Thanu | 102 | 4200 | | |
+| | Karnataka State Seeds corporation | Paddy | Uma | 2000 | 4500 | | |
+| | **Crop Total** | | | **79090** | | **820** | |
+| 12 | Agro Seeds Corporation | Ragi | GPU-28 | | | 30 | 6500 |
+| | Panchami Seeds Corporation | Ragi | GPU-28 | 1550 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | GPU-28 | 20 | 6500 | | |
+| | National Seeds Corporation Ltd | Ragi | GPU-66 | 390 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | GPU-66 | 320 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | Indaf-7 | 187.5 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | Indaf-9 | 190 | 6500 | | |
+| | National Seeds Corporation Ltd | Ragi | KMR-301 | 1585 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | KMR-301 | 100 | 6500 | | |
+| | National Seeds Corporation Ltd | Ragi | KMR-316 | 400 | 6500 | | |
+| | Agro Seeds Corporation | Ragi | KMR-316 | 37.5 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | KMR-630 | 7.5 | 6500 | | |
+| | National Seeds Corporation Ltd | Ragi | KMR-630 | 520 | 6500 | | |
+| | Agro Seeds Corporation | Ragi | KMR-630 | 200 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | ML-365 | 40 | 6500 | | |
+| | National Seeds Corporation Ltd | Ragi | ML-365 | 11480 | 6500 | | |
+| | Panchami Seeds Corporation | Ragi | ML-365 | 950 | 6500 | | |
+| | Agro Seeds Corporation | Ragi | ML-365 | 40 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | MR-1 | 12.5 | 6500 | | |
+| | Panchami Seeds Corporation | Ragi | MR-1 | 2800 | 6500 | | |
+| | Agro Seeds Corporation | Ragi | MR-1 | 12.5 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | MR-6 | 12.5 | 6500 | | |
+| | National Seeds Corporation Ltd | Ragi | MR-6 | 8350 | 6500 | | |
+| | Panchami Seeds Corporation | Ragi | MR-6 | 360 | 6500 | | |
+| | Agro Seeds Corporation | Ragi | MR-6 | 12.5 | 6500 | | |
+| | Panchami Seeds Corporation | Ragi | PR-202 | 500 | 6500 | | |
+| | National Seeds Corporation Ltd | Ragi | PR-202 | 200 | 6500 | | |
+| | National Seeds Corporation Ltd | Ragi | VL-352 | 500 | 6500 | | |
+| | Karnataka State Seeds corporation | Ragi | VL-376 | 500 | 6500 | | |
+| | **Crop Total** | | | **31287.5** | | **0** | |
+| 13 | Karnataka State Seeds corporation | Redgram | BRG-1 | 60 | 14700 | | |
+| | Karnataka State Seeds corporation | Redgram | BRG-2 | 20 | 14700 | | |
+| | Karnataka State Seeds corporation | Redgram | BRG-3 | 230 | 14500 | | |
+| | National Seeds Corporation Ltd | Redgram | BRG-3 | 90 | 14500 | | |
+| | Karnataka State Seeds corporation | Redgram | BRG-4 | 50 | 14700 | | |
+| | Karnataka State Seeds corporation | Redgram | BRG-5 | 1250 | 14500 | | |
+| | National Seeds Corporation Ltd | Redgram | BRG-5 | 130 | 14500 | | |
+| | Karnataka State Seeds corporation | Redgram | BSMR-736 | 150 | 15000 | | |
+| | Arunodhaya Enterprises | Redgram | GRG-152 | 23 | 14500 | | |
+| | Karnataka State Seeds corporation | Redgram | GRG-152 | 6300 | 14500 | | |
+| | National Seeds Corporation Ltd | Redgram | GRG-152 | 5500 | 14500 | | |
+| | Shanti Trading Company | Redgram | GRG-152 | 23 | 14500 | | |
+| | Sri Amareshwara Seeds | Redgram | GRG-152 | 45 | 14500 | | |
+
+--- Page 9 ---
+Of course. As an OCR and translation expert, I have analyzed the document image provided.
+
+It's important to note that while this appears to be a page from a Kannada government document (indicated by the handwritten Kannada numeral '೪' for '4' at the top), the main content of the table and the notes are written in English.
+
+I will proceed with the tasks as requested, transcribing the English text accurately and providing it as both the "corrected text" and the "English translation" since the source language is already English.
+
+***
+
+### 1. Corrected Text (Transcribed from Image)
+
+**Handwritten numeral:**
+೪
+
+| Sl. No. | Supplier Name | Crops | Variety/ Hybrid | Kharif 2025 Certified | | Kharif 2025 Truthfully Labelled | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | | | | **Accepted Qty** | **Accepted Rate** | **Accepted Qty** | **Accepted Rate** |
+| | Sri Sai Agro Seeds | Redgram | GRG-152 | 16 | 14500 | | |
+| | Varada Seeds Farm | Redgram | GRG-152 | 18 | 14500 | | |
+| | Varun Hybrid Seeds | Redgram | GRG-152 | 72 | 14500 | | |
+| | Karnataka State Seeds corporation | Redgram | GRG-811 | 11120 | 14500 | | |
+| | National Seeds Corporation Ltd | Redgram | GRG-811 | 500 | 14500 | | |
+| | Shanti Trading Company | Redgram | GRG-811 | 29 | 14500 | | |
+| | Sri Amareshwara Seeds | Redgram | GRG-811 | 22 | 14500 | | |
+| | Sri Madiwaleshwara Seeds | Redgram | GRG-811 | 16 | 14500 | | |
+| | Sri Raghavendra Agro Service | Redgram | GRG-811 | 30 | 14500 | | |
+| | Sri Sai Agro Agencies | Redgram | GRG-811 | 19 | 14500 | | |
+| | Sri Sai Agro Seeds | Redgram | GRG-811 | 40 | 14500 | | |
+| | Varada Seeds Farm | Redgram | GRG-811 | 20 | 14500 | | |
+| | Varun Hybrid Seeds | Redgram | GRG-811 | 54 | 14500 | | |
+| | National Seeds Corporation Ltd | Redgram | LRG-133-33 | 555 | 14500 | | |
+| | Agro Seeds Corporation | Redgram | TS-3R | 15 | 13500 | | |
+| | Karnataka State Seeds corporation | Redgram | TS-3R | 10175 | 13500 | | |
+| | Laxmi Agro Seeds and Services | Redgram | TS-3R | 36 | 13500 | | |
+| | National Seeds Corporation Ltd | Redgram | TS-3R | 2950 | 13500 | | |
+| | Pallavi Agro Enterprises | Redgram | TS-3R | 45 | 13500 | | |
+| | Panchami Seeds Corporation | Redgram | TS-3R | 13 | 13500 | | |
+| | Prathibha Seeds Agency | Redgram | TS-3R | 36 | 13500 | | |
+| | Priya Agencies | Redgram | TS-3R | 50 | 13500 | | |
+| | Sangam Agrotech Enterprises | Redgram | TS-3R | 149 | 13500 | | |
+| | Sangameshwara Seeds | Redgram | TS-3R | 80 | 13500 | | |
+| | Shanti Trading Company | Redgram | TS-3R | 90 | 13500 | | |
+| | Shiva Hybrid Seeds | Redgram | TS-3R | 20 | 13500 | | |
+| | Sri Amareshwara Seeds | Redgram | TS-3R | 130 | 13500 | | |
+| | Sri Raghavendra Agro Service | Redgram | TS-3R | 28 | 13500 | | |
+| | Sri Revanasiddeshwara Krishi Kendra | Redgram | TS-3R | 15 | 13500 | | |
+| | Sri Sai Agro Agencies | Redgram | TS-3R | 129 | 13500 | | |
+| | Sri Sai Agro Seeds | Redgram | TS-3R | 150 | 13500 | | |
+| | Varada Seeds Farm | Redgram | TS-3R | 125 | 13500 | | |
+| | Varun Hybrid Seeds | Redgram | TS-3R | 135 | 13500 | | |
+| | Vinutha Hybrid seeds | Redgram | TS-3R | 13 | 13500 | | |
+| | **Crop Total** | | | **40741** | | | |
+| | **Grand Total** | | | **185999** | **187701** | **0** | |
+
+**Note:** Less than 5 & less than 10 Year old varieties of Certified seeds to be distributed for demonstration under NMEO-OS and FNS schemes as per the guidelines
+
+(Signature)
+**Director of Agriculture**
+
+***
+
+### 2. English Translation
+
+**Handwritten numeral:**
+Page 4
+
+| Sl. No. | Supplier Name | Crops | Variety/ Hybrid | Kharif 2025 Certified | | Kharif 2025 Truthfully Labelled | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | | | | **Accepted Quantity** | **Accepted Rate** | **Accepted Quantity** | **Accepted Rate** |
+| | Sri Sai Agro Seeds | Redgram | GRG-152 | 16 | 14,500 | | |
+| | Varada Seeds Farm | Redgram | GRG-152 | 18 | 14,500 | | |
+| | Varun Hybrid Seeds | Redgram | GRG-152 | 72 | 14,500 | | |
+| | Karnataka State Seeds Corporation | Redgram | GRG-811 | 11,120 | 14,500 | | |
+| | National Seeds Corporation Ltd | Redgram | GRG-811 | 500 | 14,500 | | |
+| | Shanti Trading Company | Redgram | GRG-811 | 29 | 14,500 | | |
+| | Sri Amareshwara Seeds | Redgram | GRG-811 | 22 | 14,500 | | |
+| | Sri Madiwaleshwara Seeds | Redgram | GRG-811 | 16 | 14,500 | | |
+| | Sri Raghavendra Agro Service | Redgram | GRG-811 | 30 | 14,500 | | |
+| | Sri Sai Agro Agencies | Redgram | GRG-811 | 19 | 14,500 | | |
+| | Sri Sai Agro Seeds | Redgram | GRG-811 | 40 | 14,500 | | |
+| | Varada Seeds Farm | Redgram | GRG-811 | 20 | 14,500 | | |
+| | Varun Hybrid Seeds | Redgram | GRG-811 | 54 | 14,500 | | |
+| | National Seeds Corporation Ltd | Redgram | LRG-133-33 | 555 | 14,500 | | |
+| | Agro Seeds Corporation | Redgram | TS-3R | 15 | 13,500 | | |
+| | Karnataka State Seeds Corporation | Redgram | TS-3R | 10,175 | 13,500 | | |
+| | Laxmi Agro Seeds and Services | Redgram | TS-3R | 36 | 13,500 | | |
+| | National Seeds Corporation Ltd | Redgram | TS-3R | 2,950 | 13,500 | | |
+| | Pallavi Agro Enterprises | Redgram | TS-3R | 45 | 13,500 | | |
+| | Panchami Seeds Corporation | Redgram | TS-3R | 13 | 13,500 | | |
+| | Prathibha Seeds Agency | Redgram | TS-3R | 36 | 13,500 | | |
+| | Priya Agencies | Redgram | TS-3R | 50 | 13,500 | | |
+| | Sangam Agrotech Enterprises | Redgram | TS-3R | 149 | 13,500 | | |
+| | Sangameshwara Seeds | Redgram | TS-3R | 80 | 13,500 | | |
+| | Shanti Trading Company | Redgram | TS-3R | 90 | 13,500 | | |
+| | Shiva Hybrid Seeds | Redgram | TS-3R | 20 | 13,500 | | |
+| | Sri Amareshwara Seeds | Redgram | TS-3R | 130 | 13,500 | | |
+| | Sri Raghavendra Agro Service | Redgram | TS-3R | 28 | 13,500 | | |
+| | Sri Revanasiddeshwara Krishi Kendra | Redgram | TS-3R | 15 | 13,500 | | |
+| | Sri Sai Agro Agencies | Redgram | TS-3R | 129 | 13,500 | | |
+| | Sri Sai Agro Seeds | Redgram | TS-3R | 150 | 13,500 | | |
+| | Varada Seeds Farm | Redgram | TS-3R | 125 | 13,500 | | |
+| | Varun Hybrid Seeds | Redgram | TS-3R | 135 | 13,500 | | |
+| | Vinutha Hybrid Seeds | Redgram | TS-3R | 13 | 13,500 | | |
+| | **Crop Total** | | | **40,741** | | | |
+| | **Grand Total** | | | **185,999** | **187,701*** | **0** | |
+
+*\*Note: The value 187,701 is positioned under the Grand Total line in the 'Accepted Rate' column. Its exact meaning is unclear from this page alone.*
+
+**Note:** Certified seed varieties that are less than 5 and less than 10 years old are to be distributed for demonstration purposes under the NMEO-OS (National Mission on Edible Oils - Oil Seeds) and FNS (Food and Nutrition Security) schemes, as per the guidelines.
+
+(Signature)
+**Director of Agriculture**
+
+--- Page 10 ---
+Here is the OCR extraction, correction, and translation of the provided Kannada document.
+
+### **1. Corrected Kannada Text (ಕನ್ನಡ ಪಠ್ಯ)**
+
+**ಅನುಬಂಧ -2**
+
+2025ರ ಮುಂಗಾರು ಹಂಗಾಮಿನಲ್ಲಿ, ರಿಯಾಯಿತಿ ದರದಲ್ಲಿ, ಬಿತ್ತನೆ ಬೀಜ ವಿತರಣೆಗೆ ನಿಗದಿಪಡಿಸಲಾದ ಬೆಳೆವಾರು ರಿಯಾಯಿತಿ ದರದ ವಿವರ
+
+| ಕ್ರ. ಸಂ. | ಬೆಳೆ | ವಿವರ | ದರ | ರಿಯಾಯಿತಿ ದರ (ಪ್ರತಿ ಕೆ.ಜಿ ಗೆ ರೂ.ಗಳಲ್ಲಿ) |
+| :--- | :--- | :--- | :--- | :--- |
+| | | | | **ಸಾಮಾನ್ಯ** | **ಪ.ಜಾತಿ/ಪ.ಪಂಗಡ** |
+| 1 | ಭತ್ತ | ಸಾಮಾನ್ಯ ತಳಿ | ಮೂಲಬೀಜ | 8.00 | 12.00 |
+| | | | ನಿಬಂಧಿತ | 7.00 | 10.50 |
+| 2 | ರಾಗಿ | ಸಂಕರ | ಮೂಲಬೀಜ | 65.00 | 97.50 |
+| | | | ನಿಬಂಧಿತ | 55.00 | 82.50 |
+| 3 | ಉದ್ದ | ಸಾಮಾನ್ಯ ತಳಿ | ಮೂಲಬೀಜ | 18.00 | 27.00 |
+| | | | ನಿಬಂಧಿತ | 17.00 | 25.50 |
+| 4 | ಹೆಸರು | ಸಾಮಾನ್ಯ ತಳಿ | ಮೂಲಬೀಜ | 25.00 | 37.50 |
+| | | | ನಿಬಂಧಿತ | 24.00 | 36.00 |
+| 5 | ಅಲಸಂದೆ | ಸಾಮಾನ್ಯ ತಳಿ | ಮೂಲಬೀಜ | 25.00 | 37.50 |
+| | | | ನಿಬಂಧಿತ | 24.00 | 36.00 |
+| 6 | ಸೂರ್ಯಕಾಂತಿ | ಸಾಮಾನ್ಯ ತಳಿ (ಪರಾಗ ಸ್ಪರ್ಶ) | ಮೂಲಬೀಜ | 18.00 | 27.00 |
+| | | | ನಿಬಂಧಿತ | 17.00 | 25.50 |
+| | | ಸಾಮಾನ್ಯ ತಳಿ | ಮೂಲಬೀಜ | 15.00 | 22.50 |
+| | | | ನಿಬಂಧಿತ | 14.00 | 21.00 |
+| 7 | ಸಜ್ಜೆ | ಸಾಮಾನ್ಯ ತಳಿ | ಮೂಲಬೀಜ | 15.00 | 22.50 |
+| | | ಸಂಕರ | ನಿಬಂಧಿತ | 25.00 | 37.50 |
+| 8 | ಮೆಕ್ಕೆ ಜೋಳ | ಸಂಕರ | ಮೂಲಬೀಜ | 20.00 | 30.00 |
+| 9 | ಶೇಂಗಾ (ಗುಚ್ಛ/ಹರವು) | ಸಾಮಾನ್ಯ ತಳಿ | ಮೂಲಬೀಜ | 18.00 | 27.00 |
+| | | | ನಿಬಂಧಿತ | 17.00 | 25.50 |
+
+(ಸಹಿ)
+**ಕೃಷಿ ನಿರ್ದೇಶಕರು**
+
+---
+
+### **2. English Translation**
+
+**Annexure - 2**
+
+Details of Crop-wise Subsidized Rates Fixed for Sowing Seed Distribution at Subsidized Rates during the 2025 Kharif Season
+
+| Sl. No. | Crop | Variety/Details | Seed Class | Subsidized Rate (in Rs. per Kg) |
+| :--- | :--- | :--- | :--- | :--- |
+| | | | | **General** | **SC/ST** |
+| 1 | Paddy | General Variety | Foundation Seed | 8.00 | 12.00 |
+| | | | Certified Seed | 7.00 | 10.50 |
+| 2 | Ragi (Finger Millet) | Hybrid | Foundation Seed | 65.00 | 97.50 |
+| | | | Certified Seed | 55.00 | 82.50 |
+| 3 | Black Gram | General Variety | Foundation Seed | 18.00 | 27.00 |
+| | | | Certified Seed | 17.00 | 25.50 |
+| 4 | Green Gram | General Variety | Foundation Seed | 25.00 | 37.50 |
+| | | | Certified Seed | 24.00 | 36.00 |
+| 5 | Cowpea | General Variety | Foundation Seed | 25.00 | 37.50 |
+| | | | Certified Seed | 24.00 | 36.00 |
+| 6 | Sunflower | General Variety (Pollinated) | Foundation Seed | 18.00 | 27.00 |
+| | | | Certified Seed | 17.00 | 25.50 |
+| | | General Variety | Foundation Seed | 15.00 | 22.50 |
+| | | | Certified Seed | 14.00 | 21.00 |
+| 7 | Pearl Millet | General Variety | Foundation Seed | 15.00 | 22.50 |
+| | | Hybrid | Certified Seed | 25.00 | 37.50 |
+| 8 | Maize (Corn) | Hybrid | Foundation Seed | 20.00 | 30.00 |
+| 9 | Groundnut (Bunch/Spreading) | General Variety | Foundation Seed | 18.00 | 27.00 |
+| | | | Certified Seed | 17.00 | 25.50 |
+
+(Signature)
+**Director of Agriculture**
+
+--- Page 11 ---
+Of course. Here is the meticulous OCR, correction, and translation of the provided document.
+
+### 1. Corrected Kannada Text
+
+**ಅನುಬಂಧ-3**
+**List of Seed Suppliers during Kharif-2025**
+
+| SL. NO. | NAME OF THE COMPANY | MOBILE NO | e-Mail |
+| :--- | :--- | :--- | :--- |
+| 1 | ADVANTA ENTERPRISES LIMITED, E-35 & E-37, APMC YARD, E BLOCK, OPP. JIP OIL GODOWN, DAVANGERE - 577003 V.PAUL AUSTIN | 9448283129 | paul.austin@advantaseeds.com |
+| 2 | AGARWAL AGRO AGENCIES, D/112 SHINDE COMPLEX, NEELIGIN ROAD HUBLI-580029 | 9448112901 | aaahubli@gmail.com |
+| 3 | M/S AGRO DISTRIBUTORS, CHIKKAVEERANNAWAR COMPLEX, NEELGIN ROAD, HUBLI-29 CONTACT PERSON : NAGABHUSHAN BANNIGIDAMATH | 9008203429 | agrodistributors@gmail.com |
+| 4 | AGRO SEEDS CORPORATION #619 M C LAYOUT NEAR BETHUR HALLA BRIDGE BETHURU RING ROAD JAGALUR MAIN ROAD DAVANGERE, NAME S C NAGARAJ | 9845472073 | agroseeds97@Gmail.com |
+| 5 | AMITH SEEDS #60, SHIVAJI CHOWK, KHANDWA (M.P) CONTACT PERSON : AMITH AGARWAL | 7204080121 | amigarg@gmail.com |
+| 6 | ARUNODAYA SEEDS PRIVATE LIMITED, NO 4/5 1 ST MAIN 4 TH CROSS OPP OLD GYM MARUTHI NAGAR YELAHANKA BANGALORE 560064 CONTACT PERSON : P B SRINIVASA REDDY | 9449813719 | arunodayaseeds@yahoo.com |
+| 7 | ASHA AGRISCIENCES PRIVATE LIMITED # NO.868/1-11-ASHANKAR VIHAR BADAVANE, PB ROAD, BEHIND SHREE MALLIKARJUNA ITI COLLEGE, DAVANGERE-577006 | 9886468989 | tammanagouda.p@yangantiseeds.in |
+| 8 | ASHWIN SEEDS, SURVEY NO: 117/B, GUTTAL ROAD, GUDDADANNVERI VILLAGE, PO & TQ: RANIBENNUR-581115. ASHWIN BIRADAR | 9113052690, 9844132589 | ashwinseeds.rnr@gmail.com |
+| 9 | ATLAS SEEDS AND BIOTECH G1 karmveer complex, Badabom, KHANDWA (M P) Pin -450001 | 9448457301 / 9425342922 | svs.info@ymail.com |
+| 10 | BASEGANNI SEEDS FARM W.NO 15, BLOCK NO 4, SHOP NO 1, K.C.ROAD, BALLARI-583101 B.SURESH | 9448056225 | baseganniseedsfarm@gmail.com |
+| 11 | CHAROEN POKPHAND SEEDS INDIA PVT LTD #12/1, SRINIDHI LANDMARK,NEW THIPPASANDRA,HAL 3RD STAGE,BANGALORE 560075 METHAR.P@CPSEEDS.IN | 9945230018 | methar.p@cpseeds.in |
+| 12 | GANGAKAVERI SEEDS PVT LTD 247, 13A CROSS BASAVANAPURA MAIN ROAD, NEAR CAMBRIDGE SCHOOL, KR PURAM BANGALORE 560036 M RAVIKUMAR | 9448001609 | mrravi.kumar@gangakaveri.in |
+| 13 | KARNATAKA CO OPERATIVE OILSEEDS GROWERS FEDERATION LIMITED, # 11 4TH FLOOR BLUE CROSS CHAMBERS INFANTRY ROAD BANGALORE -1 CONTACT PERSON : SURESH | 9591812050 | pl@kof.co.in, bvsuresh@kof.co.in |
+| 14 | KARNATAKA HITECH AGRO ENTERPRISES, PLOT NO M-5&M-6 INDUSTRIAL ESTATE HATALGERI NAKA GADAG - 582101 CONTACT PERSON : I L PATIL | 9448285802 | ilpatil1500@gmail.com |
+| 15 | KARNATAKA STATE SEEDS CORPORATION LTD, BEEJ BHAVAN BELLARY ROAD HEBBAL BANGALORE -24 CONTACT PERSON : RAMAKRISHNA | 9141013062 | mktg.kssc@gmail.com |
+| 16 | KAVERI SEED COMPANY LIMITED, NO:99/3A-9 & 10 DOGGALLI COMPOUND, K B EXTENSION, P B ROAD, DAVANGERE-577001 CONTACT PERSON : RAMESH N JOGI | 9448283215 | rameshjogi.n@kaveriseeds.in |
+| 17 | M/S KRISHI KANCHAN SEEDS 40, GANESH GANJ, NEAR BADA GANPATI INDORE (M.P.) 452002 | 9575251000, 8208529352 | krishikanchan@gmail.com |
+
+---
+
+### 2. English Translation
+
+**Annexure-3**
+**List of Seed Suppliers during Kharif-2025**
+
+| Sl. No. | Name of the Company | Mobile No. | E-mail |
+| :--- | :--- | :--- | :--- |
+| 1 | ADVANTA ENTERPRISES LIMITED, E-35 & E-37, APMC YARD, E BLOCK, OPP. JIP OIL GODOWN, DAVANGERE - 577003 V.PAUL AUSTIN | 9448283129 | paul.austin@advantaseeds.com |
+| 2 | AGARWAL AGRO AGENCIES, D/112 SHINDE COMPLEX, NEELIGIN ROAD HUBLI-580029 | 9448112901 | aaahubli@gmail.com |
+| 3 | M/S AGRO DISTRIBUTORS, CHIKKAVEERANNAWAR COMPLEX, NEELGIN ROAD, HUBLI-29 CONTACT PERSON: NAGABHUSHAN BANNIGIDAMATH | 9008203429 | agrodistributors@gmail.com |
+| 4 | AGRO SEEDS CORPORATION #619 M C LAYOUT NEAR BETHUR HALLA BRIDGE BETHURU RING ROAD JAGALUR MAIN ROAD DAVANGERE, NAME S C NAGARAJ | 9845472073 | agroseeds97@Gmail.com |
+| 5 | AMITH SEEDS #60, SHIVAJI CHOWK, KHANDWA (M.P) CONTACT PERSON: AMITH AGARWAL | 7204080121 | amigarg@gmail.com |
+| 6 | ARUNODAYA SEEDS PRIVATE LIMITED, NO 4/5 1ST MAIN 4TH CROSS OPP OLD GYM MARUTHI NAGAR YELAHANKA BANGALORE 560064 CONTACT PERSON: P B SRINIVASA REDDY | 9449813719 | arunodayaseeds@yahoo.com |
+| 7 | ASHA AGRISCIENCES PRIVATE LIMITED # NO.868/1-11-ASHANKAR VIHAR BADAVANE, PB ROAD, BEHIND SHREE MALLIKARJUNA ITI COLLEGE, DAVANGERE-577006 | 9886468989 | tammanagouda.p@yangantiseeds.in |
+| 8 | ASHWIN SEEDS, SURVEY NO: 117/B, GUTTAL ROAD, GUDDADANNVERI VILLAGE, PO & TQ: RANIBENNUR-581115. ASHWIN BIRADAR | 9113052690, 9844132589 | ashwinseeds.rnr@gmail.com |
+| 9 | ATLAS SEEDS AND BIOTECH G1 Karmveer Complex, Badabom, KHANDWA (M.P.) Pin - 450001 | 9448457301 / 9425342922 | svs.info@ymail.com |
+| 10 | BASEGANNI SEEDS FARM W.NO 15, BLOCK NO 4, SHOP NO 1, K.C.ROAD, BALLARI-583101 B.SURESH | 9448056225 | baseganniseedsfarm@gmail.com |
+| 11 | CHAROEN POKPHAND SEEDS INDIA PVT LTD #12/1, SRINIDHI LANDMARK, NEW THIPPASANDRA, HAL 3RD STAGE, BANGALORE 560075 METHAR.P@CPSEEDS.IN | 9945230018 | methar.p@cpseeds.in |
+| 12 | GANGAKAVERI SEEDS PVT LTD 247, 13A CROSS BASAVANAPURA MAIN ROAD, NEAR CAMBRIDGE SCHOOL, KR PURAM BANGALORE 560036 M RAVIKUMAR | 9448001609 | mrravi.kumar@gangakaveri.in |
+| 13 | KARNATAKA CO-OPERATIVE OILSEEDS GROWERS FEDERATION LIMITED, #11 4TH FLOOR BLUE CROSS CHAMBERS INFANTRY ROAD BANGALORE -1 CONTACT PERSON: SURESH | 9591812050 | pl@kof.co.in, bvsuresh@kof.co.in |
+| 14 | KARNATAKA HITECH AGRO ENTERPRISES, PLOT NO M-5&M-6 INDUSTRIAL ESTATE HATALGERI NAKA GADAG - 582101 CONTACT PERSON: I L PATIL | 9448285802 | ilpatil1500@gmail.com |
+| 15 | KARNATAKA STATE SEEDS CORPORATION LTD, BEEJ BHAVAN BELLARY ROAD HEBBAL BANGALORE -24 CONTACT PERSON: RAMAKRISHNA | 9141013062 | mktg.kssc@gmail.com |
+| 16 | KAVERI SEED COMPANY LIMITED, NO:99/3A-9 & 10 DOGGALLI COMPOUND, K B EXTENSION, P B ROAD, DAVANGERE-577001 CONTACT PERSON: RAMESH N JOGI | 9448283215 | rameshjogi.n@kaveriseeds.in |
+| 17 | M/S KRISHI KANCHAN SEEDS 40, GANESH GANJ, NEAR BADA GANPATI INDORE (M.P.) 452002 | 9575251000, 8208529352 | krishikanchan@gmail.com |
+
+--- Page 12 ---
+[Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 100
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 23
+}
+]]
+
+--- Page 13 ---
+[Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 100
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 11
+}
+]]
+
+--- Page 14 ---
+[Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 100
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 4
+}
+]]

@@ -1,0 +1,41 @@
+
+--- Page 1 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 2 ---
+[Error: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.]
+
+--- Page 3 ---
+Based on the provided image of the Kannada government document, here is the OCR extraction, correction, and English translation.
+
+### **Corrected Kannada Text**
+
+2. ಸರ್ಕಾರದ ಆದೇಶ ಸಂಖ್ಯೆ: ಕಇ ೩೧ ಎಲ್‌ಆರ್‌ಎಂ ೨೦೧೬, ಬೆಂಗಳೂರು, ದಿನಾಂಕ:
+3. ಸರ್ಕಾರಿ ಆದೇಶ(ಲಗತ್ತು), ಅರ್ಹತೆ ನೀಡಿದ ಪ್ರಾಧಿಕಾರ
+~~4. ಕೃಷಿ ಆದಾಯ/ಕೃಷಿ ನಿರ್ವಹಣೆ, ಕೃಷಿ ಇಲಾಖೆ, ಬೆಂಗಳೂರು~~ (This line is struck out in the document)
+5. ನಿವೇಶನ ಪತ್ರ, ಗ್ರಾಮ ಪಂಚಾಯತ್, ನಿರ್ದಿಷ್ಟವಾಗಿ, ಸ್ಥಳೀಯ ಸಂಸ್ಥೆ, ಬೆಂಗಳೂರು
+6. ಒಂದೇ ನಿವೇಶನ, ಮಂಜೂರು ಮಾಡಿದ, ಬೆಂಗಳೂರು
+7. ಖಾಲಿ ನಿವೇಶನ, ಬಿ.ಡಿ.ಎ.ಯಿಂದ ಖರೀದಿ ಮಾಡಿದ, ಬೆಂಗಳೂರು
+8. ಖಾಸಗಿ ರಸ್ತೆ/ನಿವೇಶನಗಳಿಗೆ ಪತ್ರಗಳು
+
+**ಸೂಚನೆ:**
+1. ಮಾನ್ಯ ಕಂದಾಯ ಸಚಿವರು, ಕಾರ್ಯದರ್ಶಿ, ಕಂದಾಯ ಇಲಾಖೆ, ಬೆಂಗಳೂರು.
+2. ಸರ್ಕಾರದ ಕಾರ್ಯದರ್ಶಿಯವರ ಆಪ್ತ ಕಾರ್ಯದರ್ಶಿ, ಕಂದಾಯ ಇಲಾಖೆ, ಬೆಂಗಳೂರು.
+3. ಸರ್ಕಾರದ ಉಪ ಕಾರ್ಯದರ್ಶಿ-2 ಕಂದಾಯ ಇಲಾಖೆ, ಶಾಖಾ ಪ್ರತಿ.
+
+---
+
+### **English Translation**
+
+2. Government Order No: RD 31 LRM 2016, Bengaluru, Dated:
+3. Government Order (attachment), Authority that granted eligibility
+~~4. Agricultural income/Agricultural management, Department of Agriculture, Bengaluru~~ (This line is struck out in the document)
+5. Site document, Gram Panchayat, specifically, Local Body, Bengaluru
+6. (Regarding a) single sanctioned site, Bengaluru
+7. Vacant site, purchased from B.D.A. (Bangalore Development Authority), Bengaluru
+8. Documents for private roads/sites
+
+**Note:**
+1. The Hon'ble Revenue Minister, Secretary, Revenue Department, Bengaluru.
+2. Private Secretary to the Government Secretary, Revenue Department, Bengaluru.
+3. Deputy Secretary-2 to the Government, Revenue Department, Branch Copy.
